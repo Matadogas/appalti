@@ -65,3 +65,7 @@ registry = ScraperRegistry()
 from app.scrapers.sources.nyc_passport import NYCPassportScraper
 
 registry.register("nyc_passport", NYCPassportScraper)
+
+from app.scrapers.sources.nys_ogs import NYSOGSScraper
+
+registry.register("nys_ogs", NYSOGSScraper)

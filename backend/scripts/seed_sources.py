@@ -23,6 +23,14 @@ def seed_sources():
                 "active": True,
                 "config": {},
             },
+            {
+                "name": "NYS OGS Procurement",
+                "state": "NY",
+                "base_url": "https://online.ogs.ny.gov/purchase/spg/",
+                "scraper_class": "nys_ogs",
+                "active": True,
+                "config": {},
+            },
         ]
 
         for source_data in sources:
