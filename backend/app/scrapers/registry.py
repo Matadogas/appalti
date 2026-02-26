@@ -60,3 +60,8 @@ class ScraperRegistry:
 
 # Global registry instance
 registry = ScraperRegistry()
+
+# Import and register scrapers
+from app.scrapers.sources.nyc_passport import NYCPassportScraper
+
+registry.register("nyc_passport", NYCPassportScraper)
