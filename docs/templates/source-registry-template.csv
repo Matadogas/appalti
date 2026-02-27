@@ -1,0 +1,14 @@
+jurisdiction,entity_name,entity_type,portal_vendor,bid_list_url,base_domain,access_mode,requires_javascript,priority,expected_monthly_postings,discovery_method,verified_date,notes
+nyc,NYC PASSPort,City Procurement,passport,https://www1.nyc.gov/site/mocs/public-rfx/public-rfx.page,nyc.gov,public,true,10,50,directory,2026-02-27,Primary NYC procurement portal
+nj_state,NJ Treasury Purchase & Property,State Purchasing,custom_html,https://www.njstart.gov/bso/,njstart.gov,public,false,10,40,directory,2026-02-27,NJ state purchasing hub
+nj_state,NJSTART Public Search,State eProcurement,njstart,https://www.njstart.gov/bso/external/advanceSearch.sdo,njstart.gov,free_registration,true,10,60,directory,2026-02-27,NJ state eProcurement system
+nj_state,NJDOT Solicitations,Transportation Authority,bidexpress,https://www.bidexpress.com/businesses/20025/home,bidexpress.com,free_registration,true,9,30,directory,2026-02-27,All NJDOT bids via BidExpress
+nj_city,City of Newark,City Procurement,opengov,https://procure.cityofnewark.org/CurrentBids.aspx,cityofnewark.org,public,true,8,15,directory,2026-02-27,Uses OpenGov + ProcureNow
+nj_authority,NJ Economic Development Authority,State Authority,custom_html,https://www.njeda.gov/about/public-information/requests-for-proposals/,njeda.gov,public,false,7,5,directory,2026-02-27,Authority-specific portal
+nj_authority,NJ Transit,Transportation Authority,bidexpress,https://www.njtransit.com/business-center/solicitations,njtransit.com,public,true,8,20,directory,2026-02-27,Uses BidExpress for submissions
+nj_county,Bergen County,County Procurement,unknown,https://www.co.bergen.nj.us/procurement,co.bergen.nj.us,public,false,7,10,predictable_url,2026-02-27,Need to verify portal type
+nj_county,Hudson County,County Procurement,unknown,https://www.hudsoncountynj.org/purchasing,hudsoncountynj.org,public,false,6,8,predictable_url,2026-02-27,Simple HTML listing
+nj_city,Jersey City,City Procurement,demandstar,https://www.jerseycitynj.gov/city_hall/purchasing,jerseycitynj.gov,free_registration,true,7,12,directory,2026-02-27,Uses DemandStar platform
+ny_state,NYS OGS Procurement,State Purchasing,custom_html,https://online.ogs.ny.gov/purchase/spg/,ogs.ny.gov,public,false,9,35,directory,2026-02-27,NY State purchasing
+ny_county,Westchester County,County Procurement,unknown,https://www.westchestergov.com/purchasing,westchestergov.com,public,false,6,8,predictable_url,,,
+ny_county,Nassau County,County Procurement,unknown,https://www.nassaucountyny.gov/procurement,nassaucountyny.gov,public,false,6,10,predictable_url,,,

@@ -1,0 +1,8 @@
+entity_name,week_start,week_end,expected_count,actual_count,variance_pct,scrape_attempts,scrape_successes,scrape_failures,is_anomaly,anomaly_details,manually_verified,manual_count,match_accuracy_pct,notes
+NYC PASSPort,2026-02-24,2026-02-28,50,48,-4.0,7,7,0,ok,,,,,All scrapes successful
+NJ Treasury,2026-02-24,2026-02-28,40,0,-100.0,7,0,7,zero_results,Scraper broken - selector changed,,,,Need to fix scraper urgently
+NJDOT,2026-02-24,2026-02-28,30,32,6.7,7,7,0,ok,,2026-02-27,32,100.0,Manually verified - counts match
+City of Newark,2026-02-24,2026-02-28,15,8,-46.7,7,7,0,low_count,Only 8 tenders vs 15 expected,,,,May be legitimately low week
+NJ Transit,2026-02-24,2026-02-28,20,21,5.0,7,7,0,ok,,,,,Normal variance
+Bergen County,2026-02-24,2026-02-28,10,10,0.0,7,6,1,ok,One timeout - retried successfully,,,,
+Hudson County,2026-02-24,2026-02-28,8,25,212.5,7,7,0,high_count,Much higher than expected - may be backlog posted,,,,Investigate for duplicates

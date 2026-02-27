@@ -1,0 +1,44 @@
+jurisdiction_type,entity_name,procurement_page_found,procurement_url,portal_vendor_detected,priority,added_to_registry,verified,notes
+nj_county,Atlantic County,yes,https://www.atlantic-county.org/procurement,custom_html,6,no,no,Simple HTML listing page
+nj_county,Burlington County,yes,https://www.co.burlington.nj.us/purchasing,unknown,6,no,no,Need to investigate portal type
+nj_county,Camden County,yes,https://www.camdencounty.com/service/purchasing/,custom_html,6,no,no,Basic procurement page
+nj_county,Cape May County,yes,https://www.capemaycountynj.gov/procurement,unknown,5,no,no,Low priority - smaller county
+nj_county,Cumberland County,searching,,unknown,5,no,no,Need to find procurement page
+nj_county,Essex County,yes,https://www.essexcountynj.org/purchasing,unknown,7,no,no,High priority - large county
+nj_county,Gloucester County,yes,https://www.gloucestercountynj.gov/procurement,custom_html,6,no,no,
+nj_county,Mercer County,yes,https://www.mercercounty.org/departments/purchasing,unknown,7,no,no,Includes Trenton area
+nj_county,Middlesex County,yes,https://www.middlesexcountynj.gov/government/departments/purchasing,unknown,7,no,no,Large county - high priority
+nj_county,Monmouth County,yes,https://www.visitmonmouth.com/government/purchasing,unknown,6,no,no,
+nj_county,Morris County,yes,https://www.morriscountynj.gov/Departments/Purchasing,unknown,6,no,no,
+nj_county,Ocean County,yes,https://www.planning.co.ocean.nj.us/purchasing,custom_html,6,no,no,
+nj_county,Passaic County,yes,https://www.passaiccountynj.org/government/departments/purchasing,unknown,7,no,no,Includes Paterson area
+nj_county,Salem County,searching,,unknown,4,no,no,Low priority
+nj_county,Somerset County,yes,https://www.co.somerset.nj.us/purchasing,custom_html,6,no,no,
+nj_county,Sussex County,searching,,unknown,4,no,no,Low priority
+nj_county,Union County,yes,https://ucnj.org/departments/purchasing/,unknown,7,no,no,Includes Elizabeth
+nj_county,Warren County,searching,,unknown,4,no,no,Low priority
+nj_city,Elizabeth,yes,https://www.elizabethnj.org/departments/purchasing,unknown,7,no,no,3rd largest NJ city
+nj_city,Paterson,yes,https://www.patersonnj.gov/departments/purchasing,custom_html,7,no,no,3rd largest NJ city
+nj_city,Edison,yes,https://www.edisonnj.org/departments/purchasing,unknown,6,no,no,
+nj_city,Woodbridge,yes,https://www.twp.woodbridge.nj.us/departments/purchasing,custom_html,6,no,no,
+nj_city,Trenton,yes,https://www.trentonnj.org/departments/purchasing,unknown,7,no,no,State capital
+nj_city,Clifton,yes,https://www.cliftonnj.org/departments/purchasing,unknown,6,no,no,
+nj_city,Camden,yes,https://www.ci.camden.nj.us/departments/purchasing,unknown,6,no,no,
+nj_school_district,Newark Public Schools,yes,https://www.nps.k12.nj.us/departments/business-administration/,custom_html,5,no,no,Large school district
+nj_school_district,Jersey City Public Schools,yes,https://www.jcboe.org/departments/purchasing,custom_html,5,no,no,
+nj_school_district,Paterson Public Schools,searching,,unknown,5,no,no,
+nj_authority,NJ Sports & Exposition Authority,yes,https://www.njsea.com/business-opportunities/,custom_html,5,no,no,
+nj_authority,Port Authority NY/NJ,yes,https://www.panynj.gov/corporate-information/en/business-opportunities.html,custom_html,8,no,no,Major authority
+nj_authority,NJ Turnpike Authority,yes,https://www.njta.com/business-opportunities,custom_html,7,no,no,
+ny_county,Bronx County,searching,,unknown,8,no,no,NYC borough
+ny_county,Kings County (Brooklyn),searching,,unknown,8,no,no,NYC borough
+ny_county,Queens County,searching,,unknown,8,no,no,NYC borough
+ny_county,Richmond County (Staten Island),searching,,unknown,8,no,no,NYC borough
+ny_county,Westchester County,yes,https://www.westchestergov.com/purchasing,unknown,7,yes,no,Already in registry
+ny_county,Nassau County,yes,https://www.nassaucountyny.gov/procurement,unknown,7,yes,no,Already in registry
+ny_county,Suffolk County,yes,https://www.suffolkcountyny.gov/departments/purchasing,unknown,7,no,no,
+ny_county,Rockland County,yes,https://rocklandgov.com/departments/purchasing/,custom_html,6,no,no,
+ny_county,Orange County,yes,https://www.orangecountygov.com/departments/purchasing,unknown,6,no,no,
+ny_county,Dutchess County,yes,https://www.dutchessny.gov/Departments/Central-Services/Purchasing-Division.htm,custom_html,5,no,no,
+ny_county,Erie County,yes,https://www2.erie.gov/exec/index.php?q=purchasing,custom_html,6,no,no,Buffalo area
+ny_county,Monroe County,yes,https://www.monroecounty.gov/purchasing,custom_html,6,no,no,Rochester area
