@@ -1,0 +1,2752 @@
+{
+  "scrapedAt": "2026-02-26T21:18:43.492117",
+  "totalCount": 104,
+  "sourceCounts": {
+    "Port Authority of NY & NJ": 75,
+    "NYC PASSPort": 15,
+    "NYS OGS Procurement": 14
+  },
+  "tenders": [
+    {
+      "id": "95a207df6a71",
+      "title": "Bid # 6000003077 - Inspection, Maintenance, Testing, And Repairs Of Aquafence Flood Barrier System At Holland Tunnel- Two (2) Year Requirements Contract",
+      "agency": "Port Authority of NY & NJ",
+      "state": "NY",
+      "city": "New York",
+      "category": "engineering",
+      "status": "active",
+      "dueDate": "2026-02-27",
+      "publishDate": null,
+      "sourceUrl": "https://panynj.bonfirehub.com/opportunities/208309",
+      "source": "Port Authority of NY & NJ",
+      "description": "",
+      "rawRef": {
+        "reference_number": "Bid # 6000003077",
+        "bonfire_id": "208309",
+        "raw": {
+          "ProjectID": "208309",
+          "PrivateProjectID": "47648abc49e17a42d4bfef5c8139c34d",
+          "ReferenceID": "Bid # 6000003077",
+          "ProjectStatusID": "2",
+          "ProjectSubStatusID": "1",
+          "ProjectVisibilityID": "1",
+          "ProjectName": "Bid # 6000003077 - Inspection, Maintenance, Testing, And Repairs Of Aquafence Flood Barrier System At Holland Tunnel- Two (2) Year Requirements Contract",
+          "DateClose": "2026-02-27 16:00:00",
+          "DepartmentID": "2293"
+        }
+      }
+    },
+    {
+      "id": "b15277a59a30",
+      "title": "RFQS # 59109 - OPEN - RFQS # 59109 - MASTER AGREEMENTS FOR GENERAL CONSTRUCTION SERVICES ON A WORK ORDER BASIS \u2013 JOHN F. KENNEDY (JFK) REDEVELOPMENT PROGRAM - OPEN",
+      "agency": "Port Authority of NY & NJ",
+      "state": "NY",
+      "city": "New York",
+      "category": "construction",
+      "status": "active",
+      "dueDate": "2026-02-27",
+      "publishDate": null,
+      "sourceUrl": "https://panynj.bonfirehub.com/opportunities/221020",
+      "source": "Port Authority of NY & NJ",
+      "description": "",
+      "rawRef": {
+        "reference_number": "RFQS # 59109 - OPEN",
+        "bonfire_id": "221020",
+        "raw": {
+          "ProjectID": "221020",
+          "PrivateProjectID": "9fd4ed0948e722f80501789aae9eecaa",
+          "ReferenceID": "RFQS # 59109 - OPEN",
+          "ProjectStatusID": "2",
+          "ProjectSubStatusID": "1",
+          "ProjectVisibilityID": "1",
+          "ProjectName": "RFQS # 59109 - MASTER AGREEMENTS FOR GENERAL CONSTRUCTION SERVICES ON A WORK ORDER BASIS \u2013 JOHN F. KENNEDY (JFK) REDEVELOPMENT PROGRAM - OPEN",
+          "DateClose": "2026-02-27 19:00:00",
+          "DepartmentID": "2296"
+        }
+      }
+    },
+    {
+      "id": "8aaf70d9fbf0",
+      "title": "WTC-744.003A (RFx 7*744) - (ADV) - World Trade Center - Elevators, Escalators, and Elevator Machine Rooms Upgrades",
+      "agency": "Port Authority of NY & NJ",
+      "state": "NY",
+      "city": "New York",
+      "category": "facilities",
+      "status": "active",
+      "dueDate": "2026-03-04",
+      "publishDate": null,
+      "sourceUrl": "https://panynj.bonfirehub.com/opportunities/217707",
+      "source": "Port Authority of NY & NJ",
+      "description": "",
+      "rawRef": {
+        "reference_number": "WTC-744.003A (RFx 7*744)",
+        "bonfire_id": "217707",
+        "raw": {
+          "ProjectID": "217707",
+          "PrivateProjectID": "7991e86084a514eb150948e101dd2d12",
+          "ReferenceID": "WTC-744.003A (RFx 7*744)",
+          "ProjectStatusID": "2",
+          "ProjectSubStatusID": "1",
+          "ProjectVisibilityID": "1",
+          "ProjectName": "WTC-744.003A (RFx 7*744) - (ADV) - World Trade Center - Elevators, Escalators, and Elevator Machine Rooms Upgrades",
+          "DateClose": "2026-03-04 19:30:00",
+          "DepartmentID": "2296"
+        }
+      }
+    },
+    {
+      "id": "9b140d79b6a9",
+      "title": "Bid # 6000003223 - Electrical Maintenance Services on a Work Order Basis at Port Authority Facilities Located in New York \u2013 Three (3) Year Contract",
+      "agency": "Port Authority of NY & NJ",
+      "state": "NY",
+      "city": "New York",
+      "category": "facilities",
+      "status": "active",
+      "dueDate": "2026-03-12",
+      "publishDate": null,
+      "sourceUrl": "https://panynj.bonfirehub.com/opportunities/224350",
+      "source": "Port Authority of NY & NJ",
+      "description": "",
+      "rawRef": {
+        "reference_number": "Bid # 6000003223",
+        "bonfire_id": "224350",
+        "raw": {
+          "ProjectID": "224350",
+          "PrivateProjectID": "208922e8a03fe34b9ebaa5b63c026b14",
+          "ReferenceID": "Bid # 6000003223",
+          "ProjectStatusID": "2",
+          "ProjectSubStatusID": "1",
+          "ProjectVisibilityID": "1",
+          "ProjectName": "Bid # 6000003223 - Electrical Maintenance Services on a Work Order Basis at Port Authority Facilities Located in New York \u2013 Three (3) Year Contract",
+          "DateClose": "2026-03-12 15:00:00",
+          "DepartmentID": "2293"
+        }
+      }
+    },
+    {
+      "id": "0104d9ea9b66",
+      "title": "Bid # 6000003218 - Provide Same-Day Courier Service for The Port Authority of New York and New Jersey \u2013 Three (3) Year Requirements Contract",
+      "agency": "Port Authority of NY & NJ",
+      "state": "NY",
+      "city": "New York",
+      "category": "other",
+      "status": "active",
+      "dueDate": "2026-03-12",
+      "publishDate": null,
+      "sourceUrl": "https://panynj.bonfirehub.com/opportunities/224275",
+      "source": "Port Authority of NY & NJ",
+      "description": "",
+      "rawRef": {
+        "reference_number": "Bid # 6000003218",
+        "bonfire_id": "224275",
+        "raw": {
+          "ProjectID": "224275",
+          "PrivateProjectID": "f030f9bd204526f8ea086b0539c716b5",
+          "ReferenceID": "Bid # 6000003218",
+          "ProjectStatusID": "2",
+          "ProjectSubStatusID": "1",
+          "ProjectVisibilityID": "1",
+          "ProjectName": "Bid # 6000003218 - Provide Same-Day Courier Service for The Port Authority of New York and New Jersey \u2013 Three (3) Year Requirements Contract",
+          "DateClose": "2026-03-12 15:00:00",
+          "DepartmentID": "2293"
+        }
+      }
+    },
+    {
+      "id": "54920c99592a",
+      "title": "WTC-104.001 (RFx 7*754) - (ADV) - World Trade Center - Vehicle Barrier Replacement at Liberty Street Firehouse 10 and VSC Entrance",
+      "agency": "Port Authority of NY & NJ",
+      "state": "NY",
+      "city": "New York",
+      "category": "other",
+      "status": "active",
+      "dueDate": "2026-03-12",
+      "publishDate": null,
+      "sourceUrl": "https://panynj.bonfirehub.com/opportunities/223135",
+      "source": "Port Authority of NY & NJ",
+      "description": "",
+      "rawRef": {
+        "reference_number": "WTC-104.001 (RFx 7*754)",
+        "bonfire_id": "223135",
+        "raw": {
+          "ProjectID": "223135",
+          "PrivateProjectID": "4d5fe169a3c1c99b122e6c882b154d2e",
+          "ReferenceID": "WTC-104.001 (RFx 7*754)",
+          "ProjectStatusID": "2",
+          "ProjectSubStatusID": "1",
+          "ProjectVisibilityID": "1",
+          "ProjectName": "WTC-104.001 (RFx 7*754) - (ADV) - World Trade Center - Vehicle Barrier Replacement at Liberty Street Firehouse 10 and VSC Entrance",
+          "DateClose": "2026-03-12 18:30:00",
+          "DepartmentID": "2296"
+        }
+      }
+    },
+    {
+      "id": "abebfbaac3d1",
+      "title": "Bid # 6000003222 - Supply & Deliver Tunnel Ventilation Fans for Lincoln Tunnel",
+      "agency": "Port Authority of NY & NJ",
+      "state": "NY",
+      "city": "New York",
+      "category": "other",
+      "status": "active",
+      "dueDate": "2026-03-13",
+      "publishDate": null,
+      "sourceUrl": "https://panynj.bonfirehub.com/opportunities/224328",
+      "source": "Port Authority of NY & NJ",
+      "description": "",
+      "rawRef": {
+        "reference_number": "Bid # 6000003222",
+        "bonfire_id": "224328",
+        "raw": {
+          "ProjectID": "224328",
+          "PrivateProjectID": "5d520a756af7f5dd2fade38371d7c302",
+          "ReferenceID": "Bid # 6000003222",
+          "ProjectStatusID": "2",
+          "ProjectSubStatusID": "1",
+          "ProjectVisibilityID": "1",
+          "ProjectName": "Bid # 6000003222 - Supply & Deliver Tunnel Ventilation Fans for Lincoln Tunnel",
+          "DateClose": "2026-03-13 15:00:00",
+          "DepartmentID": "2293"
+        }
+      }
+    },
+    {
+      "id": "570c659d063d",
+      "title": "Bid # - 6000003209 - Bid # 6000003209 - Asphalt And Concrete Delivery, Installation And Paving And Patching Services For The New Jersey Marine Terminals \u2013 Two-Year Requirements Contract",
+      "agency": "Port Authority of NY & NJ",
+      "state": "NY",
+      "city": "New York",
+      "category": "construction",
+      "status": "active",
+      "dueDate": "2026-03-13",
+      "publishDate": null,
+      "sourceUrl": "https://panynj.bonfirehub.com/opportunities/224320",
+      "source": "Port Authority of NY & NJ",
+      "description": "",
+      "rawRef": {
+        "reference_number": "Bid # - 6000003209",
+        "bonfire_id": "224320",
+        "raw": {
+          "ProjectID": "224320",
+          "PrivateProjectID": "d861436d18c85d244c11eb2268a7d57f",
+          "ReferenceID": "Bid # - 6000003209",
+          "ProjectStatusID": "2",
+          "ProjectSubStatusID": "1",
+          "ProjectVisibilityID": "1",
+          "ProjectName": "Bid # 6000003209 - Asphalt And Concrete Delivery, Installation And Paving And Patching Services For The New Jersey Marine Terminals \u2013 Two-Year Requirements Contract",
+          "DateClose": "2026-03-13 15:00:00",
+          "DepartmentID": "2293"
+        }
+      }
+    },
+    {
+      "id": "bbb70026e6b0",
+      "title": "EWR-154.942 (7*746) - (ADV)  - Newark Liberty International Airport - Terminal B - Baggage Screening System Replacement",
+      "agency": "Port Authority of NY & NJ",
+      "state": "NY",
+      "city": "New York",
+      "category": "other",
+      "status": "active",
+      "dueDate": "2026-03-17",
+      "publishDate": null,
+      "sourceUrl": "https://panynj.bonfirehub.com/opportunities/222496",
+      "source": "Port Authority of NY & NJ",
+      "description": "",
+      "rawRef": {
+        "reference_number": "EWR-154.942 (7*746)",
+        "bonfire_id": "222496",
+        "raw": {
+          "ProjectID": "222496",
+          "PrivateProjectID": "6a4fa61f53199bd9cae8fee60cc0dfdc",
+          "ReferenceID": "EWR-154.942 (7*746)",
+          "ProjectStatusID": "2",
+          "ProjectSubStatusID": "1",
+          "ProjectVisibilityID": "1",
+          "ProjectName": "EWR-154.942 (7*746) - (ADV)  - Newark Liberty International Airport - Terminal B - Baggage Screening System Replacement",
+          "DateClose": "2026-03-17 18:30:00",
+          "DepartmentID": "2296"
+        }
+      }
+    },
+    {
+      "id": "e239db54aa2f",
+      "title": "RFQ # 6000001388 - RFQ #6000001388 - Request for Qualifications (RFQ) for the Port Authority Trans-Hudson (PATH) TAPP Fare Gate Replacement Project.",
+      "agency": "Port Authority of NY & NJ",
+      "state": "NY",
+      "city": "New York",
+      "category": "other",
+      "status": "active",
+      "dueDate": "2026-04-06",
+      "publishDate": null,
+      "sourceUrl": "https://panynj.bonfirehub.com/opportunities/220542",
+      "source": "Port Authority of NY & NJ",
+      "description": "",
+      "rawRef": {
+        "reference_number": "RFQ # 6000001388",
+        "bonfire_id": "220542",
+        "raw": {
+          "ProjectID": "220542",
+          "PrivateProjectID": "dde7b965ea98a3734ecba241de44a1f5",
+          "ReferenceID": "RFQ # 6000001388",
+          "ProjectStatusID": "2",
+          "ProjectSubStatusID": "1",
+          "ProjectVisibilityID": "1",
+          "ProjectName": "RFQ #6000001388 - Request for Qualifications (RFQ) for the Port Authority Trans-Hudson (PATH) TAPP Fare Gate Replacement Project.",
+          "DateClose": "2026-04-06 18:00:00",
+          "DepartmentID": "2297"
+        }
+      }
+    },
+    {
+      "id": "d29546526f2a",
+      "title": "MCP-254.261 (RFx 7*747) - (FTA) - (ADV) - Port Authority Bus Terminal - Midtown Bus Terminal Replacement - Early Action ITS Via Work Order",
+      "agency": "Port Authority of NY & NJ",
+      "state": "NY",
+      "city": "New York",
+      "category": "other",
+      "status": "active",
+      "dueDate": "2026-04-14",
+      "publishDate": null,
+      "sourceUrl": "https://panynj.bonfirehub.com/opportunities/222786",
+      "source": "Port Authority of NY & NJ",
+      "description": "",
+      "rawRef": {
+        "reference_number": "MCP-254.261 (RFx 7*747)",
+        "bonfire_id": "222786",
+        "raw": {
+          "ProjectID": "222786",
+          "PrivateProjectID": "ad5c8ac97955df812f6edc1c2b3c49a0",
+          "ReferenceID": "MCP-254.261 (RFx 7*747)",
+          "ProjectStatusID": "2",
+          "ProjectSubStatusID": "1",
+          "ProjectVisibilityID": "1",
+          "ProjectName": "MCP-254.261 (RFx 7*747)  - (FTA) - (ADV) - Port Authority Bus Terminal - Midtown Bus Terminal Replacement - Early Action ITS Via Work Order",
+          "DateClose": "2026-04-14 18:30:00",
+          "DepartmentID": "2296"
+        }
+      }
+    },
+    {
+      "id": "c39e9565909c",
+      "title": "RFP# 6000000285  - OPEN - (RFP# 6000000285) PERFORMANCE OF EXPERT PROFESSIONAL LAND SURVEYING - UTILITY   LOCATING AND MARKING/DESIGNATING \u201c1-CALL MARK-OUT\u201d SERVICES AS REQUESTED ON A \u201cCALL-IN\u201d BASIS DURING 2021 THROUGH 2024.  - OPEN",
+      "agency": "Port Authority of NY & NJ",
+      "state": "NY",
+      "city": "New York",
+      "category": "engineering",
+      "status": "active",
+      "dueDate": "2026-04-30",
+      "publishDate": null,
+      "sourceUrl": "https://panynj.bonfirehub.com/opportunities/113019",
+      "source": "Port Authority of NY & NJ",
+      "description": "",
+      "rawRef": {
+        "reference_number": "RFP# 6000000285  - OPEN",
+        "bonfire_id": "113019",
+        "raw": {
+          "ProjectID": "113019",
+          "PrivateProjectID": "513e7c63912361d8a1d4bc38e4298e04",
+          "ReferenceID": "RFP# 6000000285  - OPEN",
+          "ProjectStatusID": "2",
+          "ProjectSubStatusID": "1",
+          "ProjectVisibilityID": "1",
+          "ProjectName": "(RFP# 6000000285) PERFORMANCE OF EXPERT PROFESSIONAL LAND SURVEYING - UTILITY   LOCATING AND MARKING/DESIGNATING \u201c1-CALL MARK-OUT\u201d SERVICES AS REQUESTED ON A \u201cCALL-IN\u201d BASIS DURING 2021 THROUGH 2024. ",
+          "DateClose": "2026-04-30 18:00:00",
+          "DepartmentID": "2295"
+        }
+      }
+    },
+    {
+      "id": "22dba6761d94",
+      "title": "RFP# 6000000850 - OPEN - RFP# 6000000850 - Request for Proposals for Performance of Expert Professional Services for Transportation Analysis and Data Collection as requested on a \u201ccall-in\u201d basis during 2022 through 2026  - OPEN",
+      "agency": "Port Authority of NY & NJ",
+      "state": "NY",
+      "city": "New York",
+      "category": "other",
+      "status": "active",
+      "dueDate": "2026-12-31",
+      "publishDate": null,
+      "sourceUrl": "https://panynj.bonfirehub.com/opportunities/112940",
+      "source": "Port Authority of NY & NJ",
+      "description": "",
+      "rawRef": {
+        "reference_number": "RFP# 6000000850 - OPEN",
+        "bonfire_id": "112940",
+        "raw": {
+          "ProjectID": "112940",
+          "PrivateProjectID": "e971e9a8172eb9d1a0e79037bcbdc8f4",
+          "ReferenceID": "RFP# 6000000850 - OPEN",
+          "ProjectStatusID": "2",
+          "ProjectSubStatusID": "1",
+          "ProjectVisibilityID": "1",
+          "ProjectName": "RFP# 6000000850 - Request for Proposals for Performance of Expert Professional Services for Transportation Analysis and Data Collection as requested on a \u201ccall-in\u201d basis during 2022 through 2026  - OP",
+          "DateClose": "2026-12-31 19:00:00",
+          "DepartmentID": "2295"
+        }
+      }
+    },
+    {
+      "id": "8d7b6f22230b",
+      "title": "RFP# 6000001198 - OPEN - RFP# 6000001198 - Request for Proposals for Performance of Expert Professional Real Estate Appraisal Services as Requested on a \u201cCall-In\u201d Basis During 2023 through 2026 (RFP# 6000001198)  - OPEN",
+      "agency": "Port Authority of NY & NJ",
+      "state": "NY",
+      "city": "New York",
+      "category": "other",
+      "status": "active",
+      "dueDate": "2026-12-31",
+      "publishDate": null,
+      "sourceUrl": "https://panynj.bonfirehub.com/opportunities/112904",
+      "source": "Port Authority of NY & NJ",
+      "description": "",
+      "rawRef": {
+        "reference_number": "RFP# 6000001198 - OPEN",
+        "bonfire_id": "112904",
+        "raw": {
+          "ProjectID": "112904",
+          "PrivateProjectID": "f78fe6593d5d5d81cff59c19e847188b",
+          "ReferenceID": "RFP# 6000001198 - OPEN",
+          "ProjectStatusID": "2",
+          "ProjectSubStatusID": "1",
+          "ProjectVisibilityID": "1",
+          "ProjectName": "RFP# 6000001198 - Request for Proposals for Performance of Expert Professional Real Estate Appraisal Services as Requested on a \u201cCall-In\u201d Basis During 2023 through 2026 (RFP# 6000001198)  - OPEN",
+          "DateClose": "2026-12-31 19:00:00",
+          "DepartmentID": "2295"
+        }
+      }
+    },
+    {
+      "id": "be12495e08e1",
+      "title": "RFP# 6000001197 - OPEN - RFP# 6000001197 - Request for Proposals for Performance of Expert Professional Real Estate Appraisal Services (Small Business Enterprises) as Requested on a \u201cCall-In\u201d Basis During 2023 through 2026 (RFP# 6000001197) - OPEN",
+      "agency": "Port Authority of NY & NJ",
+      "state": "NY",
+      "city": "New York",
+      "category": "other",
+      "status": "active",
+      "dueDate": "2026-12-31",
+      "publishDate": null,
+      "sourceUrl": "https://panynj.bonfirehub.com/opportunities/112905",
+      "source": "Port Authority of NY & NJ",
+      "description": "",
+      "rawRef": {
+        "reference_number": "RFP# 6000001197 - OPEN",
+        "bonfire_id": "112905",
+        "raw": {
+          "ProjectID": "112905",
+          "PrivateProjectID": "5e35e2a3b2f9bd097a3841183eebd9fd",
+          "ReferenceID": "RFP# 6000001197 - OPEN",
+          "ProjectStatusID": "2",
+          "ProjectSubStatusID": "1",
+          "ProjectVisibilityID": "1",
+          "ProjectName": "RFP# 6000001197 - Request for Proposals for Performance of Expert Professional Real Estate Appraisal Services (Small Business Enterprises) as Requested on a \u201cCall-In\u201d Basis During 2023 through 2026 (R",
+          "DateClose": "2026-12-31 19:00:00",
+          "DepartmentID": "2295"
+        }
+      }
+    },
+    {
+      "id": "60fa93d38b87",
+      "title": "RFP# 6000001195 - OPEN - RFP# 6000001195 - Request for Proposals for Performance of Expert Professional Real Estate Advisory Services (Small Business Enterprises) as Requested on a \u201cCall-In\u201d Basis During 2023 through 2026 (RFP# 6000001195) - OPEN",
+      "agency": "Port Authority of NY & NJ",
+      "state": "NY",
+      "city": "New York",
+      "category": "other",
+      "status": "active",
+      "dueDate": "2026-12-31",
+      "publishDate": null,
+      "sourceUrl": "https://panynj.bonfirehub.com/opportunities/112907",
+      "source": "Port Authority of NY & NJ",
+      "description": "",
+      "rawRef": {
+        "reference_number": "RFP# 6000001195 - OPEN",
+        "bonfire_id": "112907",
+        "raw": {
+          "ProjectID": "112907",
+          "PrivateProjectID": "b931182a01eedfc0f6c71a1298cb7d11",
+          "ReferenceID": "RFP# 6000001195 - OPEN",
+          "ProjectStatusID": "2",
+          "ProjectSubStatusID": "1",
+          "ProjectVisibilityID": "1",
+          "ProjectName": "RFP# 6000001195 - Request for Proposals for Performance of Expert Professional Real Estate Advisory Services (Small Business Enterprises) as Requested on a \u201cCall-In\u201d Basis During 2023 through 2026 (RF",
+          "DateClose": "2026-12-31 19:00:00",
+          "DepartmentID": "2295"
+        }
+      }
+    },
+    {
+      "id": "ab3846db3bec",
+      "title": "RFP# 6000001194 - OPEN - RFP# 6000001194 - Request for Proposals for Performance of Expert Professional Real Estate Advisory Services as Requested on a \u201cCall-In\u201d Basis During 2023 through 2026 (RFP# 6000001194)  - OPEN",
+      "agency": "Port Authority of NY & NJ",
+      "state": "NY",
+      "city": "New York",
+      "category": "other",
+      "status": "active",
+      "dueDate": "2026-12-31",
+      "publishDate": null,
+      "sourceUrl": "https://panynj.bonfirehub.com/opportunities/112909",
+      "source": "Port Authority of NY & NJ",
+      "description": "",
+      "rawRef": {
+        "reference_number": "RFP# 6000001194 - OPEN",
+        "bonfire_id": "112909",
+        "raw": {
+          "ProjectID": "112909",
+          "PrivateProjectID": "d10c32778a400c7d00e702a361f7ca21",
+          "ReferenceID": "RFP# 6000001194 - OPEN",
+          "ProjectStatusID": "2",
+          "ProjectSubStatusID": "1",
+          "ProjectVisibilityID": "1",
+          "ProjectName": "RFP# 6000001194 - Request for Proposals for Performance of Expert Professional Real Estate Advisory Services as Requested on a \u201cCall-In\u201d Basis During 2023 through 2026 (RFP# 6000001194)  - OPEN",
+          "DateClose": "2026-12-31 19:00:00",
+          "DepartmentID": "2295"
+        }
+      }
+    },
+    {
+      "id": "678bd558ee40",
+      "title": "RFP# 6000000852 - OPEN - RFP# 6000000852 - Request for Proposals for Performance of Expert Professional Services for Market Research and Customer Data Analytics, and Forecasting Analysis as requested on a \u201ccall-in\u201d basis during 2022 through 2026  - OPEN",
+      "agency": "Port Authority of NY & NJ",
+      "state": "NY",
+      "city": "New York",
+      "category": "other",
+      "status": "active",
+      "dueDate": "2026-12-31",
+      "publishDate": null,
+      "sourceUrl": "https://panynj.bonfirehub.com/opportunities/112937",
+      "source": "Port Authority of NY & NJ",
+      "description": "",
+      "rawRef": {
+        "reference_number": "RFP# 6000000852 - OPEN",
+        "bonfire_id": "112937",
+        "raw": {
+          "ProjectID": "112937",
+          "PrivateProjectID": "3667d3286403c4105cb2e5e7e020ecdb",
+          "ReferenceID": "RFP# 6000000852 - OPEN",
+          "ProjectStatusID": "2",
+          "ProjectSubStatusID": "1",
+          "ProjectVisibilityID": "1",
+          "ProjectName": "RFP# 6000000852 - Request for Proposals for Performance of Expert Professional Services for Market Research and Customer Data Analytics, and Forecasting Analysis as requested on a \u201ccall-in\u201d basis duri",
+          "DateClose": "2026-12-31 19:00:00",
+          "DepartmentID": "2295"
+        }
+      }
+    },
+    {
+      "id": "e38be242f219",
+      "title": "RFP# 6000000742 - OPEN - Request for Proposals for Performance of Expert Professional Traffic Engineering Planning and Design Services (Small Business Enterprises) for Redevelopment Programs as Requested on a \"Call-In\" Basis During 2022 Through 2025 (RFP# 6000000742) - OPEN",
+      "agency": "Port Authority of NY & NJ",
+      "state": "NY",
+      "city": "New York",
+      "category": "engineering",
+      "status": "active",
+      "dueDate": "2027-04-28",
+      "publishDate": null,
+      "sourceUrl": "https://panynj.bonfirehub.com/opportunities/113017",
+      "source": "Port Authority of NY & NJ",
+      "description": "",
+      "rawRef": {
+        "reference_number": "RFP# 6000000742 - OPEN",
+        "bonfire_id": "113017",
+        "raw": {
+          "ProjectID": "113017",
+          "PrivateProjectID": "c95effd656f722749c0472bcc0d9151d",
+          "ReferenceID": "RFP# 6000000742 - OPEN",
+          "ProjectStatusID": "2",
+          "ProjectSubStatusID": "1",
+          "ProjectVisibilityID": "1",
+          "ProjectName": "Request for Proposals for Performance of Expert Professional Traffic Engineering Planning and Design Services (Small Business Enterprises) for Redevelopment Programs as Requested on a \"Call-In\" Basis ",
+          "DateClose": "2027-04-28 18:00:00",
+          "DepartmentID": "2295"
+        }
+      }
+    },
+    {
+      "id": "d87830b36cf8",
+      "title": "RFP# 6000000741 - OPEN - Request for Proposals for Performance of Expert Professional Traffic Engineering Planning and Design Services for Redevelopment Programs as Requested on a \"Call-In\" Basis During 2022 Through 2025 (RFP# 6000000741) - OPEN",
+      "agency": "Port Authority of NY & NJ",
+      "state": "NY",
+      "city": "New York",
+      "category": "engineering",
+      "status": "active",
+      "dueDate": "2027-04-28",
+      "publishDate": null,
+      "sourceUrl": "https://panynj.bonfirehub.com/opportunities/113015",
+      "source": "Port Authority of NY & NJ",
+      "description": "",
+      "rawRef": {
+        "reference_number": "RFP# 6000000741 - OPEN",
+        "bonfire_id": "113015",
+        "raw": {
+          "ProjectID": "113015",
+          "PrivateProjectID": "689819dfd016dcb7127af2c8d565d90d",
+          "ReferenceID": "RFP# 6000000741 - OPEN",
+          "ProjectStatusID": "2",
+          "ProjectSubStatusID": "1",
+          "ProjectVisibilityID": "1",
+          "ProjectName": "Request for Proposals for Performance of Expert Professional Traffic Engineering Planning and Design Services for Redevelopment Programs as Requested on a \"Call-In\" Basis During 2022 Through 2025 (RFP",
+          "DateClose": "2027-04-28 18:00:00",
+          "DepartmentID": "2295"
+        }
+      }
+    },
+    {
+      "id": "58cd92d93579",
+      "title": "RFP# 6000000743 - OPEN - RFP# 6000000743 - Request for Proposals for Performance of Expert Professional Traffic Engineering Construction and Operations Support Services for Redevelopment Programs as Requested on a \"Call-In\" Basis During 2022 Through 2025 (RFP# 6000000743) - OPEN",
+      "agency": "Port Authority of NY & NJ",
+      "state": "NY",
+      "city": "New York",
+      "category": "construction",
+      "status": "active",
+      "dueDate": "2027-04-28",
+      "publishDate": null,
+      "sourceUrl": "https://panynj.bonfirehub.com/opportunities/112999",
+      "source": "Port Authority of NY & NJ",
+      "description": "",
+      "rawRef": {
+        "reference_number": "RFP# 6000000743 - OPEN",
+        "bonfire_id": "112999",
+        "raw": {
+          "ProjectID": "112999",
+          "PrivateProjectID": "22fecbb70343cc941c40cb159fddc9d4",
+          "ReferenceID": "RFP# 6000000743 - OPEN",
+          "ProjectStatusID": "2",
+          "ProjectSubStatusID": "1",
+          "ProjectVisibilityID": "1",
+          "ProjectName": "RFP# 6000000743 - Request for Proposals for Performance of Expert Professional Traffic Engineering Construction and Operations Support Services for Redevelopment Programs as Requested on a \"Call-In\" B",
+          "DateClose": "2027-04-28 18:00:00",
+          "DepartmentID": "2295"
+        }
+      }
+    },
+    {
+      "id": "9cb505c89419",
+      "title": "RFP# 6000000744 - OPEN - RFP# 6000000744 -Request for Proposals for Performance of Expert Professional Traffic Engineering Construction and Operations Support Services (Small Business Enterprises) for Redevelopment Programs as Requested on a \"Call-In\" Basis During 2022-2025 - OPEN",
+      "agency": "Port Authority of NY & NJ",
+      "state": "NY",
+      "city": "New York",
+      "category": "construction",
+      "status": "active",
+      "dueDate": "2027-04-28",
+      "publishDate": null,
+      "sourceUrl": "https://panynj.bonfirehub.com/opportunities/112996",
+      "source": "Port Authority of NY & NJ",
+      "description": "",
+      "rawRef": {
+        "reference_number": "RFP# 6000000744 - OPEN",
+        "bonfire_id": "112996",
+        "raw": {
+          "ProjectID": "112996",
+          "PrivateProjectID": "5e18e586fb3808a21bc3c1825af6c0ae",
+          "ReferenceID": "RFP# 6000000744 - OPEN",
+          "ProjectStatusID": "2",
+          "ProjectSubStatusID": "1",
+          "ProjectVisibilityID": "1",
+          "ProjectName": "RFP# 6000000744 -Request for Proposals for Performance of Expert Professional Traffic Engineering Construction and Operations Support Services (Small Business Enterprises) for Redevelopment Programs a",
+          "DateClose": "2027-04-28 18:00:00",
+          "DepartmentID": "2295"
+        }
+      }
+    },
+    {
+      "id": "2f08fd7d9ff2",
+      "title": "BUSINESS RESOURCES - DOING BUSINESS WITH THE PORT AUTHORITY OF NY & NJ (Information Only) - BUSINESS RESOURCES - DOING BUSINESS WITH THE PORT AUTHORITY OF NY & NJ (Information Only)",
+      "agency": "Port Authority of NY & NJ",
+      "state": "NY",
+      "city": "New York",
+      "category": "other",
+      "status": "active",
+      "dueDate": "2027-08-31",
+      "publishDate": null,
+      "sourceUrl": "https://panynj.bonfirehub.com/opportunities/105202",
+      "source": "Port Authority of NY & NJ",
+      "description": "",
+      "rawRef": {
+        "reference_number": "BUSINESS RESOURCES - DOING BUSINESS WITH THE PORT AUTHORITY OF NY & NJ (Information Only)",
+        "bonfire_id": "105202",
+        "raw": {
+          "ProjectID": "105202",
+          "PrivateProjectID": "b7e1b545e07861ecea7e003b87a0f59e",
+          "ReferenceID": "BUSINESS RESOURCES - DOING BUSINESS WITH THE PORT AUTHORITY OF NY & NJ (Information Only)",
+          "ProjectStatusID": "2",
+          "ProjectSubStatusID": "1",
+          "ProjectVisibilityID": "1",
+          "ProjectName": "BUSINESS RESOURCES - DOING BUSINESS WITH THE PORT AUTHORITY OF NY & NJ (Information Only)",
+          "DateClose": "2027-08-31 01:30:00",
+          "DepartmentID": "2298"
+        }
+      }
+    },
+    {
+      "id": "5a51e33b5702",
+      "title": "RFP # 6000001843 - OPEN - RFP # 6000001843 - PERFORMANCE OF EXPERT PROFESSIONAL ASSET LIFE CYCLE MANAGEMENT, OPERATIONS ANALYSIS, AND DATA COLLECTION SERVICES AS REQUESTED ON A TASK ORDER BASIS FOR A FOUR-YEAR TERM - OPEN",
+      "agency": "Port Authority of NY & NJ",
+      "state": "NY",
+      "city": "New York",
+      "category": "other",
+      "status": "active",
+      "dueDate": "2028-11-30",
+      "publishDate": null,
+      "sourceUrl": "https://panynj.bonfirehub.com/opportunities/179951",
+      "source": "Port Authority of NY & NJ",
+      "description": "",
+      "rawRef": {
+        "reference_number": "RFP # 6000001843 - OPEN",
+        "bonfire_id": "179951",
+        "raw": {
+          "ProjectID": "179951",
+          "PrivateProjectID": "0c0e4626ae76dba40da09e07b884c6a1",
+          "ReferenceID": "RFP # 6000001843 - OPEN",
+          "ProjectStatusID": "2",
+          "ProjectSubStatusID": "1",
+          "ProjectVisibilityID": "1",
+          "ProjectName": "RFP # 6000001843 - PERFORMANCE OF EXPERT PROFESSIONAL ASSET LIFE CYCLE MANAGEMENT, OPERATIONS ANALYSIS, AND DATA COLLECTION SERVICES AS REQUESTED ON A TASK ORDER BASIS FOR A FOUR-YEAR TERM - OPEN",
+          "DateClose": "2028-11-30 19:00:00",
+          "DepartmentID": "2295"
+        }
+      }
+    },
+    {
+      "id": "9e00ffcb180f",
+      "title": "RFP # 6000002348 - OPEN - RFP # 6000002348 - Request for Proposals for the Performance of Expert Professional Facility Condition Surveys for Bridges and Buildings as requested on a \u201cTask Order\u201d basis for a four-year term - OPEN",
+      "agency": "Port Authority of NY & NJ",
+      "state": "NY",
+      "city": "New York",
+      "category": "construction",
+      "status": "active",
+      "dueDate": "2028-12-31",
+      "publishDate": null,
+      "sourceUrl": "https://panynj.bonfirehub.com/opportunities/180559",
+      "source": "Port Authority of NY & NJ",
+      "description": "",
+      "rawRef": {
+        "reference_number": "RFP # 6000002348 - OPEN",
+        "bonfire_id": "180559",
+        "raw": {
+          "ProjectID": "180559",
+          "PrivateProjectID": "df74d843cdb387042b0a5f43d34c5c57",
+          "ReferenceID": "RFP # 6000002348 - OPEN",
+          "ProjectStatusID": "2",
+          "ProjectSubStatusID": "1",
+          "ProjectVisibilityID": "1",
+          "ProjectName": "RFP # 6000002348 - Request for Proposals for the Performance of Expert Professional Facility Condition Surveys for Bridges and Buildings as requested on a \u201cTask Order\u201d basis for a four-year term - OPE",
+          "DateClose": "2028-12-31 19:00:00",
+          "DepartmentID": "2295"
+        }
+      }
+    },
+    {
+      "id": "9f0f755e2c6a",
+      "title": "RFP # 6000002728 - OPEN - RFP # 6000002728 - REQUEST FOR PROPOSALS FOR PERFORMANCE OF EXPERT PROFESSIONAL PROJECT RISK MANAGEMENT SERVICES (SMALL BUSINESS ENTERPRISES) AS REQUESTED ON A \"CALL-IN\" BASIS DURING 2025 THROUGH 2027 - OPEN",
+      "agency": "Port Authority of NY & NJ",
+      "state": "NY",
+      "city": "New York",
+      "category": "other",
+      "status": "active",
+      "dueDate": "2028-12-31",
+      "publishDate": null,
+      "sourceUrl": "https://panynj.bonfirehub.com/opportunities/193588",
+      "source": "Port Authority of NY & NJ",
+      "description": "",
+      "rawRef": {
+        "reference_number": "RFP # 6000002728 - OPEN",
+        "bonfire_id": "193588",
+        "raw": {
+          "ProjectID": "193588",
+          "PrivateProjectID": "ba9a1a18df1b2dd3eb49fd4052ea5934",
+          "ReferenceID": "RFP # 6000002728 - OPEN",
+          "ProjectStatusID": "2",
+          "ProjectSubStatusID": "1",
+          "ProjectVisibilityID": "1",
+          "ProjectName": "RFP # 6000002728 - REQUEST FOR PROPOSALS FOR PERFORMANCE OF EXPERT PROFESSIONAL PROJECT RISK MANAGEMENT SERVICES (SMALL BUSINESS ENTERPRISES) AS REQUESTED ON A \"CALL-IN\" BASIS DURING 2025 THROUGH 2027",
+          "DateClose": "2028-12-31 19:00:00",
+          "DepartmentID": "2295"
+        }
+      }
+    },
+    {
+      "id": "f0d5dd675fc5",
+      "title": "RFP # 6000002149 - OPEN - RFP # 6000002149 - Request for Proposals for Performance of Expert Professional Port Planning and Marine Infrastructure Development (Small Business Enterprises) - OPEN",
+      "agency": "Port Authority of NY & NJ",
+      "state": "NY",
+      "city": "New York",
+      "category": "construction",
+      "status": "active",
+      "dueDate": "2028-12-31",
+      "publishDate": null,
+      "sourceUrl": "https://panynj.bonfirehub.com/opportunities/180594",
+      "source": "Port Authority of NY & NJ",
+      "description": "",
+      "rawRef": {
+        "reference_number": "RFP # 6000002149 - OPEN",
+        "bonfire_id": "180594",
+        "raw": {
+          "ProjectID": "180594",
+          "PrivateProjectID": "c21c4cac73f98a4305a724f1e2c0a4aa",
+          "ReferenceID": "RFP # 6000002149 - OPEN",
+          "ProjectStatusID": "2",
+          "ProjectSubStatusID": "1",
+          "ProjectVisibilityID": "1",
+          "ProjectName": "RFP # 6000002149 - Request for Proposals for Performance of Expert Professional Port Planning and Marine Infrastructure Development (Small Business Enterprises) - OPEN",
+          "DateClose": "2028-12-31 19:00:00",
+          "DepartmentID": "2295"
+        }
+      }
+    },
+    {
+      "id": "ac9390ac78d8",
+      "title": "RFP # 6000002156 - OPEN - RFP # 6000002156 -Request for Proposals for Performance of Expert Professional Real Estate and Industrial Real Estate Planning and Analysis Services for as requested on a task order basis for a four year term (RFP #6000002156) - OPEN",
+      "agency": "Port Authority of NY & NJ",
+      "state": "NY",
+      "city": "New York",
+      "category": "other",
+      "status": "active",
+      "dueDate": "2028-12-31",
+      "publishDate": null,
+      "sourceUrl": "https://panynj.bonfirehub.com/opportunities/180592",
+      "source": "Port Authority of NY & NJ",
+      "description": "",
+      "rawRef": {
+        "reference_number": "RFP # 6000002156 - OPEN",
+        "bonfire_id": "180592",
+        "raw": {
+          "ProjectID": "180592",
+          "PrivateProjectID": "f190c6dfa17a40e91c8a0b43535dbfd7",
+          "ReferenceID": "RFP # 6000002156 - OPEN",
+          "ProjectStatusID": "2",
+          "ProjectSubStatusID": "1",
+          "ProjectVisibilityID": "1",
+          "ProjectName": "RFP # 6000002156 -Request for Proposals for Performance of Expert Professional Real Estate and Industrial Real Estate Planning and Analysis Services for as requested on a task order basis for a four y",
+          "DateClose": "2028-12-31 19:00:00",
+          "DepartmentID": "2295"
+        }
+      }
+    },
+    {
+      "id": "d63788e693c9",
+      "title": "RFP # 6000001923 - OPEN - RFP # 6000001923 - Performance Of Expert Professional Traffic Design Services as Requested on A \u201cTask Order Basis\u201d For A Four-Year Term (RFP # 6000001923) - OPEN",
+      "agency": "Port Authority of NY & NJ",
+      "state": "NY",
+      "city": "New York",
+      "category": "engineering",
+      "status": "active",
+      "dueDate": "2028-12-31",
+      "publishDate": null,
+      "sourceUrl": "https://panynj.bonfirehub.com/opportunities/180167",
+      "source": "Port Authority of NY & NJ",
+      "description": "",
+      "rawRef": {
+        "reference_number": "RFP # 6000001923 - OPEN",
+        "bonfire_id": "180167",
+        "raw": {
+          "ProjectID": "180167",
+          "PrivateProjectID": "a40550334e5ffc742089ae7a8db5df80",
+          "ReferenceID": "RFP # 6000001923 - OPEN",
+          "ProjectStatusID": "2",
+          "ProjectSubStatusID": "1",
+          "ProjectVisibilityID": "1",
+          "ProjectName": "RFP # 6000001923 - Performance Of Expert Professional Traffic Design Services as Requested on A \u201cTask Order Basis\u201d For A Four-Year Term (RFP # 6000001923) - OPEN",
+          "DateClose": "2028-12-31 19:00:00",
+          "DepartmentID": "2295"
+        }
+      }
+    },
+    {
+      "id": "7bd73129e738",
+      "title": "RFP # 6000001925 - OPEN - RFP # 6000001925 - Request For Proposals For Performance Of Expert Professional Traffic Technology Services As Requested On A \u201cTask Order Basis\u201d For A Four-Year Term - OPEN",
+      "agency": "Port Authority of NY & NJ",
+      "state": "NY",
+      "city": "New York",
+      "category": "other",
+      "status": "active",
+      "dueDate": "2028-12-31",
+      "publishDate": null,
+      "sourceUrl": "https://panynj.bonfirehub.com/opportunities/180162",
+      "source": "Port Authority of NY & NJ",
+      "description": "",
+      "rawRef": {
+        "reference_number": "RFP # 6000001925 - OPEN",
+        "bonfire_id": "180162",
+        "raw": {
+          "ProjectID": "180162",
+          "PrivateProjectID": "75b6477854316a55718612e2bf2906fd",
+          "ReferenceID": "RFP # 6000001925 - OPEN",
+          "ProjectStatusID": "2",
+          "ProjectSubStatusID": "1",
+          "ProjectVisibilityID": "1",
+          "ProjectName": "RFP # 6000001925 - Request For Proposals For Performance Of Expert Professional Traffic Technology Services As Requested On A \u201cTask Order Basis\u201d For A Four-Year Term - OPEN",
+          "DateClose": "2028-12-31 19:00:00",
+          "DepartmentID": "2295"
+        }
+      }
+    },
+    {
+      "id": "172f1b792423",
+      "title": "RFP # 6000001837 - OPEN - RFP # 6000001837 - REQUEST FOR PROPOSALS FOR PERFORMANCE OF EXPERT PROFESSIONAL STRUCTURAL DESIGN SERVICES AS REQUESTED ON A \u201cTASK ORDER BASIS\u201d FOR A FOUR-YEAR TERM - OPEN",
+      "agency": "Port Authority of NY & NJ",
+      "state": "NY",
+      "city": "New York",
+      "category": "engineering",
+      "status": "active",
+      "dueDate": "2028-12-31",
+      "publishDate": null,
+      "sourceUrl": "https://panynj.bonfirehub.com/opportunities/180152",
+      "source": "Port Authority of NY & NJ",
+      "description": "",
+      "rawRef": {
+        "reference_number": "RFP # 6000001837 - OPEN",
+        "bonfire_id": "180152",
+        "raw": {
+          "ProjectID": "180152",
+          "PrivateProjectID": "a945ccae1ad0c73053aaf5f036424cd2",
+          "ReferenceID": "RFP # 6000001837 - OPEN",
+          "ProjectStatusID": "2",
+          "ProjectSubStatusID": "1",
+          "ProjectVisibilityID": "1",
+          "ProjectName": "RFP # 6000001837 - REQUEST FOR PROPOSALS FOR PERFORMANCE OF EXPERT PROFESSIONAL STRUCTURAL DESIGN SERVICES AS REQUESTED ON A \u201cTASK ORDER BASIS\u201d FOR A FOUR-YEAR TERM - OPEN",
+          "DateClose": "2028-12-31 19:00:00",
+          "DepartmentID": "2295"
+        }
+      }
+    },
+    {
+      "id": "94bef5f8f598",
+      "title": "RFP # 6000001839 - OPEN - RFP # 6000001839 - Request for Proposals for Performance of Expert Professional Environmental Design/Asbestos Abatement Services as Requested on a \u201cTask Order Basis\u201d for a Four-Year Term - OPEN",
+      "agency": "Port Authority of NY & NJ",
+      "state": "NY",
+      "city": "New York",
+      "category": "engineering",
+      "status": "active",
+      "dueDate": "2028-12-31",
+      "publishDate": null,
+      "sourceUrl": "https://panynj.bonfirehub.com/opportunities/180150",
+      "source": "Port Authority of NY & NJ",
+      "description": "",
+      "rawRef": {
+        "reference_number": "RFP # 6000001839 - OPEN",
+        "bonfire_id": "180150",
+        "raw": {
+          "ProjectID": "180150",
+          "PrivateProjectID": "419b4919076fe45be0a97968118c9043",
+          "ReferenceID": "RFP # 6000001839 - OPEN",
+          "ProjectStatusID": "2",
+          "ProjectSubStatusID": "1",
+          "ProjectVisibilityID": "1",
+          "ProjectName": "RFP # 6000001839 - Request for Proposals for Performance of Expert Professional Environmental Design/Asbestos Abatement Services as Requested on a \u201cTask Order Basis\u201d for a Four-Year Term - OPEN",
+          "DateClose": "2028-12-31 19:00:00",
+          "DepartmentID": "2295"
+        }
+      }
+    },
+    {
+      "id": "33638cebf3e6",
+      "title": "RFP # 6000001846 - OPEN - RFP # 6000001846 - PERFORMANCE OF EXPERT PROFESSIONAL MECHANICAL DESIGN SERVICES ON A \u201cTASK ORDER BASIS\u201d FOR A FOUR-YEAR TERM - OPEN",
+      "agency": "Port Authority of NY & NJ",
+      "state": "NY",
+      "city": "New York",
+      "category": "engineering",
+      "status": "active",
+      "dueDate": "2028-12-31",
+      "publishDate": null,
+      "sourceUrl": "https://panynj.bonfirehub.com/opportunities/180112",
+      "source": "Port Authority of NY & NJ",
+      "description": "",
+      "rawRef": {
+        "reference_number": "RFP # 6000001846 - OPEN",
+        "bonfire_id": "180112",
+        "raw": {
+          "ProjectID": "180112",
+          "PrivateProjectID": "5f8ce44ac443f4e80eeb796f6c9ee45f",
+          "ReferenceID": "RFP # 6000001846 - OPEN",
+          "ProjectStatusID": "2",
+          "ProjectSubStatusID": "1",
+          "ProjectVisibilityID": "1",
+          "ProjectName": "RFP # 6000001846 - PERFORMANCE OF EXPERT PROFESSIONAL MECHANICAL DESIGN SERVICES ON A \u201cTASK ORDER BASIS\u201d FOR A FOUR-YEAR TERM - OPEN",
+          "DateClose": "2028-12-31 19:00:00",
+          "DepartmentID": "2295"
+        }
+      }
+    },
+    {
+      "id": "abc584731471",
+      "title": "RFP# 6000001251 - OPEN - RFP# 6000001251  - REQUEST FOR PROPOSALS FOR PERFORMANCE OF EXPERT PROFESSIONAL INTEGRITY MONITORING SERVICES FOR PORT AUTHORITY FACILITY INFRASTRUCTURE PROJECTS \u2013 AS REQUESTED ON A \u201cCALL-IN\u201d BASIS DURING 2023 THROUGH 2028 - OPEN",
+      "agency": "Port Authority of NY & NJ",
+      "state": "NY",
+      "city": "New York",
+      "category": "construction",
+      "status": "active",
+      "dueDate": "2028-12-31",
+      "publishDate": null,
+      "sourceUrl": "https://panynj.bonfirehub.com/opportunities/112898",
+      "source": "Port Authority of NY & NJ",
+      "description": "",
+      "rawRef": {
+        "reference_number": "RFP# 6000001251 - OPEN",
+        "bonfire_id": "112898",
+        "raw": {
+          "ProjectID": "112898",
+          "PrivateProjectID": "5ec288b6651ade71837fd4c589fe6bb7",
+          "ReferenceID": "RFP# 6000001251 - OPEN",
+          "ProjectStatusID": "2",
+          "ProjectSubStatusID": "1",
+          "ProjectVisibilityID": "1",
+          "ProjectName": "RFP# 6000001251  - REQUEST FOR PROPOSALS FOR PERFORMANCE OF EXPERT PROFESSIONAL INTEGRITY MONITORING SERVICES FOR PORT AUTHORITY FACILITY INFRASTRUCTURE PROJECTS \u2013 AS REQUESTED ON A \u201cCALL-IN\u201d BASIS DU",
+          "DateClose": "2028-12-31 19:00:00",
+          "DepartmentID": "2295"
+        }
+      }
+    },
+    {
+      "id": "3657050e9391",
+      "title": "RFP # 6000001505 - OPEN - RFP # 6000001505 - REQUEST FOR PROPOSALS FOR PERFORMANCE OF EXPERT PROFESSIONAL SMALL BUSINESS ENTERPRISE (SBE) PATH ORIGIN AND DESTINATION SURVEY SERVICES AS REQUESTED ON A \u201cCALL-IN\u201d BASIS DURING 2023-2028 (RFP# 6000001505) - OPEN",
+      "agency": "Port Authority of NY & NJ",
+      "state": "NY",
+      "city": "New York",
+      "category": "engineering",
+      "status": "active",
+      "dueDate": "2028-12-31",
+      "publishDate": null,
+      "sourceUrl": "https://panynj.bonfirehub.com/opportunities/113013",
+      "source": "Port Authority of NY & NJ",
+      "description": "",
+      "rawRef": {
+        "reference_number": "RFP # 6000001505 - OPEN",
+        "bonfire_id": "113013",
+        "raw": {
+          "ProjectID": "113013",
+          "PrivateProjectID": "9b68be7a0194f3afb246871b3b2b1e34",
+          "ReferenceID": "RFP # 6000001505 - OPEN",
+          "ProjectStatusID": "2",
+          "ProjectSubStatusID": "1",
+          "ProjectVisibilityID": "1",
+          "ProjectName": "RFP # 6000001505 - REQUEST FOR PROPOSALS FOR PERFORMANCE OF EXPERT PROFESSIONAL SMALL BUSINESS ENTERPRISE (SBE) PATH ORIGIN AND DESTINATION SURVEY SERVICES AS REQUESTED ON A \u201cCALL-IN\u201d BASIS DURING 202",
+          "DateClose": "2028-12-31 19:00:00",
+          "DepartmentID": "2295"
+        }
+      }
+    },
+    {
+      "id": "ac975d6969b8",
+      "title": "RFP # 6000001494 - OPEN - RFP # 6000001494 - REQUEST FOR PROPOSALS FOR PERFORMANCE OF EXPERT PROFESSIONAL PATH ORIGIN AND DESTINATION SURVEY SERVICES AS REQUESTED ON A \u201cCALL-IN\u201d BASIS DURING 2023-2028 - OPEN",
+      "agency": "Port Authority of NY & NJ",
+      "state": "NY",
+      "city": "New York",
+      "category": "engineering",
+      "status": "active",
+      "dueDate": "2028-12-31",
+      "publishDate": null,
+      "sourceUrl": "https://panynj.bonfirehub.com/opportunities/113014",
+      "source": "Port Authority of NY & NJ",
+      "description": "",
+      "rawRef": {
+        "reference_number": "RFP # 6000001494 - OPEN",
+        "bonfire_id": "113014",
+        "raw": {
+          "ProjectID": "113014",
+          "PrivateProjectID": "6a51f21994e922a17939a0b301ed3aa2",
+          "ReferenceID": "RFP # 6000001494 - OPEN",
+          "ProjectStatusID": "2",
+          "ProjectSubStatusID": "1",
+          "ProjectVisibilityID": "1",
+          "ProjectName": "RFP # 6000001494 - REQUEST FOR PROPOSALS FOR PERFORMANCE OF EXPERT PROFESSIONAL PATH ORIGIN AND DESTINATION SURVEY SERVICES AS REQUESTED ON A \u201cCALL-IN\u201d BASIS DURING 2023-2028 - OPEN",
+          "DateClose": "2028-12-31 19:00:00",
+          "DepartmentID": "2295"
+        }
+      }
+    },
+    {
+      "id": "c8b5cf589ec0",
+      "title": "RFP # 6000002130 - OPEN - RFP # 6000002130 - Request for Proposals for Performance of Expert Professional Port Planning and Marine Infrastructure Development \u2013 General Port Services as requested on a task order basis for a four-year term - OPEN",
+      "agency": "Port Authority of NY & NJ",
+      "state": "NY",
+      "city": "New York",
+      "category": "construction",
+      "status": "active",
+      "dueDate": "2028-12-31",
+      "publishDate": null,
+      "sourceUrl": "https://panynj.bonfirehub.com/opportunities/142929",
+      "source": "Port Authority of NY & NJ",
+      "description": "",
+      "rawRef": {
+        "reference_number": "RFP # 6000002130 - OPEN",
+        "bonfire_id": "142929",
+        "raw": {
+          "ProjectID": "142929",
+          "PrivateProjectID": "5a8b6bad3960560963955be919a86e4c",
+          "ReferenceID": "RFP # 6000002130 - OPEN",
+          "ProjectStatusID": "2",
+          "ProjectSubStatusID": "1",
+          "ProjectVisibilityID": "1",
+          "ProjectName": "RFP # 6000002130 - Request for Proposals for Performance of Expert Professional Port Planning and Marine Infrastructure Development \u2013 General Port Services as requested on a task order basis for a fou",
+          "DateClose": "2028-12-31 19:00:00",
+          "DepartmentID": "2295"
+        }
+      }
+    },
+    {
+      "id": "aaf1e649fb18",
+      "title": "RFP # 6000002152 - OPEN - RFP #6000002152 - Request for Proposals for Performance of Expert Professional Port Planning and Marine Infrastructure Development \u2013 Asset Management Services as requested on a task order basis for a four year term (RFP #6000002152) - OPEN",
+      "agency": "Port Authority of NY & NJ",
+      "state": "NY",
+      "city": "New York",
+      "category": "construction",
+      "status": "active",
+      "dueDate": "2028-12-31",
+      "publishDate": null,
+      "sourceUrl": "https://panynj.bonfirehub.com/opportunities/142930",
+      "source": "Port Authority of NY & NJ",
+      "description": "",
+      "rawRef": {
+        "reference_number": "RFP # 6000002152 - OPEN",
+        "bonfire_id": "142930",
+        "raw": {
+          "ProjectID": "142930",
+          "PrivateProjectID": "870036c30121ff9bf982fd15ffb98280",
+          "ReferenceID": "RFP # 6000002152 - OPEN",
+          "ProjectStatusID": "2",
+          "ProjectSubStatusID": "1",
+          "ProjectVisibilityID": "1",
+          "ProjectName": "RFP #6000002152 - Request for Proposals for Performance of Expert Professional Port Planning and Marine Infrastructure Development \u2013 Asset Management Services as requested on a task order basis for a ",
+          "DateClose": "2028-12-31 19:00:00",
+          "DepartmentID": "2295"
+        }
+      }
+    },
+    {
+      "id": "a48cc919c9ac",
+      "title": "RFP # 6000002153 - OPEN - RFP # 6000002153 - Request for Proposals for Performance of Expert Professional Port Planning and Marine Infrastructure \u2013 Environmental Engineering, Planning, Analysis and Stakeholder Engagement Services as requested on a task order basis for a four-year -",
+      "agency": "Port Authority of NY & NJ",
+      "state": "NY",
+      "city": "New York",
+      "category": "construction",
+      "status": "active",
+      "dueDate": "2028-12-31",
+      "publishDate": null,
+      "sourceUrl": "https://panynj.bonfirehub.com/opportunities/142931",
+      "source": "Port Authority of NY & NJ",
+      "description": "",
+      "rawRef": {
+        "reference_number": "RFP # 6000002153 - OPEN",
+        "bonfire_id": "142931",
+        "raw": {
+          "ProjectID": "142931",
+          "PrivateProjectID": "0365ce177f17a67d60b0ab09b264c3de",
+          "ReferenceID": "RFP # 6000002153 - OPEN",
+          "ProjectStatusID": "2",
+          "ProjectSubStatusID": "1",
+          "ProjectVisibilityID": "1",
+          "ProjectName": "RFP # 6000002153 - Request for Proposals for Performance of Expert Professional Port Planning and Marine Infrastructure \u2013 Environmental Engineering, Planning, Analysis and Stakeholder Engagement Servi",
+          "DateClose": "2028-12-31 19:00:00",
+          "DepartmentID": "2295"
+        }
+      }
+    },
+    {
+      "id": "be7c5d03e1a3",
+      "title": "RFP # 6000002154 - OPEN - RFP # 6000002154 - Request for Proposals for Performance of Expert Professional Port Planning and Marine Infrastructure Development \u2013 Rail Facility Planning, Operations, and Maintenance Services as requested on a task order basis for a four-year term-OPEN",
+      "agency": "Port Authority of NY & NJ",
+      "state": "NY",
+      "city": "New York",
+      "category": "construction",
+      "status": "active",
+      "dueDate": "2028-12-31",
+      "publishDate": null,
+      "sourceUrl": "https://panynj.bonfirehub.com/opportunities/142934",
+      "source": "Port Authority of NY & NJ",
+      "description": "",
+      "rawRef": {
+        "reference_number": "RFP # 6000002154 - OPEN",
+        "bonfire_id": "142934",
+        "raw": {
+          "ProjectID": "142934",
+          "PrivateProjectID": "6c8aca4048a0e497d342638f07bd2d71",
+          "ReferenceID": "RFP # 6000002154 - OPEN",
+          "ProjectStatusID": "2",
+          "ProjectSubStatusID": "1",
+          "ProjectVisibilityID": "1",
+          "ProjectName": "RFP # 6000002154 - Request for Proposals for Performance of Expert Professional Port Planning and Marine Infrastructure Development \u2013 Rail Facility Planning, Operations, and Maintenance Services as re",
+          "DateClose": "2028-12-31 19:00:00",
+          "DepartmentID": "2295"
+        }
+      }
+    },
+    {
+      "id": "bf20c991d90e",
+      "title": "RFP# 6000001276 - OPEN - RFP# 6000001276 - REQUEST FOR PROPOSALS FOR INDEFINITE QUANTITY CONTRACTS (IQCs) FOR PERFORMANCE OF EXPERT PROFESSIONAL DESIGN AND/OR CONSTRUCTION OF ELECTRIC VEHICLE INFRASTRUCTURE, ENERGY EFFICIENCY, AND RENEWABLE ENERGY SERVICES ON AN \u201cAS NEEDED\u201d BASIS",
+      "agency": "Port Authority of NY & NJ",
+      "state": "NY",
+      "city": "New York",
+      "category": "construction",
+      "status": "active",
+      "dueDate": "2028-12-31",
+      "publishDate": null,
+      "sourceUrl": "https://panynj.bonfirehub.com/opportunities/147454",
+      "source": "Port Authority of NY & NJ",
+      "description": "",
+      "rawRef": {
+        "reference_number": "RFP# 6000001276 - OPEN",
+        "bonfire_id": "147454",
+        "raw": {
+          "ProjectID": "147454",
+          "PrivateProjectID": "4dd80bfacaae7f7bee7d64ac0a5013a5",
+          "ReferenceID": "RFP# 6000001276 - OPEN",
+          "ProjectStatusID": "2",
+          "ProjectSubStatusID": "1",
+          "ProjectVisibilityID": "1",
+          "ProjectName": "RFP# 6000001276 - REQUEST FOR PROPOSALS FOR INDEFINITE QUANTITY CONTRACTS (IQCs) FOR PERFORMANCE OF EXPERT PROFESSIONAL DESIGN AND/OR CONSTRUCTION OF ELECTRIC VEHICLE INFRASTRUCTURE, ENERGY EFFICIENCY",
+          "DateClose": "2028-12-31 19:00:00",
+          "DepartmentID": "2295"
+        }
+      }
+    },
+    {
+      "id": "8320d55e7f45",
+      "title": "RFP # 6000002150 - OPEN-B - RFP #6000002150 - OPEN-B - Request for Proposals for Performance of Expert Professional Port Planning and Marine Infrastructure Development (Small Business Enterprises) - OPEN-B",
+      "agency": "Port Authority of NY & NJ",
+      "state": "NY",
+      "city": "New York",
+      "category": "construction",
+      "status": "active",
+      "dueDate": "2028-12-31",
+      "publishDate": null,
+      "sourceUrl": "https://panynj.bonfirehub.com/opportunities/147678",
+      "source": "Port Authority of NY & NJ",
+      "description": "",
+      "rawRef": {
+        "reference_number": "RFP # 6000002150 - OPEN-B",
+        "bonfire_id": "147678",
+        "raw": {
+          "ProjectID": "147678",
+          "PrivateProjectID": "83553ff9bdb2cf85c62211e08f16c1e8",
+          "ReferenceID": "RFP # 6000002150 - OPEN-B",
+          "ProjectStatusID": "2",
+          "ProjectSubStatusID": "1",
+          "ProjectVisibilityID": "1",
+          "ProjectName": "RFP #6000002150 - OPEN-B - Request for Proposals for Performance of Expert Professional Port Planning and Marine Infrastructure Development (Small Business Enterprises) - OPEN-B",
+          "DateClose": "2028-12-31 19:00:00",
+          "DepartmentID": "2295"
+        }
+      }
+    },
+    {
+      "id": "897fe4989892",
+      "title": "RFP # 6000001848 - OPEN - RFP # 6000001848 - REQUEST FOR PROPOSALS FOR PERFORMANCE OF EXPERT PROFESSIONAL CLIMATE RESILIENCE AND SUSTAINABLE DESIGN SERVICES ON A \u201cTASK ORDER BASIS\u201d FOR A FOUR-YEAR TERM  (RFP# 6000001848) - OPEN",
+      "agency": "Port Authority of NY & NJ",
+      "state": "NY",
+      "city": "New York",
+      "category": "engineering",
+      "status": "active",
+      "dueDate": "2028-12-31",
+      "publishDate": null,
+      "sourceUrl": "https://panynj.bonfirehub.com/opportunities/153531",
+      "source": "Port Authority of NY & NJ",
+      "description": "",
+      "rawRef": {
+        "reference_number": "RFP # 6000001848 - OPEN",
+        "bonfire_id": "153531",
+        "raw": {
+          "ProjectID": "153531",
+          "PrivateProjectID": "ec65845ffbfb2a578caade4ebbfef1ff",
+          "ReferenceID": "RFP # 6000001848 - OPEN",
+          "ProjectStatusID": "2",
+          "ProjectSubStatusID": "1",
+          "ProjectVisibilityID": "1",
+          "ProjectName": "RFP # 6000001848 - REQUEST FOR PROPOSALS FOR PERFORMANCE OF EXPERT PROFESSIONAL CLIMATE RESILIENCE AND SUSTAINABLE DESIGN SERVICES ON A \u201cTASK ORDER BASIS\u201d FOR A FOUR-YEAR TERM  (RFP# 6000001848) - OPE",
+          "DateClose": "2028-12-31 19:00:00",
+          "DepartmentID": "2295"
+        }
+      }
+    },
+    {
+      "id": "6d0bd61a4299",
+      "title": "RFP # 6000001842 - OPEN - RFP #6000001842 - REQUEST FOR PROPOSALS FOR PERFORMANCE OF EXPERT PROFESSIONAL GEOTECHNICAL DESIGN SERVICES AS REQUESTED ON A \u201cTASK ORDER\u201d BASIS FOR A FOUR-YEAR TERM - OPEN",
+      "agency": "Port Authority of NY & NJ",
+      "state": "NY",
+      "city": "New York",
+      "category": "engineering",
+      "status": "active",
+      "dueDate": "2028-12-31",
+      "publishDate": null,
+      "sourceUrl": "https://panynj.bonfirehub.com/opportunities/180149",
+      "source": "Port Authority of NY & NJ",
+      "description": "",
+      "rawRef": {
+        "reference_number": "RFP # 6000001842 - OPEN",
+        "bonfire_id": "180149",
+        "raw": {
+          "ProjectID": "180149",
+          "PrivateProjectID": "92301ae88f465df9ddea89bf6cfcf92d",
+          "ReferenceID": "RFP # 6000001842 - OPEN",
+          "ProjectStatusID": "2",
+          "ProjectSubStatusID": "1",
+          "ProjectVisibilityID": "1",
+          "ProjectName": "RFP #6000001842 - REQUEST FOR PROPOSALS FOR PERFORMANCE OF EXPERT PROFESSIONAL GEOTECHNICAL DESIGN SERVICES AS REQUESTED ON A \u201cTASK ORDER\u201d BASIS FOR A FOUR-YEAR TERM - OPEN",
+          "DateClose": "2028-12-31 19:00:00",
+          "DepartmentID": "2295"
+        }
+      }
+    },
+    {
+      "id": "3019038137e4",
+      "title": "RFP # 6000001917 - OPEN - RFP # 6000001917 -  REQUEST FOR PROPOSALS FOR PERFORMANCE OF EXPERT PROFESSIONAL ARCHITECTURE EXTERIOR WALL, ROOFING, AND WATERPROOFING DESIGN SERVICES AS REQUESTED ON A \u201cTASK ORDER BASIS\u201d FOR A FOUR-YEAR TERM - OPEN",
+      "agency": "Port Authority of NY & NJ",
+      "state": "NY",
+      "city": "New York",
+      "category": "construction",
+      "status": "active",
+      "dueDate": "2028-12-31",
+      "publishDate": null,
+      "sourceUrl": "https://panynj.bonfirehub.com/opportunities/180095",
+      "source": "Port Authority of NY & NJ",
+      "description": "",
+      "rawRef": {
+        "reference_number": "RFP # 6000001917 - OPEN",
+        "bonfire_id": "180095",
+        "raw": {
+          "ProjectID": "180095",
+          "PrivateProjectID": "612fb1c0618d2cd8521680ce7779dfc8",
+          "ReferenceID": "RFP # 6000001917 - OPEN",
+          "ProjectStatusID": "2",
+          "ProjectSubStatusID": "1",
+          "ProjectVisibilityID": "1",
+          "ProjectName": "RFP # 6000001917 -  REQUEST FOR PROPOSALS FOR PERFORMANCE OF EXPERT PROFESSIONAL ARCHITECTURE EXTERIOR WALL, ROOFING, AND WATERPROOFING DESIGN SERVICES AS REQUESTED ON A \u201cTASK ORDER BASIS\u201d FOR A FOUR-",
+          "DateClose": "2028-12-31 19:00:00",
+          "DepartmentID": "2295"
+        }
+      }
+    },
+    {
+      "id": "3440a0b71af1",
+      "title": "RFP # 6000001897 - OPEN - RFP # 6000001897 - Request for Proposals for Performance of Expert Professional Architectural and Landscape Architectural Design Services as Requested on a \u201cTask Order Basis\u201d for a Four-Year Term (RFP# 6000001897) - OPEN",
+      "agency": "Port Authority of NY & NJ",
+      "state": "NY",
+      "city": "New York",
+      "category": "engineering",
+      "status": "active",
+      "dueDate": "2028-12-31",
+      "publishDate": null,
+      "sourceUrl": "https://panynj.bonfirehub.com/opportunities/180097",
+      "source": "Port Authority of NY & NJ",
+      "description": "",
+      "rawRef": {
+        "reference_number": "RFP # 6000001897 - OPEN",
+        "bonfire_id": "180097",
+        "raw": {
+          "ProjectID": "180097",
+          "PrivateProjectID": "1f71f1c99a3b79fbf2a441bc04cb774a",
+          "ReferenceID": "RFP # 6000001897 - OPEN",
+          "ProjectStatusID": "2",
+          "ProjectSubStatusID": "1",
+          "ProjectVisibilityID": "1",
+          "ProjectName": "RFP # 6000001897 - Request for Proposals for Performance of Expert Professional Architectural and Landscape Architectural Design Services as Requested on a \u201cTask Order Basis\u201d for a Four-Year Term (RFP",
+          "DateClose": "2028-12-31 19:00:00",
+          "DepartmentID": "2295"
+        }
+      }
+    },
+    {
+      "id": "4a64747d169e",
+      "title": "RFP # 6000001886 - OPEN - RFP # 6000001886 - Request for Proposals for Performance of Expert Professional Civil Pavement Management Services As Requested On A \u201cTask Order Basis\u201d For A Four-Year Term -  OPEN",
+      "agency": "Port Authority of NY & NJ",
+      "state": "NY",
+      "city": "New York",
+      "category": "other",
+      "status": "active",
+      "dueDate": "2028-12-31",
+      "publishDate": null,
+      "sourceUrl": "https://panynj.bonfirehub.com/opportunities/180101",
+      "source": "Port Authority of NY & NJ",
+      "description": "",
+      "rawRef": {
+        "reference_number": "RFP # 6000001886 - OPEN",
+        "bonfire_id": "180101",
+        "raw": {
+          "ProjectID": "180101",
+          "PrivateProjectID": "f3d1ee0f31a80f68d73f3fcbbf75e8d4",
+          "ReferenceID": "RFP # 6000001886 - OPEN",
+          "ProjectStatusID": "2",
+          "ProjectSubStatusID": "1",
+          "ProjectVisibilityID": "1",
+          "ProjectName": "RFP # 6000001886 - Request for Proposals for Performance of Expert Professional Civil Pavement Management Services As Requested On A \u201cTask Order Basis\u201d For A Four-Year Term -  OPEN",
+          "DateClose": "2028-12-31 19:00:00",
+          "DepartmentID": "2295"
+        }
+      }
+    },
+    {
+      "id": "4406c3c4b7cb",
+      "title": "RFP # 6000001887 - OPEN - RFP # 6000001887 - PERFORMANCE OF EXPERT PROFESSIONAL CIVIL DESIGN SERVICES AS REQUESTED ON A \u201cTASK ORDER BASIS\u201d FOR A FOUR-YEAR TERM #6000001887 - OPEN",
+      "agency": "Port Authority of NY & NJ",
+      "state": "NY",
+      "city": "New York",
+      "category": "engineering",
+      "status": "active",
+      "dueDate": "2028-12-31",
+      "publishDate": null,
+      "sourceUrl": "https://panynj.bonfirehub.com/opportunities/180103",
+      "source": "Port Authority of NY & NJ",
+      "description": "",
+      "rawRef": {
+        "reference_number": "RFP # 6000001887 - OPEN",
+        "bonfire_id": "180103",
+        "raw": {
+          "ProjectID": "180103",
+          "PrivateProjectID": "d455b6ee1d3754c08e5643ec10a16141",
+          "ReferenceID": "RFP # 6000001887 - OPEN",
+          "ProjectStatusID": "2",
+          "ProjectSubStatusID": "1",
+          "ProjectVisibilityID": "1",
+          "ProjectName": "RFP # 6000001887 - PERFORMANCE OF EXPERT PROFESSIONAL CIVIL DESIGN SERVICES AS REQUESTED ON A \u201cTASK ORDER BASIS\u201d FOR A FOUR-YEAR TERM #6000001887 - OPEN",
+          "DateClose": "2028-12-31 19:00:00",
+          "DepartmentID": "2295"
+        }
+      }
+    },
+    {
+      "id": "8eaeece6e0af",
+      "title": "RFP # 6000001881 - OPEN - RFP # 6000001881 - PERFORMANCE OF EXPERT PROFESSIONAL ELECTRICAL DESIGN SERVICES AS REQUESTED ON A \u201cTASK ORDER BASIS\u201d FOR A FOUR-YEAR TERM - OPEN",
+      "agency": "Port Authority of NY & NJ",
+      "state": "NY",
+      "city": "New York",
+      "category": "engineering",
+      "status": "active",
+      "dueDate": "2028-12-31",
+      "publishDate": null,
+      "sourceUrl": "https://panynj.bonfirehub.com/opportunities/180106",
+      "source": "Port Authority of NY & NJ",
+      "description": "",
+      "rawRef": {
+        "reference_number": "RFP # 6000001881 - OPEN",
+        "bonfire_id": "180106",
+        "raw": {
+          "ProjectID": "180106",
+          "PrivateProjectID": "97307d5dabc2b22c5ab7ad024f111628",
+          "ReferenceID": "RFP # 6000001881 - OPEN",
+          "ProjectStatusID": "2",
+          "ProjectSubStatusID": "1",
+          "ProjectVisibilityID": "1",
+          "ProjectName": "RFP # 6000001881 - PERFORMANCE OF EXPERT PROFESSIONAL ELECTRICAL DESIGN SERVICES AS REQUESTED ON A \u201cTASK ORDER BASIS\u201d FOR A FOUR-YEAR TERM - OPEN",
+          "DateClose": "2028-12-31 19:00:00",
+          "DepartmentID": "2295"
+        }
+      }
+    },
+    {
+      "id": "38b6fab22702",
+      "title": "RFP # 6000001867 - OPEN - RFP # 6000001867 - REQUEST FOR PROPOSALS FOR PERFORMANCE OF EXPERT PROFESSIONAL RADIO COMMUNICATIONS SERVICES AS REQUESTED ON A \u201cTASK ORDER BASIS\u201d FOR A FOUR-YEAR TERM - OPEN",
+      "agency": "Port Authority of NY & NJ",
+      "state": "NY",
+      "city": "New York",
+      "category": "other",
+      "status": "active",
+      "dueDate": "2028-12-31",
+      "publishDate": null,
+      "sourceUrl": "https://panynj.bonfirehub.com/opportunities/180110",
+      "source": "Port Authority of NY & NJ",
+      "description": "",
+      "rawRef": {
+        "reference_number": "RFP # 6000001867 - OPEN",
+        "bonfire_id": "180110",
+        "raw": {
+          "ProjectID": "180110",
+          "PrivateProjectID": "fb8fe422e0eaf19a94d3a1ccb00e6ec1",
+          "ReferenceID": "RFP # 6000001867 - OPEN",
+          "ProjectStatusID": "2",
+          "ProjectSubStatusID": "1",
+          "ProjectVisibilityID": "1",
+          "ProjectName": "RFP # 6000001867 - REQUEST FOR PROPOSALS FOR PERFORMANCE OF EXPERT PROFESSIONAL RADIO COMMUNICATIONS SERVICES AS REQUESTED ON A \u201cTASK ORDER BASIS\u201d FOR A FOUR-YEAR TERM - OPEN",
+          "DateClose": "2028-12-31 19:00:00",
+          "DepartmentID": "2295"
+        }
+      }
+    },
+    {
+      "id": "2ffbf46eb3d6",
+      "title": "RFP # 6000002438 - OPEN - RFP # 6000002438 - Request For Proposals For Performance Of Expert Professional Construction Management And Inspection Services As Requested On A \u201cTask Order\u201d Basis For A Four-Year Term - OPEN",
+      "agency": "Port Authority of NY & NJ",
+      "state": "NY",
+      "city": "New York",
+      "category": "construction",
+      "status": "active",
+      "dueDate": "2029-05-31",
+      "publishDate": null,
+      "sourceUrl": "https://panynj.bonfirehub.com/opportunities/202726",
+      "source": "Port Authority of NY & NJ",
+      "description": "",
+      "rawRef": {
+        "reference_number": "RFP # 6000002438 - OPEN",
+        "bonfire_id": "202726",
+        "raw": {
+          "ProjectID": "202726",
+          "PrivateProjectID": "a6c37841be3fb9ee01bd686be983585d",
+          "ReferenceID": "RFP # 6000002438 - OPEN",
+          "ProjectStatusID": "2",
+          "ProjectSubStatusID": "1",
+          "ProjectVisibilityID": "1",
+          "ProjectName": "RFP # 6000002438 - Request For Proposals For Performance Of Expert Professional Construction Management And Inspection Services As Requested On A \u201cTask Order\u201d Basis For A Four-Year Term - OPEN",
+          "DateClose": "2029-05-31 18:00:00",
+          "DepartmentID": "2295"
+        }
+      }
+    },
+    {
+      "id": "e0a86c9f093f",
+      "title": "RFP # 6000002490 - OPEN - RFP # 6000002490 -Request for Proposals for Performance Of Expert Professional Facility Condition Surveys For Tunnels and Waterfronts as Requested on a \u201cTask Order\u201d Basis for a Four-Year Term (RFP# 6000002490) - OPEN",
+      "agency": "Port Authority of NY & NJ",
+      "state": "NY",
+      "city": "New York",
+      "category": "engineering",
+      "status": "active",
+      "dueDate": "2029-05-31",
+      "publishDate": null,
+      "sourceUrl": "https://panynj.bonfirehub.com/opportunities/202724",
+      "source": "Port Authority of NY & NJ",
+      "description": "",
+      "rawRef": {
+        "reference_number": "RFP # 6000002490 - OPEN",
+        "bonfire_id": "202724",
+        "raw": {
+          "ProjectID": "202724",
+          "PrivateProjectID": "b9acdf265857186b46a83f8e885b7bc2",
+          "ReferenceID": "RFP # 6000002490 - OPEN",
+          "ProjectStatusID": "2",
+          "ProjectSubStatusID": "1",
+          "ProjectVisibilityID": "1",
+          "ProjectName": "RFP # 6000002490 -Request for Proposals for Performance Of Expert Professional Facility Condition Surveys For Tunnels and Waterfronts as Requested on a \u201cTask Order\u201d Basis for a Four-Year Term (RFP# 60",
+          "DateClose": "2029-05-31 18:00:00",
+          "DepartmentID": "2295"
+        }
+      }
+    },
+    {
+      "id": "4ccf70cf8305",
+      "title": "RFP # 6000002546 - OPEN - RFP # 6000002546 -Request For Proposals For Performance Of Expert Professional Operational Support Services As Requested On A \u201cTask Order\u201d Basis For A Four-Year Term (RFP #6000002546) - OPEN",
+      "agency": "Port Authority of NY & NJ",
+      "state": "NY",
+      "city": "New York",
+      "category": "other",
+      "status": "active",
+      "dueDate": "2029-06-30",
+      "publishDate": null,
+      "sourceUrl": "https://panynj.bonfirehub.com/opportunities/202715",
+      "source": "Port Authority of NY & NJ",
+      "description": "",
+      "rawRef": {
+        "reference_number": "RFP # 6000002546 - OPEN",
+        "bonfire_id": "202715",
+        "raw": {
+          "ProjectID": "202715",
+          "PrivateProjectID": "8fd8228666bbf9e54bb86ccca50844dc",
+          "ReferenceID": "RFP # 6000002546 - OPEN",
+          "ProjectStatusID": "2",
+          "ProjectSubStatusID": "1",
+          "ProjectVisibilityID": "1",
+          "ProjectName": "RFP # 6000002546 -Request For Proposals For Performance Of Expert Professional Operational Support Services As Requested On A \u201cTask Order\u201d Basis For A Four-Year Term (RFP #6000002546) - OPEN",
+          "DateClose": "2029-06-30 18:00:00",
+          "DepartmentID": "2295"
+        }
+      }
+    },
+    {
+      "id": "41825b122f13",
+      "title": "RFP # 6000002545 - OPEN - RFP # 6000002545 - Request For Proposals For Performance Of Expert Professional Project Support Services As Requested On A \u201cTask Order\u201d Basis For A Four-Year Term - OPEN",
+      "agency": "Port Authority of NY & NJ",
+      "state": "NY",
+      "city": "New York",
+      "category": "other",
+      "status": "active",
+      "dueDate": "2029-06-30",
+      "publishDate": null,
+      "sourceUrl": "https://panynj.bonfirehub.com/opportunities/202720",
+      "source": "Port Authority of NY & NJ",
+      "description": "",
+      "rawRef": {
+        "reference_number": "RFP # 6000002545 - OPEN",
+        "bonfire_id": "202720",
+        "raw": {
+          "ProjectID": "202720",
+          "PrivateProjectID": "d1aa87411692d1e777def88c8ded52f1",
+          "ReferenceID": "RFP # 6000002545 - OPEN",
+          "ProjectStatusID": "2",
+          "ProjectSubStatusID": "1",
+          "ProjectVisibilityID": "1",
+          "ProjectName": "RFP # 6000002545 - Request For Proposals For Performance Of Expert Professional Project Support Services As Requested On A \u201cTask Order\u201d Basis For A Four-Year Term - OPEN",
+          "DateClose": "2029-06-30 18:00:00",
+          "DepartmentID": "2295"
+        }
+      }
+    },
+    {
+      "id": "81f3d4238032",
+      "title": "RFP # 6000002544 - OPEN - RFP # 6000002544 - Request For Proposals For Performance Of Expert Professional Application Support Services As Requested On A \u201cTask Order\u201d Basis For A Four-Year Term (RFP #6000002544) - OPEN",
+      "agency": "Port Authority of NY & NJ",
+      "state": "NY",
+      "city": "New York",
+      "category": "other",
+      "status": "active",
+      "dueDate": "2029-06-30",
+      "publishDate": null,
+      "sourceUrl": "https://panynj.bonfirehub.com/opportunities/202722",
+      "source": "Port Authority of NY & NJ",
+      "description": "",
+      "rawRef": {
+        "reference_number": "RFP # 6000002544 - OPEN",
+        "bonfire_id": "202722",
+        "raw": {
+          "ProjectID": "202722",
+          "PrivateProjectID": "e985a4ddebab623df1e0f9d1665d0e3c",
+          "ReferenceID": "RFP # 6000002544 - OPEN",
+          "ProjectStatusID": "2",
+          "ProjectSubStatusID": "1",
+          "ProjectVisibilityID": "1",
+          "ProjectName": "RFP # 6000002544 - Request For Proposals For Performance Of Expert Professional Application Support Services As Requested On A \u201cTask Order\u201d Basis For A Four-Year Term (RFP #6000002544) - OPEN",
+          "DateClose": "2029-06-30 18:00:00",
+          "DepartmentID": "2295"
+        }
+      }
+    },
+    {
+      "id": "743017853ce1",
+      "title": "RFP # 6000002611 - OPEN - RFP # 6000002611 -Performance Of Expert Professional Program Management And Design Build Support Services As Requested On A \u201cTask Order\u201d Basis For A Four-Year Term (RFP# 6000002611) -OPEN",
+      "agency": "Port Authority of NY & NJ",
+      "state": "NY",
+      "city": "New York",
+      "category": "engineering",
+      "status": "active",
+      "dueDate": "2029-07-31",
+      "publishDate": null,
+      "sourceUrl": "https://panynj.bonfirehub.com/opportunities/202644",
+      "source": "Port Authority of NY & NJ",
+      "description": "",
+      "rawRef": {
+        "reference_number": "RFP # 6000002611 - OPEN",
+        "bonfire_id": "202644",
+        "raw": {
+          "ProjectID": "202644",
+          "PrivateProjectID": "5f7625390267e45cd6f16b7b26dedd50",
+          "ReferenceID": "RFP # 6000002611 - OPEN",
+          "ProjectStatusID": "2",
+          "ProjectSubStatusID": "1",
+          "ProjectVisibilityID": "1",
+          "ProjectName": "RFP # 6000002611 -Performance Of Expert Professional Program Management And Design Build Support Services As Requested On A \u201cTask Order\u201d Basis For A Four-Year Term (RFP# 6000002611) -OPEN",
+          "DateClose": "2029-07-31 18:00:00",
+          "DepartmentID": "2295"
+        }
+      }
+    },
+    {
+      "id": "7a84f1939181",
+      "title": "RFP # 6000002710 - OPEN - RFP # 6000002710 - REQUEST FOR PROPOSALS FOR PERFORMANCE OF EXPERT PROFESSIONAL MULTI-FACILITY ASBESTOS MATERIAL AND LEAD PAINT SERVICES AS REQUESTED ON A \u201cTASK ORDER\u201d BASIS FOR A FOUR-YEAR TERM - OPEN",
+      "agency": "Port Authority of NY & NJ",
+      "state": "NY",
+      "city": "New York",
+      "category": "other",
+      "status": "active",
+      "dueDate": "2029-08-31",
+      "publishDate": null,
+      "sourceUrl": "https://panynj.bonfirehub.com/opportunities/202617",
+      "source": "Port Authority of NY & NJ",
+      "description": "",
+      "rawRef": {
+        "reference_number": "RFP # 6000002710 - OPEN",
+        "bonfire_id": "202617",
+        "raw": {
+          "ProjectID": "202617",
+          "PrivateProjectID": "5b85d8dbc9ad693a96c866883518831b",
+          "ReferenceID": "RFP # 6000002710 - OPEN",
+          "ProjectStatusID": "2",
+          "ProjectSubStatusID": "1",
+          "ProjectVisibilityID": "1",
+          "ProjectName": "RFP # 6000002710 - REQUEST FOR PROPOSALS FOR PERFORMANCE OF EXPERT PROFESSIONAL MULTI-FACILITY ASBESTOS MATERIAL AND LEAD PAINT SERVICES AS REQUESTED ON A \u201cTASK ORDER\u201d BASIS FOR A FOUR-YEAR TERM - OPE",
+          "DateClose": "2029-08-31 18:00:00",
+          "DepartmentID": "2295"
+        }
+      }
+    },
+    {
+      "id": "b241799cba94",
+      "title": "RFQS # 6000001829 - OPEN - RFQS # 6000001829 - Master Agreements for Priority Marine Rehabilitation on a Work Order Basis \u2013 New York and New Jersey Marine Terminals - OPEN",
+      "agency": "Port Authority of NY & NJ",
+      "state": "NY",
+      "city": "New York",
+      "category": "other",
+      "status": "active",
+      "dueDate": "2029-12-31",
+      "publishDate": null,
+      "sourceUrl": "https://panynj.bonfirehub.com/opportunities/181801",
+      "source": "Port Authority of NY & NJ",
+      "description": "",
+      "rawRef": {
+        "reference_number": "RFQS # 6000001829 - OPEN",
+        "bonfire_id": "181801",
+        "raw": {
+          "ProjectID": "181801",
+          "PrivateProjectID": "0a09e7acf3c0dd938b5f5b5acdaeaff2",
+          "ReferenceID": "RFQS # 6000001829 - OPEN",
+          "ProjectStatusID": "2",
+          "ProjectSubStatusID": "1",
+          "ProjectVisibilityID": "1",
+          "ProjectName": "RFQS # 6000001829 - Master Agreements for Priority Marine Rehabilitation on a Work Order Basis \u2013 New York and New Jersey Marine Terminals - OPEN",
+          "DateClose": "2029-12-31 19:00:00",
+          "DepartmentID": "2296"
+        }
+      }
+    },
+    {
+      "id": "bacb37dd56b9",
+      "title": "RFP #  6000002321 - OPEN - RFP #  6000002321 - REQUEST FOR PROPOSALS FOR PERFORMANCE OF EXPERT AIRPORT ENVIRONMENTAL CONSULTING SERVICES AS REQUESTED ON A \u201cCALL-IN\u201d BASIS DURING 2025 THROUGH 2029 - OPEN",
+      "agency": "Port Authority of NY & NJ",
+      "state": "NY",
+      "city": "New York",
+      "category": "other",
+      "status": "active",
+      "dueDate": "2030-07-29",
+      "publishDate": null,
+      "sourceUrl": "https://panynj.bonfirehub.com/opportunities/202571",
+      "source": "Port Authority of NY & NJ",
+      "description": "",
+      "rawRef": {
+        "reference_number": "RFP #  6000002321 - OPEN",
+        "bonfire_id": "202571",
+        "raw": {
+          "ProjectID": "202571",
+          "PrivateProjectID": "de56cd06240a87eb0c8717228957f90b",
+          "ReferenceID": "RFP #  6000002321 - OPEN",
+          "ProjectStatusID": "2",
+          "ProjectSubStatusID": "1",
+          "ProjectVisibilityID": "1",
+          "ProjectName": "RFP #  6000002321 - REQUEST FOR PROPOSALS FOR PERFORMANCE OF EXPERT AIRPORT ENVIRONMENTAL CONSULTING SERVICES AS REQUESTED ON A \u201cCALL-IN\u201d BASIS DURING 2025 THROUGH 2029 - OPEN",
+          "DateClose": "2030-07-29 18:00:00",
+          "DepartmentID": "2295"
+        }
+      }
+    },
+    {
+      "id": "a7d3d0141f0a",
+      "title": "RFP # 6000002322 - OPEN - RFP # 6000002322 - Request for Proposals for Performance of Expert Professional Airport Forecasting, Capacity Planning, and Facility Planning Consulting Services - OPEN",
+      "agency": "Port Authority of NY & NJ",
+      "state": "NY",
+      "city": "New York",
+      "category": "other",
+      "status": "active",
+      "dueDate": "2030-07-29",
+      "publishDate": null,
+      "sourceUrl": "https://panynj.bonfirehub.com/opportunities/202563",
+      "source": "Port Authority of NY & NJ",
+      "description": "",
+      "rawRef": {
+        "reference_number": "RFP # 6000002322 - OPEN",
+        "bonfire_id": "202563",
+        "raw": {
+          "ProjectID": "202563",
+          "PrivateProjectID": "ac7ba2515a3cce20ff81924f9c679f35",
+          "ReferenceID": "RFP # 6000002322 - OPEN",
+          "ProjectStatusID": "2",
+          "ProjectSubStatusID": "1",
+          "ProjectVisibilityID": "1",
+          "ProjectName": "RFP # 6000002322 - Request for Proposals for Performance of Expert Professional Airport Forecasting, Capacity Planning, and Facility Planning Consulting Services - OPEN",
+          "DateClose": "2030-07-29 18:00:00",
+          "DepartmentID": "2295"
+        }
+      }
+    },
+    {
+      "id": "7dc3f525e85b",
+      "title": "RFP # 6000002328 - OPEN - RFP # 6000002328 - Request for Proposals for Performance of Expert Professional Airport Information Technology and Innovation Consulting Services (RFP# 600002328) - OPEN",
+      "agency": "Port Authority of NY & NJ",
+      "state": "NY",
+      "city": "New York",
+      "category": "other",
+      "status": "active",
+      "dueDate": "2030-07-29",
+      "publishDate": null,
+      "sourceUrl": "https://panynj.bonfirehub.com/opportunities/202553",
+      "source": "Port Authority of NY & NJ",
+      "description": "",
+      "rawRef": {
+        "reference_number": "RFP # 6000002328 - OPEN",
+        "bonfire_id": "202553",
+        "raw": {
+          "ProjectID": "202553",
+          "PrivateProjectID": "71248b586edfd82d3fa0386219d84520",
+          "ReferenceID": "RFP # 6000002328 - OPEN",
+          "ProjectStatusID": "2",
+          "ProjectSubStatusID": "1",
+          "ProjectVisibilityID": "1",
+          "ProjectName": "RFP # 6000002328 - Request for Proposals for Performance of Expert Professional Airport Information Technology and Innovation Consulting Services (RFP# 600002328) - OPEN",
+          "DateClose": "2030-07-29 18:00:00",
+          "DepartmentID": "2295"
+        }
+      }
+    },
+    {
+      "id": "262991013dc6",
+      "title": "RFP # 6000002330 - OPEN - RFP # 6000002330 -Request for Proposals for Performance of Expert Professional Airport Properties and Commercial Development Consulting Services during 2025 through 2029 (RFP# 600002330) - Duplicate 1",
+      "agency": "Port Authority of NY & NJ",
+      "state": "NY",
+      "city": "New York",
+      "category": "other",
+      "status": "active",
+      "dueDate": "2030-07-30",
+      "publishDate": null,
+      "sourceUrl": "https://panynj.bonfirehub.com/opportunities/202549",
+      "source": "Port Authority of NY & NJ",
+      "description": "",
+      "rawRef": {
+        "reference_number": "RFP # 6000002330 - OPEN",
+        "bonfire_id": "202549",
+        "raw": {
+          "ProjectID": "202549",
+          "PrivateProjectID": "02a4b957e5b1ed696693838c0dd43fb1",
+          "ReferenceID": "RFP # 6000002330 - OPEN",
+          "ProjectStatusID": "2",
+          "ProjectSubStatusID": "1",
+          "ProjectVisibilityID": "1",
+          "ProjectName": "RFP # 6000002330 -Request for Proposals for Performance of Expert Professional Airport Properties and Commercial Development Consulting Services during 2025 through 2029 (RFP# 600002330) - Duplicate 1",
+          "DateClose": "2030-07-30 18:00:00",
+          "DepartmentID": "2295"
+        }
+      }
+    },
+    {
+      "id": "ee42ac4a2a1b",
+      "title": "RFP # 6000002664 - OPEN - RFP # 6000002664 - REQUEST FOR PROPOSALS FOR PERFORMANCE OF EXPERT PROFESSIONAL AIRPORT CUSTOMER EXPERIENCE CONSULTING (SMALL BUSINESS ENTERPRISES) SERVICES AS REQUESTED ON A \u201cCALL-IN\u201d  BASIS DURING 2025 THROUGH 2029 - OPEN",
+      "agency": "Port Authority of NY & NJ",
+      "state": "NY",
+      "city": "New York",
+      "category": "other",
+      "status": "active",
+      "dueDate": "2030-08-30",
+      "publishDate": null,
+      "sourceUrl": "https://panynj.bonfirehub.com/opportunities/201979",
+      "source": "Port Authority of NY & NJ",
+      "description": "",
+      "rawRef": {
+        "reference_number": "RFP # 6000002664 - OPEN",
+        "bonfire_id": "201979",
+        "raw": {
+          "ProjectID": "201979",
+          "PrivateProjectID": "fcf09fd50f40fe63b828b376e2524ffa",
+          "ReferenceID": "RFP # 6000002664 - OPEN",
+          "ProjectStatusID": "2",
+          "ProjectSubStatusID": "1",
+          "ProjectVisibilityID": "1",
+          "ProjectName": "RFP # 6000002664 - REQUEST FOR PROPOSALS FOR PERFORMANCE OF EXPERT PROFESSIONAL AIRPORT CUSTOMER EXPERIENCE CONSULTING (SMALL BUSINESS ENTERPRISES) SERVICES AS REQUESTED ON A \u201cCALL-IN\u201d  BASIS DURING 2",
+          "DateClose": "2030-08-30 18:00:00",
+          "DepartmentID": "2295"
+        }
+      }
+    },
+    {
+      "id": "2d0011b26d19",
+      "title": "RFP # 6000002329 - OPEN - RFP # 6000002329 - Request for Proposals for Performance of Expert Professional Aeronautical Technical Services and Safety Management Systems (SMS) Consulting Services during 2025 through 2029 - OPEN",
+      "agency": "Port Authority of NY & NJ",
+      "state": "NY",
+      "city": "New York",
+      "category": "other",
+      "status": "active",
+      "dueDate": "2030-08-31",
+      "publishDate": null,
+      "sourceUrl": "https://panynj.bonfirehub.com/opportunities/202717",
+      "source": "Port Authority of NY & NJ",
+      "description": "",
+      "rawRef": {
+        "reference_number": "RFP # 6000002329 - OPEN",
+        "bonfire_id": "202717",
+        "raw": {
+          "ProjectID": "202717",
+          "PrivateProjectID": "d413310adb8815a7cfb77842f61f08db",
+          "ReferenceID": "RFP # 6000002329 - OPEN",
+          "ProjectStatusID": "2",
+          "ProjectSubStatusID": "1",
+          "ProjectVisibilityID": "1",
+          "ProjectName": "RFP # 6000002329 - Request for Proposals for Performance of Expert Professional Aeronautical Technical Services and Safety Management Systems (SMS) Consulting Services during 2025 through 2029 - OPEN",
+          "DateClose": "2030-08-31 18:00:00",
+          "DepartmentID": "2295"
+        }
+      }
+    },
+    {
+      "id": "28237ecb1117",
+      "title": "RFP # 6000002333 - OPEN - RFP # 6000002333 - REQUEST FOR PROPOSALS FOR PERFORMANCE OF EXPERT PROFESSIONAL AIRPORT FINANCIAL AND BUSINESS PLANNING, AND PROJECT FUNDING PROGRAMS CONSULTING SERVICES AS REQUESTED ON A \u201cCALL-IN\u201d BASIS DURING 2025 THROUGH 2029 (RFP# 6000002333) - OPEN",
+      "agency": "Port Authority of NY & NJ",
+      "state": "NY",
+      "city": "New York",
+      "category": "other",
+      "status": "active",
+      "dueDate": "2030-08-31",
+      "publishDate": null,
+      "sourceUrl": "https://panynj.bonfirehub.com/opportunities/202714",
+      "source": "Port Authority of NY & NJ",
+      "description": "",
+      "rawRef": {
+        "reference_number": "RFP # 6000002333 - OPEN",
+        "bonfire_id": "202714",
+        "raw": {
+          "ProjectID": "202714",
+          "PrivateProjectID": "a4ba65672eae20d2f3b2f4d98481d855",
+          "ReferenceID": "RFP # 6000002333 - OPEN",
+          "ProjectStatusID": "2",
+          "ProjectSubStatusID": "1",
+          "ProjectVisibilityID": "1",
+          "ProjectName": "RFP # 6000002333 - REQUEST FOR PROPOSALS FOR PERFORMANCE OF EXPERT PROFESSIONAL AIRPORT FINANCIAL AND BUSINESS PLANNING, AND PROJECT FUNDING PROGRAMS CONSULTING SERVICES AS REQUESTED ON A \u201cCALL-IN\u201d BA",
+          "DateClose": "2030-08-31 18:00:00",
+          "DepartmentID": "2295"
+        }
+      }
+    },
+    {
+      "id": "9edae1ed0b73",
+      "title": "RFP # 6000002323 - OPEN - RFP # 6000002323 - Request for Proposals for Performance of Expert Professional Airport Data Analysis and Business Intelligence Consulting Services during 2025 through 2029 - OPEN",
+      "agency": "Port Authority of NY & NJ",
+      "state": "NY",
+      "city": "New York",
+      "category": "other",
+      "status": "active",
+      "dueDate": "2030-08-31",
+      "publishDate": null,
+      "sourceUrl": "https://panynj.bonfirehub.com/opportunities/202647",
+      "source": "Port Authority of NY & NJ",
+      "description": "",
+      "rawRef": {
+        "reference_number": "RFP # 6000002323 - OPEN",
+        "bonfire_id": "202647",
+        "raw": {
+          "ProjectID": "202647",
+          "PrivateProjectID": "b26c87628942c010e7020010f9a30a8c",
+          "ReferenceID": "RFP # 6000002323 - OPEN",
+          "ProjectStatusID": "2",
+          "ProjectSubStatusID": "1",
+          "ProjectVisibilityID": "1",
+          "ProjectName": "RFP # 6000002323 - Request for Proposals for Performance of Expert Professional Airport Data Analysis and Business Intelligence Consulting Services during 2025 through 2029 - OPEN",
+          "DateClose": "2030-08-31 18:00:00",
+          "DepartmentID": "2295"
+        }
+      }
+    },
+    {
+      "id": "5523fc7f3906",
+      "title": "RFP # 6000002324 - OPEN - RFP # 6000002324 - Request for Proposals for Performance of Expert Professional Airport Customer Experience Consulting Services during 2025 through 2029 -OPEN",
+      "agency": "Port Authority of NY & NJ",
+      "state": "NY",
+      "city": "New York",
+      "category": "other",
+      "status": "active",
+      "dueDate": "2030-08-31",
+      "publishDate": null,
+      "sourceUrl": "https://panynj.bonfirehub.com/opportunities/202639",
+      "source": "Port Authority of NY & NJ",
+      "description": "",
+      "rawRef": {
+        "reference_number": "RFP # 6000002324 - OPEN",
+        "bonfire_id": "202639",
+        "raw": {
+          "ProjectID": "202639",
+          "PrivateProjectID": "68cbba78b5741c101383513dd2970556",
+          "ReferenceID": "RFP # 6000002324 - OPEN",
+          "ProjectStatusID": "2",
+          "ProjectSubStatusID": "1",
+          "ProjectVisibilityID": "1",
+          "ProjectName": "RFP # 6000002324 - Request for Proposals for Performance of Expert Professional Airport Customer Experience Consulting Services during 2025 through 2029 -OPEN",
+          "DateClose": "2030-08-31 18:00:00",
+          "DepartmentID": "2295"
+        }
+      }
+    },
+    {
+      "id": "ce26f9e8fed7",
+      "title": "RFP # 6000002325 - OPEN - RFP # 6000002325 - Request for Proposals for Performance of Expert Professional Airport Asset Management Consulting Services during 2025 through 2029 - OPEN",
+      "agency": "Port Authority of NY & NJ",
+      "state": "NY",
+      "city": "New York",
+      "category": "other",
+      "status": "active",
+      "dueDate": "2030-08-31",
+      "publishDate": null,
+      "sourceUrl": "https://panynj.bonfirehub.com/opportunities/202629",
+      "source": "Port Authority of NY & NJ",
+      "description": "",
+      "rawRef": {
+        "reference_number": "RFP # 6000002325 - OPEN",
+        "bonfire_id": "202629",
+        "raw": {
+          "ProjectID": "202629",
+          "PrivateProjectID": "b671ef4bc8d49aac998f4d2cb5d3b532",
+          "ReferenceID": "RFP # 6000002325 - OPEN",
+          "ProjectStatusID": "2",
+          "ProjectSubStatusID": "1",
+          "ProjectVisibilityID": "1",
+          "ProjectName": "RFP # 6000002325 - Request for Proposals for Performance of Expert Professional Airport Asset Management Consulting Services during 2025 through 2029 - OPEN",
+          "DateClose": "2030-08-31 18:00:00",
+          "DepartmentID": "2295"
+        }
+      }
+    },
+    {
+      "id": "37e44c290d6f",
+      "title": "RFP # 6000001825 - OPEN - RFP # 6000001825 - REQUEST FOR PROPOSALS FOR PERFORMANCE OF EXPERT PROFESSIONAL TENANT ALTERATION APPLICATION (TAA) CODE REVIEW SERVICES AS REQUESTED ON A TASK ORDER BASIS FOR A FOUR-YEAR TERM - OPEN",
+      "agency": "Port Authority of NY & NJ",
+      "state": "NY",
+      "city": "New York",
+      "category": "other",
+      "status": "active",
+      "dueDate": "2030-11-29",
+      "publishDate": null,
+      "sourceUrl": "https://panynj.bonfirehub.com/opportunities/202586",
+      "source": "Port Authority of NY & NJ",
+      "description": "",
+      "rawRef": {
+        "reference_number": "RFP # 6000001825 - OPEN",
+        "bonfire_id": "202586",
+        "raw": {
+          "ProjectID": "202586",
+          "PrivateProjectID": "12003eb072f5c19bde89a0408d443a3f",
+          "ReferenceID": "RFP # 6000001825 - OPEN",
+          "ProjectStatusID": "2",
+          "ProjectSubStatusID": "1",
+          "ProjectVisibilityID": "1",
+          "ProjectName": "RFP # 6000001825 - REQUEST FOR PROPOSALS FOR PERFORMANCE OF EXPERT PROFESSIONAL TENANT ALTERATION APPLICATION (TAA) CODE REVIEW SERVICES AS REQUESTED ON A TASK ORDER BASIS FOR A FOUR-YEAR TERM - OPEN",
+          "DateClose": "2030-11-29 19:00:00",
+          "DepartmentID": "2295"
+        }
+      }
+    },
+    {
+      "id": "67c3b55597e8",
+      "title": "RFP # 6000002382 - OPEN - RFP # 6000002382 - Request for Proposals (RFP) for the performance of expert professional land surveying services \u2013 hydrographic, photogrammetric, topographic and boundary, and subsurface utility engineering surveying services as requested - OPEN",
+      "agency": "Port Authority of NY & NJ",
+      "state": "NY",
+      "city": "New York",
+      "category": "engineering",
+      "status": "active",
+      "dueDate": "2030-11-29",
+      "publishDate": null,
+      "sourceUrl": "https://panynj.bonfirehub.com/opportunities/202577",
+      "source": "Port Authority of NY & NJ",
+      "description": "",
+      "rawRef": {
+        "reference_number": "RFP # 6000002382 - OPEN",
+        "bonfire_id": "202577",
+        "raw": {
+          "ProjectID": "202577",
+          "PrivateProjectID": "18026a6c86051527bf23c5eac910ac41",
+          "ReferenceID": "RFP # 6000002382 - OPEN",
+          "ProjectStatusID": "2",
+          "ProjectSubStatusID": "1",
+          "ProjectVisibilityID": "1",
+          "ProjectName": "RFP # 6000002382 - Request for Proposals (RFP) for the performance of expert professional land surveying services \u2013 hydrographic, photogrammetric, topographic and boundary, and subsurface utility engi",
+          "DateClose": "2030-11-29 19:00:00",
+          "DepartmentID": "2295"
+        }
+      }
+    },
+    {
+      "id": "8baebe6b24ee",
+      "title": "RFP# 6000001073 - OPEN - RFP# 6000001073 - Request for Proposals for Performance of Expert Professional Internal Audit Services as Requested on a \u201cCall-In\u201d Basis During 2023 through 2026  Services (RFP#6000001073) - OPEN",
+      "agency": "Port Authority of NY & NJ",
+      "state": "NY",
+      "city": "New York",
+      "category": "other",
+      "status": "active",
+      "dueDate": "2030-11-29",
+      "publishDate": null,
+      "sourceUrl": "https://panynj.bonfirehub.com/opportunities/176525",
+      "source": "Port Authority of NY & NJ",
+      "description": "",
+      "rawRef": {
+        "reference_number": "RFP# 6000001073 - OPEN",
+        "bonfire_id": "176525",
+        "raw": {
+          "ProjectID": "176525",
+          "PrivateProjectID": "63bddb260a90bf075ddda16b75594892",
+          "ReferenceID": "RFP# 6000001073 - OPEN",
+          "ProjectStatusID": "2",
+          "ProjectSubStatusID": "1",
+          "ProjectVisibilityID": "1",
+          "ProjectName": "RFP# 6000001073 - Request for Proposals for Performance of Expert Professional Internal Audit Services as Requested on a \u201cCall-In\u201d Basis During 2023 through 2026  Services (RFP#6000001073) - OPEN",
+          "DateClose": "2030-11-29 19:00:00",
+          "DepartmentID": "2295"
+        }
+      }
+    },
+    {
+      "id": "584bb617320b",
+      "title": "RFQS # 6000001282 - OPEN - RFQS # 6000001282 - MASTER AGREEMENTS FOR GENERAL CONSTRUCTION SERVICES ON A WORK ORDER BASIS \u2013 AIRTRAIN NEWARK REPLACMENT PROJECT - OPEN",
+      "agency": "Port Authority of NY & NJ",
+      "state": "NY",
+      "city": "New York",
+      "category": "construction",
+      "status": "active",
+      "dueDate": "2030-12-10",
+      "publishDate": null,
+      "sourceUrl": "https://panynj.bonfirehub.com/opportunities/164855",
+      "source": "Port Authority of NY & NJ",
+      "description": "",
+      "rawRef": {
+        "reference_number": "RFQS # 6000001282 - OPEN",
+        "bonfire_id": "164855",
+        "raw": {
+          "ProjectID": "164855",
+          "PrivateProjectID": "f215712341556892bd7d047970ddd043",
+          "ReferenceID": "RFQS # 6000001282 - OPEN",
+          "ProjectStatusID": "2",
+          "ProjectSubStatusID": "1",
+          "ProjectVisibilityID": "1",
+          "ProjectName": "RFQS # 6000001282 - MASTER AGREEMENTS FOR GENERAL CONSTRUCTION SERVICES ON A WORK ORDER BASIS \u2013 AIRTRAIN NEWARK REPLACMENT PROJECT - OPEN",
+          "DateClose": "2030-12-10 19:00:00",
+          "DepartmentID": "2296"
+        }
+      }
+    },
+    {
+      "id": "f4cb44cba794",
+      "title": "RFP #  6000002818 - OPEN - RFP #  6000002818 - REQUEST FOR PROPOSALS FOR PERFORMANCE OF EXPERT PROFESSIONAL CLEAN CONSTRUCTION (SMALL BUSINESS ENTERPRISE) SERVICES AS REQUESTED ON A \u201cCALL-IN\u201d BASIS FOR A FOUR-YEAR TERM - OPEN",
+      "agency": "Port Authority of NY & NJ",
+      "state": "NY",
+      "city": "New York",
+      "category": "construction",
+      "status": "active",
+      "dueDate": "2030-12-31",
+      "publishDate": null,
+      "sourceUrl": "https://panynj.bonfirehub.com/opportunities/187299",
+      "source": "Port Authority of NY & NJ",
+      "description": "",
+      "rawRef": {
+        "reference_number": "RFP #  6000002818 - OPEN",
+        "bonfire_id": "187299",
+        "raw": {
+          "ProjectID": "187299",
+          "PrivateProjectID": "bb59623a2fd0377d3c7209329d405c30",
+          "ReferenceID": "RFP #  6000002818 - OPEN",
+          "ProjectStatusID": "2",
+          "ProjectSubStatusID": "1",
+          "ProjectVisibilityID": "1",
+          "ProjectName": "RFP #  6000002818 - REQUEST FOR PROPOSALS FOR PERFORMANCE OF EXPERT PROFESSIONAL CLEAN CONSTRUCTION (SMALL BUSINESS ENTERPRISE) SERVICES AS REQUESTED ON A \u201cCALL-IN\u201d BASIS FOR A FOUR-YEAR TERM - OPEN",
+          "DateClose": "2030-12-31 19:00:00",
+          "DepartmentID": "2295"
+        }
+      }
+    },
+    {
+      "id": "6b62672fd15e",
+      "title": "RFP # 6000002727 - OPEN - RFP # 6000002727 - PERFORMANCE OF EXPERT PROFESSIONAL FIRE PROTECTION FIELD INSPECTION (SMALL BUSINESS ENTERPRISES) SERVICES AS REQUESTED ON A \u201cCALL-IN\u201d BASIS FOR A FOUR-YEAR TERM - OPEN",
+      "agency": "Port Authority of NY & NJ",
+      "state": "NY",
+      "city": "New York",
+      "category": "engineering",
+      "status": "active",
+      "dueDate": "2030-12-31",
+      "publishDate": null,
+      "sourceUrl": "https://panynj.bonfirehub.com/opportunities/202713",
+      "source": "Port Authority of NY & NJ",
+      "description": "",
+      "rawRef": {
+        "reference_number": "RFP # 6000002727 - OPEN",
+        "bonfire_id": "202713",
+        "raw": {
+          "ProjectID": "202713",
+          "PrivateProjectID": "ffb7839433008113a27f32680b52d3e8",
+          "ReferenceID": "RFP # 6000002727 - OPEN",
+          "ProjectStatusID": "2",
+          "ProjectSubStatusID": "1",
+          "ProjectVisibilityID": "1",
+          "ProjectName": "RFP # 6000002727 - PERFORMANCE OF EXPERT PROFESSIONAL FIRE PROTECTION FIELD INSPECTION (SMALL BUSINESS ENTERPRISES) SERVICES AS REQUESTED ON A \u201cCALL-IN\u201d BASIS FOR A FOUR-YEAR TERM - OPEN",
+          "DateClose": "2030-12-31 19:00:00",
+          "DepartmentID": "2295"
+        }
+      }
+    },
+    {
+      "id": "8c6c7a9b72d4",
+      "title": "Notice of Intent for RFP# 6000002605 (OPEN) - Notice of Intent for RFP# 6000002605 - Notice of Intent to Release a Request for Proposal  for Performance of Expert Professional Architecture/Engineering Design and Management, Land Survey, Cost Estimating, Quality Assurance, and Related Technical Service",
+      "agency": "Port Authority of NY & NJ",
+      "state": "NY",
+      "city": "New York",
+      "category": "engineering",
+      "status": "active",
+      "dueDate": "2031-05-05",
+      "publishDate": null,
+      "sourceUrl": "https://panynj.bonfirehub.com/opportunities/185371",
+      "source": "Port Authority of NY & NJ",
+      "description": "",
+      "rawRef": {
+        "reference_number": "Notice of Intent for RFP# 6000002605 (OPEN)",
+        "bonfire_id": "185371",
+        "raw": {
+          "ProjectID": "185371",
+          "PrivateProjectID": "2f58377563e7d1f8dd4035bcd8970b14",
+          "ReferenceID": "Notice of Intent for RFP# 6000002605 (OPEN)",
+          "ProjectStatusID": "2",
+          "ProjectSubStatusID": "1",
+          "ProjectVisibilityID": "1",
+          "ProjectName": "Notice of Intent for RFP# 6000002605 - Notice of Intent to Release a Request for Proposal  for Performance of Expert Professional Architecture/Engineering Design and Management, Land Survey, Cost Esti",
+          "DateClose": "2031-05-05 04:00:00",
+          "DepartmentID": "2295"
+        }
+      }
+    },
+    {
+      "id": "aee8da5eeb1b",
+      "title": "85026B0044 - HWXS711 - RECONSTRUCTION OF DAVIDSON AVE STEP STREET",
+      "agency": "DEPARTMENT OF DESIGN AND CONSTRUCTION",
+      "state": "NY",
+      "city": "New York",
+      "category": "construction",
+      "status": "active",
+      "dueDate": null,
+      "publishDate": "2026-01-30",
+      "sourceUrl": "https://passport.cityofnewyork.us/page.aspx/en/bpm/process_manage_extranet/35423",
+      "source": "NYC PASSPort",
+      "description": "Program: INFRASTRUCTURE; Industry: Construction; Status: Released",
+      "rawRef": {
+        "epin": "85026B0044",
+        "industry": "Construction",
+        "program": "INFRASTRUCTURE",
+        "rfx_status": "Released"
+      }
+    },
+    {
+      "id": "a2624876d189",
+      "title": "07126P0004-FY27 RFP Franklin Women\u2019s Shelter",
+      "agency": "DEPARTMENT OF HOMELESS SERVICES",
+      "state": "NY",
+      "city": "New York",
+      "category": "other",
+      "status": "active",
+      "dueDate": null,
+      "publishDate": "2026-02-24",
+      "sourceUrl": "https://passport.cityofnewyork.us/page.aspx/en/bpm/process_manage_extranet/35420",
+      "source": "NYC PASSPort",
+      "description": "Program: Stand Alone Transitional Residence for Single Adults; Industry: Human/Client Service; Status: Released",
+      "rawRef": {
+        "epin": "07126P0004",
+        "industry": "Human/Client Service",
+        "program": "Stand Alone Transitional Residence for Single Adults",
+        "rfx_status": "Released"
+      }
+    },
+    {
+      "id": "1a7400e9e4bb",
+      "title": "84126P0006-Data Collection and Tabulation/Analysis Services",
+      "agency": "DEPARTMENT OF TRANSPORTATION",
+      "state": "NY",
+      "city": "New York",
+      "category": "other",
+      "status": "active",
+      "dueDate": null,
+      "publishDate": "2026-02-23",
+      "sourceUrl": "https://passport.cityofnewyork.us/page.aspx/en/bpm/process_manage_extranet/35401",
+      "source": "NYC PASSPort",
+      "description": "Program: Transportation Planning & Management; Industry: Professional Services; Status: Released",
+      "rawRef": {
+        "epin": "84126P0006",
+        "industry": "Professional Services",
+        "program": "Transportation Planning & Management",
+        "rfx_status": "Released"
+      }
+    },
+    {
+      "id": "fe915cead208",
+      "title": "07125P0011-DHS Meal Program (Citywide)",
+      "agency": "DEPARTMENT OF HOMELESS SERVICES",
+      "state": "NY",
+      "city": "New York",
+      "category": "other",
+      "status": "active",
+      "dueDate": null,
+      "publishDate": "2026-02-23",
+      "sourceUrl": "https://passport.cityofnewyork.us/page.aspx/en/bpm/process_manage_extranet/35400",
+      "source": "NYC PASSPort",
+      "description": "Program: DHS Administration (Contracts & Payment Management Service); Industry: Standard Services; Status: Released",
+      "rawRef": {
+        "epin": "07125P0011",
+        "industry": "Standard Services",
+        "program": "DHS Administration (Contracts & Payment Management Service)",
+        "rfx_status": "Released"
+      }
+    },
+    {
+      "id": "4231d5df3734",
+      "title": "85626Y0750- Art Supplies-Creative Services-Round 2",
+      "agency": "DEPARTMENT OF CITYWIDE ADMINISTRATIVE SERVICES",
+      "state": "NY",
+      "city": "New York",
+      "category": "other",
+      "status": "active",
+      "dueDate": null,
+      "publishDate": "2026-02-24",
+      "sourceUrl": "https://passport.cityofnewyork.us/page.aspx/en/bpm/process_manage_extranet/35399",
+      "source": "NYC PASSPort",
+      "description": "Industry: Goods; Status: Responses Received",
+      "rawRef": {
+        "epin": "85626Y0750",
+        "industry": "Goods",
+        "program": "",
+        "rfx_status": "Responses Received"
+      }
+    },
+    {
+      "id": "a563bdf68c77",
+      "title": "06926Y0405-Subscription to 1 Atlassian Confluence Standard License for 2-Years - AR227630/SO7672R",
+      "agency": "DEPARTMENT OF SOCIAL SERVICES",
+      "state": "NY",
+      "city": "New York",
+      "category": "other",
+      "status": "active",
+      "dueDate": null,
+      "publishDate": "2026-02-20",
+      "sourceUrl": "https://passport.cityofnewyork.us/page.aspx/en/bpm/process_manage_extranet/35354",
+      "source": "NYC PASSPort",
+      "description": "Industry: Goods - IT Related; Status: Planned",
+      "rawRef": {
+        "epin": "06926Y0405",
+        "industry": "Goods - IT Related",
+        "program": "",
+        "rfx_status": "Planned"
+      }
+    },
+    {
+      "id": "797edc84b84d",
+      "title": "85026Y0154-Complete Plus Subscription",
+      "agency": "DEPARTMENT OF DESIGN AND CONSTRUCTION",
+      "state": "NY",
+      "city": "New York",
+      "category": "construction",
+      "status": "active",
+      "dueDate": null,
+      "publishDate": "2026-02-20",
+      "sourceUrl": "https://passport.cityofnewyork.us/page.aspx/en/bpm/process_manage_extranet/35350",
+      "source": "NYC PASSPort",
+      "description": "Program: PROGRAM MANAGEMENT; Industry: Goods - Construction Related; Status: Released",
+      "rawRef": {
+        "epin": "85026Y0154",
+        "industry": "Goods - Construction Related",
+        "program": "PROGRAM MANAGEMENT",
+        "rfx_status": "Released"
+      }
+    },
+    {
+      "id": "955b44b85184",
+      "title": "85026B0053 - PV028-ISS Issue Project Room Interior Fit Out: Contract #4 Electrical",
+      "agency": "DEPARTMENT OF DESIGN AND CONSTRUCTION",
+      "state": "NY",
+      "city": "New York",
+      "category": "construction",
+      "status": "active",
+      "dueDate": null,
+      "publishDate": "2026-01-09",
+      "sourceUrl": "https://passport.cityofnewyork.us/page.aspx/en/bpm/process_manage_extranet/35339",
+      "source": "NYC PASSPort",
+      "description": "Program: PUBLIC BUILDINGS; Industry: Construction; Status: Released",
+      "rawRef": {
+        "epin": "85026B0053",
+        "industry": "Construction",
+        "program": "PUBLIC BUILDINGS",
+        "rfx_status": "Released"
+      }
+    },
+    {
+      "id": "0f3cc244aa95",
+      "title": "85026B0054 - PV028-ISS Issue Project Room Interior Fit Out: Contract #3 HVAC",
+      "agency": "DEPARTMENT OF DESIGN AND CONSTRUCTION",
+      "state": "NY",
+      "city": "New York",
+      "category": "construction",
+      "status": "active",
+      "dueDate": null,
+      "publishDate": "2026-01-09",
+      "sourceUrl": "https://passport.cityofnewyork.us/page.aspx/en/bpm/process_manage_extranet/35338",
+      "source": "NYC PASSPort",
+      "description": "Program: PUBLIC BUILDINGS; Industry: Construction; Status: Released",
+      "rawRef": {
+        "epin": "85026B0054",
+        "industry": "Construction",
+        "program": "PUBLIC BUILDINGS",
+        "rfx_status": "Released"
+      }
+    },
+    {
+      "id": "7452d321fdc3",
+      "title": "85026B0055 - PV028-ISS Issue Project Room Interior Fit Out: Contract #2 Plumbing",
+      "agency": "DEPARTMENT OF DESIGN AND CONSTRUCTION",
+      "state": "NY",
+      "city": "New York",
+      "category": "construction",
+      "status": "active",
+      "dueDate": null,
+      "publishDate": "2026-01-09",
+      "sourceUrl": "https://passport.cityofnewyork.us/page.aspx/en/bpm/process_manage_extranet/35336",
+      "source": "NYC PASSPort",
+      "description": "Program: PUBLIC BUILDINGS; Industry: Construction; Status: Released",
+      "rawRef": {
+        "epin": "85026B0055",
+        "industry": "Construction",
+        "program": "PUBLIC BUILDINGS",
+        "rfx_status": "Released"
+      }
+    },
+    {
+      "id": "58bf6985f96b",
+      "title": "RVM-1 for the Purchase of Ross Regulator Parts.",
+      "agency": "DEPARTMENT OF ENVIRONMENTAL PROTECTION",
+      "state": "NY",
+      "city": "New York",
+      "category": "other",
+      "status": "active",
+      "dueDate": null,
+      "publishDate": "2026-02-26",
+      "sourceUrl": "https://passport.cityofnewyork.us/page.aspx/en/bpm/process_manage_extranet/35333",
+      "source": "NYC PASSPort",
+      "description": "Program: WATER AND SEWER OPERATION; Industry: Goods; Status: Released",
+      "rawRef": {
+        "epin": "82626Y0829",
+        "industry": "Goods",
+        "program": "WATER AND SEWER OPERATION",
+        "rfx_status": "Released"
+      }
+    },
+    {
+      "id": "df416a34a9c1",
+      "title": "82626B0025-BEDC-CSO-GC-SFS-RH3-CP3 Construction of CSO Facility Superstructure",
+      "agency": "DEPARTMENT OF ENVIRONMENTAL PROTECTION",
+      "state": "NY",
+      "city": "New York",
+      "category": "construction",
+      "status": "active",
+      "dueDate": null,
+      "publishDate": "2025-12-29",
+      "sourceUrl": "https://passport.cityofnewyork.us/page.aspx/en/bpm/process_manage_extranet/35326",
+      "source": "NYC PASSPort",
+      "description": "Program: ENGINEERING, DESIGN AND CONSTRUCTION; Industry: Construction; Status: Released",
+      "rawRef": {
+        "epin": "82626B0025",
+        "industry": "Construction",
+        "program": "ENGINEERING, DESIGN AND CONSTRUCTION",
+        "rfx_status": "Released"
+      }
+    },
+    {
+      "id": "97b01647c402",
+      "title": "05726Y0591-Particulate Blocking Hoods (Round 3)",
+      "agency": "FIRE DEPARTMENT",
+      "state": "NY",
+      "city": "New York",
+      "category": "other",
+      "status": "active",
+      "dueDate": null,
+      "publishDate": "2026-02-26",
+      "sourceUrl": "https://passport.cityofnewyork.us/page.aspx/en/bpm/process_manage_extranet/35322",
+      "source": "NYC PASSPort",
+      "description": "Industry: Goods; Status: Released",
+      "rawRef": {
+        "epin": "05726Y0591",
+        "industry": "Goods",
+        "program": "",
+        "rfx_status": "Released"
+      }
+    },
+    {
+      "id": "8d14f7a1c960",
+      "title": "BMI-1 for the Purchase of Telog Parts and Accessories",
+      "agency": "DEPARTMENT OF ENVIRONMENTAL PROTECTION",
+      "state": "NY",
+      "city": "New York",
+      "category": "other",
+      "status": "active",
+      "dueDate": null,
+      "publishDate": "2026-02-26",
+      "sourceUrl": "https://passport.cityofnewyork.us/page.aspx/en/bpm/process_manage_extranet/35318",
+      "source": "NYC PASSPort",
+      "description": "Program: WATER AND SEWER OPERATION; Industry: Goods; Status: Released",
+      "rawRef": {
+        "epin": "82626Y0828",
+        "industry": "Goods",
+        "program": "WATER AND SEWER OPERATION",
+        "rfx_status": "Released"
+      }
+    },
+    {
+      "id": "5bc582869976",
+      "title": "Security Scorecard",
+      "agency": "ADMINISTRATION FOR CHILDREN'S SERVICES",
+      "state": "NY",
+      "city": "New York",
+      "category": "other",
+      "status": "active",
+      "dueDate": null,
+      "publishDate": "2026-02-19",
+      "sourceUrl": "https://passport.cityofnewyork.us/page.aspx/en/bpm/process_manage_extranet/35304",
+      "source": "NYC PASSPort",
+      "description": "Program: Information Technology; Industry: Professional Services - IT Related; Status: Released",
+      "rawRef": {
+        "epin": "06826Y0464",
+        "industry": "Professional Services - IT Related",
+        "program": "Information Technology",
+        "rfx_status": "Released"
+      }
+    },
+    {
+      "id": "c0f200cb48ad",
+      "title": "Bid #23421 - Kitchen and Laundry Equipment (Statewide)",
+      "agency": "NYS Office of General Services",
+      "state": "NY",
+      "city": "",
+      "category": "facilities",
+      "status": "active",
+      "dueDate": "2026-02-26",
+      "publishDate": null,
+      "sourceUrl": "https://ogs.ny.gov/procurement/biddocuments/23421bid",
+      "source": "NYS OGS Procurement",
+      "description": "",
+      "rawRef": {
+        "bid_number": "23421",
+        "group_number": "36100",
+        "bid_opening_date": "2026-02-26"
+      }
+    },
+    {
+      "id": "77f37acca5dc",
+      "title": "Bid #3082 - Production Equipment Supplier",
+      "agency": "NYS Office of General Services",
+      "state": "NY",
+      "city": "",
+      "category": "other",
+      "status": "active",
+      "dueDate": "2026-02-26",
+      "publishDate": null,
+      "sourceUrl": "https://ogs.ny.gov/bid-3082",
+      "source": "NYS OGS Procurement",
+      "description": "",
+      "rawRef": {
+        "bid_number": "3082",
+        "group_number": "",
+        "bid_opening_date": "2026-02-26"
+      }
+    },
+    {
+      "id": "76da5f25a03e",
+      "title": "Bid #3020 - Stone Floor Maintenance at the Empire State Plaza and Capitol",
+      "agency": "NYS Office of General Services",
+      "state": "NY",
+      "city": "",
+      "category": "facilities",
+      "status": "active",
+      "dueDate": "2026-03-03",
+      "publishDate": null,
+      "sourceUrl": "https://ogs.ny.gov/ifb-3020",
+      "source": "NYS OGS Procurement",
+      "description": "",
+      "rawRef": {
+        "bid_number": "3020",
+        "group_number": "79000",
+        "bid_opening_date": "2026-03-03"
+      }
+    },
+    {
+      "id": "9758cca6a70f",
+      "title": "Bid #2977 - NYS Board of Elections Processing Servers - Statewide",
+      "agency": "NYS Office of General Services",
+      "state": "NY",
+      "city": "",
+      "category": "other",
+      "status": "active",
+      "dueDate": "2026-03-04",
+      "publishDate": null,
+      "sourceUrl": "https://ogs.ny.gov/bid-2977",
+      "source": "NYS OGS Procurement",
+      "description": "",
+      "rawRef": {
+        "bid_number": "2977",
+        "group_number": "",
+        "bid_opening_date": "2026-03-04"
+      }
+    },
+    {
+      "id": "456dd3d0b5b0",
+      "title": "Bid #23433 - Bituminous Concrete Asphalt Mixtures (2026 VPP - NYSDOT Specific Projects) (Federal & State Funds)",
+      "agency": "NYS Office of General Services",
+      "state": "NY",
+      "city": "",
+      "category": "construction",
+      "status": "active",
+      "dueDate": "2026-03-11",
+      "publishDate": null,
+      "sourceUrl": "https://ogs.ny.gov/procurement/biddocuments/23433bid",
+      "source": "NYS OGS Procurement",
+      "description": "",
+      "rawRef": {
+        "bid_number": "23433",
+        "group_number": "31503",
+        "bid_opening_date": "2026-03-11"
+      }
+    },
+    {
+      "id": "10be26b1fd6e",
+      "title": "Bid #23345 - Heavy Equipment - Sourcewell Piggybacks (Statewide)",
+      "agency": "NYS Office of General Services",
+      "state": "NY",
+      "city": "",
+      "category": "other",
+      "status": "active",
+      "dueDate": "2026-03-18",
+      "publishDate": null,
+      "sourceUrl": "https://ogs.ny.gov/procurement/biddocuments/23345bidphase5",
+      "source": "NYS OGS Procurement",
+      "description": "",
+      "rawRef": {
+        "bid_number": "23345",
+        "group_number": "40625",
+        "bid_opening_date": "2026-03-18"
+      }
+    },
+    {
+      "id": "d7dd5e451e8d",
+      "title": "Bid #23434 - Liquid Bituminous Materials (2026 VPP - NYSDOT Specific Projects) (Federal & State Funds)",
+      "agency": "NYS Office of General Services",
+      "state": "NY",
+      "city": "",
+      "category": "other",
+      "status": "active",
+      "dueDate": "2026-03-25",
+      "publishDate": null,
+      "sourceUrl": "https://ogs.ny.gov/procurement/biddocuments/23434bid",
+      "source": "NYS OGS Procurement",
+      "description": "",
+      "rawRef": {
+        "bid_number": "23434",
+        "group_number": "31555",
+        "bid_opening_date": "2026-03-25"
+      }
+    },
+    {
+      "id": "80070d9828f8",
+      "title": "Bid #23383 - Information Technology Umbrella Contract \u2013 Distributor Based (Statewide)",
+      "agency": "NYS Office of General Services",
+      "state": "NY",
+      "city": "",
+      "category": "other",
+      "status": "active",
+      "dueDate": "2026-04-02",
+      "publishDate": null,
+      "sourceUrl": "https://ogs.ny.gov/procurement/biddocuments/23383bid",
+      "source": "NYS OGS Procurement",
+      "description": "",
+      "rawRef": {
+        "bid_number": "23383",
+        "group_number": "73600",
+        "bid_opening_date": "2026-04-02"
+      }
+    },
+    {
+      "id": "ed3f982b9277",
+      "title": "Bid #3110 - Event Speaker Support & Content Management",
+      "agency": "NYS Office of General Services",
+      "state": "NY",
+      "city": "",
+      "category": "other",
+      "status": "active",
+      "dueDate": "2026-04-02",
+      "publishDate": null,
+      "sourceUrl": "https://ogs.ny.gov/bid-3110",
+      "source": "NYS OGS Procurement",
+      "description": "",
+      "rawRef": {
+        "bid_number": "3110",
+        "group_number": "",
+        "bid_opening_date": "2026-04-02"
+      }
+    },
+    {
+      "id": "1a740b69fbec",
+      "title": "Bid #3079 - Onsite Remote Guest Event Support Services (Statewide)",
+      "agency": "NYS Office of General Services",
+      "state": "NY",
+      "city": "",
+      "category": "other",
+      "status": "active",
+      "dueDate": "2026-04-09",
+      "publishDate": null,
+      "sourceUrl": "https://ogs.ny.gov/bid-3079",
+      "source": "NYS OGS Procurement",
+      "description": "",
+      "rawRef": {
+        "bid_number": "3079",
+        "group_number": "",
+        "bid_opening_date": "2026-04-09"
+      }
+    },
+    {
+      "id": "d23c71fb3a95",
+      "title": "Bid #23311 - Hourly Based Information Technology Services (HBITS)",
+      "agency": "NYS Office of General Services",
+      "state": "NY",
+      "city": "",
+      "category": "other",
+      "status": "active",
+      "dueDate": "2026-04-15",
+      "publishDate": null,
+      "sourceUrl": "https://ogs.ny.gov/procurement/biddocuments/23311bid",
+      "source": "NYS OGS Procurement",
+      "description": "",
+      "rawRef": {
+        "bid_number": "23311",
+        "group_number": "73012",
+        "bid_opening_date": "2026-04-15"
+      }
+    },
+    {
+      "id": "af6e7767d48d",
+      "title": "Bid #2991 - Integrated Facility Management at the Shirley A. Chisholm State Office Building in Brooklyn, NY",
+      "agency": "NYS Office of General Services",
+      "state": "NY",
+      "city": "",
+      "category": "construction",
+      "status": "active",
+      "dueDate": "2026-05-05",
+      "publishDate": null,
+      "sourceUrl": "https://ogs.ny.gov/bid-document-files-integrated-facility-management-shirley-chisolm-state-office-building-brooklyn-ny",
+      "source": "NYS OGS Procurement",
+      "description": "",
+      "rawRef": {
+        "bid_number": "2991",
+        "group_number": "",
+        "bid_opening_date": "2026-05-05"
+      }
+    },
+    {
+      "id": "0340f58f2a18",
+      "title": "Bid #2994 - Natural Gas Asset Manager Services",
+      "agency": "NYS Office of General Services",
+      "state": "NY",
+      "city": "",
+      "category": "other",
+      "status": "active",
+      "dueDate": "2026-06-23",
+      "publishDate": null,
+      "sourceUrl": "https://ogs.ny.gov/bid-2994",
+      "source": "NYS OGS Procurement",
+      "description": "",
+      "rawRef": {
+        "bid_number": "2994",
+        "group_number": "",
+        "bid_opening_date": "2026-06-23"
+      }
+    },
+    {
+      "id": "cf3f3bdb27d2",
+      "title": "Bid #23166 - Vehicles, Class 1 \u2013 8 (Statewide) (23166)(*Continuous Recruitment*)",
+      "agency": "NYS Office of General Services",
+      "state": "NY",
+      "city": "",
+      "category": "other",
+      "status": "active",
+      "dueDate": null,
+      "publishDate": null,
+      "sourceUrl": "https://ogs.ny.gov/procurement/biddocument/23166CRBID",
+      "source": "NYS OGS Procurement",
+      "description": "",
+      "rawRef": {
+        "bid_number": "23166",
+        "group_number": "40440",
+        "bid_opening_date": "*Continuous Recruitment*"
+      }
+    }
+  ]
+}

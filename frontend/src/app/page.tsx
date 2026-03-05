@@ -1,99 +1,36 @@
 import Link from 'next/link'
+import {
+  getAllTenders,
+  getUpcomingDeadlines,
+  getTotalCount,
+  getSourceCounts,
+  getCategoryBreakdown,
+  getScrapedAt,
+} from '@/lib/data'
 
-/* ─── Sample Data ─────────────────────────────────────────────── */
+/* ─── Data ───────────────────────────────────────────────────── */
 
-const sampleBids = [
-  {
-    id: '1',
-    title: 'Manhattan Bridge Deck Rehabilitation & Structural Steel Repairs',
-    agency: 'NYC Department of Transportation',
-    state: 'NY',
-    city: 'New York',
-    category: 'construction',
-    status: 'active',
-    dueDate: '2026-03-15',
-    budget: 12500000,
-    tags: ['structural steel', 'bridge work', 'concrete'],
-    isUrgent: true,
-  },
-  {
-    id: '2',
-    title: 'Newark Airport Terminal B Electrical Systems Upgrade',
-    agency: 'Port Authority of NY & NJ',
-    state: 'NJ',
-    city: 'Newark',
-    category: 'engineering',
-    status: 'active',
-    dueDate: '2026-03-22',
-    budget: 8200000,
-    tags: ['electrical', 'HVAC', 'fire protection'],
-    isUrgent: false,
-  },
-  {
-    id: '3',
-    title: 'Brooklyn Navy Yard Waterfront Infrastructure Development',
-    agency: 'NYC Economic Development Corp',
-    state: 'NY',
-    city: 'Brooklyn',
-    category: 'construction',
-    status: 'active',
-    dueDate: '2026-04-01',
-    budget: 15100000,
-    tags: ['marine construction', 'site work', 'utilities'],
-    isUrgent: false,
-  },
-  {
-    id: '4',
-    title: 'NJ Turnpike Exit 14A Roadway Reconstruction Phase II',
-    agency: 'NJ Department of Transportation',
-    state: 'NJ',
-    city: 'Jersey City',
-    category: 'construction',
-    status: 'active',
-    dueDate: '2026-03-28',
-    budget: 22300000,
-    tags: ['roadway', 'paving', 'drainage', 'traffic signals'],
-    isUrgent: true,
-  },
-  {
-    id: '5',
-    title: 'Queens Central Library HVAC Modernization & Controls',
-    agency: 'NYC Dept of Design & Construction',
-    state: 'NY',
-    city: 'Queens',
-    category: 'facilities',
-    status: 'active',
-    dueDate: '2026-04-10',
-    budget: 3800000,
-    tags: ['HVAC', 'building automation', 'mechanical'],
-    isUrgent: false,
-  },
-  {
-    id: '6',
-    title: 'Hoboken Waterfront Seawall Repair & Flood Mitigation',
-    agency: 'City of Hoboken',
-    state: 'NJ',
-    city: 'Hoboken',
-    category: 'construction',
-    status: 'active',
-    dueDate: '2026-03-18',
-    budget: 6700000,
-    tags: ['marine', 'concrete', 'flood control'],
-    isUrgent: true,
-  },
-]
+const tenders = getAllTenders()
+const totalCount = getTotalCount()
+const sourceCounts = getSourceCounts()
+const categoryBreakdown = getCategoryBreakdown()
+const upcoming = getUpcomingDeadlines(6)
+const scrapedAt = getScrapedAt()
+
+const sourceCount = Object.keys(sourceCounts).length
+const withDueDate = tenders.filter(t => t.dueDate).length
 
 const stats = [
-  { value: '2,400+', label: 'Active Bids', icon: 'clipboard' },
-  { value: '47', label: 'Sources Monitored', icon: 'radar' },
+  { value: totalCount.toString(), label: 'Active Bids', icon: 'clipboard' },
+  { value: sourceCount.toString(), label: 'Live Sources', icon: 'radar' },
   { value: 'NY & NJ', label: 'Full Coverage', icon: 'map' },
-  { value: '$3.2B+', label: 'In Opportunities', icon: 'dollar' },
+  { value: withDueDate.toString(), label: 'With Deadlines', icon: 'dollar' },
 ]
 
 const features = [
   {
     title: 'Smart Filters',
-    description: 'Filter by trade, location, budget range, and deadline. Find exactly the bids that match your capabilities.',
+    description: 'Filter by trade, source portal, category, and deadline. Find exactly the bids that match your capabilities.',
     icon: 'filter',
   },
   {
@@ -117,7 +54,7 @@ const steps = [
   {
     number: '01',
     title: 'We Aggregate',
-    description: 'Our scrapers monitor 47+ government procurement portals across New York and New Jersey around the clock.',
+    description: `Our scrapers monitor ${sourceCount} government procurement portals across New York and New Jersey around the clock.`,
   },
   {
     number: '02',
@@ -131,16 +68,11 @@ const steps = [
   },
 ]
 
-/* ─── Helper Functions ────────────────────────────────────────── */
+/* ─── Helpers ────────────────────────────────────────────────── */
 
-function formatBudget(amount: number): string {
-  if (amount >= 1000000) return `$${(amount / 1000000).toFixed(1)}M`
-  if (amount >= 1000) return `$${(amount / 1000).toFixed(0)}K`
-  return `$${amount}`
-}
-
-function daysUntil(dateStr: string): number {
-  const diff = new Date(dateStr).getTime() - new Date('2026-02-26').getTime()
+function daysUntil(dateStr: string | null): number | null {
+  if (!dateStr) return null
+  const diff = new Date(dateStr).getTime() - new Date().getTime()
   return Math.ceil(diff / (1000 * 60 * 60 * 24))
 }
 
@@ -154,10 +86,35 @@ function categoryColor(cat: string): string {
   return colors[cat] || colors.other
 }
 
-function stateColor(state: string): string {
-  return state === 'NY'
-    ? 'bg-blue-600/30 text-blue-200 border-blue-500/40'
-    : 'bg-orange-600/30 text-orange-200 border-orange-500/40'
+function sourceColor(source: string): string {
+  if (source.includes('Port Authority')) return 'bg-violet-500/20 text-violet-300 border-violet-500/30'
+  if (source.includes('PASSPort')) return 'bg-cyan-500/20 text-cyan-300 border-cyan-500/30'
+  if (source.includes('OGS')) return 'bg-rose-500/20 text-rose-300 border-rose-500/30'
+  return 'bg-slate-500/20 text-slate-300 border-slate-500/30'
+}
+
+function sourceAbbrev(source: string): string {
+  if (source.includes('Port Authority')) return 'PANYNJ'
+  if (source.includes('PASSPort')) return 'PASSPort'
+  if (source.includes('OGS')) return 'NYS OGS'
+  return source.slice(0, 8)
+}
+
+function truncate(str: string, len: number): string {
+  if (str.length <= len) return str
+  return str.slice(0, len).replace(/\s+\S*$/, '') + '...'
+}
+
+function formatRelativeTime(iso: string): string {
+  const d = new Date(iso)
+  const now = new Date()
+  const diffMs = now.getTime() - d.getTime()
+  const mins = Math.floor(diffMs / 60000)
+  if (mins < 60) return `${mins}m ago`
+  const hrs = Math.floor(mins / 60)
+  if (hrs < 24) return `${hrs}h ago`
+  const days = Math.floor(hrs / 24)
+  return `${days}d ago`
 }
 
 /* ─── Icon Components ─────────────────────────────────────────── */
@@ -189,7 +146,7 @@ function IconMap() {
 function IconDollar() {
   return (
     <svg width="28" height="28" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={1.5}>
-      <path strokeLinecap="round" strokeLinejoin="round" d="M12 6v12m-3-2.818l.879.659c1.171.879 3.07.879 4.242 0 1.172-.879 1.172-2.303 0-3.182C13.536 12.219 12.768 12 12 12c-.725 0-1.45-.22-2.003-.659-1.106-.879-1.106-2.303 0-3.182s2.9-.879 4.006 0l.415.33M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+      <path strokeLinecap="round" strokeLinejoin="round" d="M6.75 3v2.25M17.25 3v2.25M3 18.75V7.5a2.25 2.25 0 012.25-2.25h13.5A2.25 2.25 0 0121 7.5v11.25m-18 0A2.25 2.25 0 005.25 21h13.5A2.25 2.25 0 0021 18.75m-18 0v-7.5A2.25 2.25 0 015.25 9h13.5A2.25 2.25 0 0121 11.25v7.5" />
     </svg>
   )
 }
@@ -258,6 +215,14 @@ function IconBolt() {
   )
 }
 
+function IconExternalLink() {
+  return (
+    <svg width="12" height="12" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
+      <path strokeLinecap="round" strokeLinejoin="round" d="M13.5 6H5.25A2.25 2.25 0 003 8.25v10.5A2.25 2.25 0 005.25 21h10.5A2.25 2.25 0 0018 18.75V10.5m-10.5 6L21 3m0 0h-5.25M21 3v5.25" />
+    </svg>
+  )
+}
+
 function StatIcon({ type }: { type: string }) {
   switch (type) {
     case 'clipboard': return <IconClipboard />
@@ -281,6 +246,9 @@ function FeatureIcon({ type }: { type: string }) {
 /* ─── Page Component ──────────────────────────────────────────── */
 
 export default function Home() {
+  // Pick the most recent tender for the floating card
+  const latestTender = tenders[0]
+
   return (
     <div className="relative z-10">
       {/* ════════ NAVIGATION ════════ */}
@@ -302,7 +270,7 @@ export default function Home() {
               href="/tenders"
               className="text-sm font-medium px-5 py-2 rounded-lg bg-amber-500 text-slate-900 hover:bg-amber-400 transition-all hover:shadow-lg hover:shadow-amber-500/20"
             >
-              Browse Bids
+              Browse All {totalCount} Bids
             </Link>
           </div>
         </div>
@@ -310,15 +278,13 @@ export default function Home() {
 
       {/* ════════ HERO ════════ */}
       <section className="bg-mesh-hero bg-grid relative overflow-hidden pt-32 pb-20 md:pt-40 md:pb-28">
-        {/* Decorative diagonal line */}
         <div className="absolute top-0 right-0 w-1/2 h-full opacity-[0.03]" style={{ background: 'repeating-linear-gradient(-45deg, transparent, transparent 40px, #f59e0b 40px, #f59e0b 41px)' }} />
 
         <div className="max-w-7xl mx-auto px-6 relative">
           <div className="max-w-3xl">
-            {/* Live badge */}
             <div className="animate-fade-in-up inline-flex items-center gap-2 px-4 py-1.5 rounded-full badge-shimmer border border-amber-500/20 mb-8">
               <span className="w-2 h-2 rounded-full bg-emerald-400 animate-pulse" />
-              <span className="text-xs font-medium text-amber-300 tracking-wide uppercase">Live &mdash; Monitoring 47 sources</span>
+              <span className="text-xs font-medium text-amber-300 tracking-wide uppercase">Live &mdash; {totalCount} bids from {sourceCount} portals</span>
             </div>
 
             <h1 className="animate-fade-in-up delay-100 text-5xl md:text-7xl font-bold leading-[1.05] tracking-tight mb-6" style={{ fontFamily: 'var(--font-dm-serif), Georgia, serif' }}>
@@ -328,7 +294,7 @@ export default function Home() {
             </h1>
 
             <p className="animate-fade-in-up delay-200 text-lg md:text-xl text-slate-400 leading-relaxed mb-10 max-w-xl">
-              We scrape every government procurement portal in New York and New Jersey so you don&apos;t have to. AI-enriched summaries, deadline alerts, and trade-specific filtering &mdash; all in one place.
+              We scrape every government procurement portal in New York and New Jersey so you don&apos;t have to. Real-time data from {sourceCount} portals &mdash; {totalCount} active opportunities right now.
             </p>
 
             <div className="animate-fade-in-up delay-300 flex flex-col sm:flex-row gap-4">
@@ -348,25 +314,31 @@ export default function Home() {
             </div>
           </div>
 
-          {/* Floating stat card (desktop) */}
-          <div className="hidden lg:block absolute top-12 right-0 w-72 animate-fade-in delay-500">
-            <div className="glass-card rounded-2xl p-5 animate-float">
-              <div className="flex items-center gap-3 mb-4">
-                <div className="w-10 h-10 rounded-lg bg-emerald-500/20 flex items-center justify-center text-emerald-400">
-                  <IconBolt />
+          {/* Floating real bid card */}
+          {latestTender && (
+            <div className="hidden lg:block absolute top-12 right-0 w-80 animate-fade-in delay-500">
+              <Link href={`/tenders/${latestTender.id}`} className="block">
+                <div className="glass-card rounded-2xl p-5 animate-float hover:border-amber-500/30 transition-all">
+                  <div className="flex items-center gap-3 mb-4">
+                    <div className="w-10 h-10 rounded-lg bg-emerald-500/20 flex items-center justify-center text-emerald-400">
+                      <IconBolt />
+                    </div>
+                    <div>
+                      <p className="text-xs text-slate-400">Latest opportunity</p>
+                      <p className="text-sm font-medium text-white">{formatRelativeTime(scrapedAt)}</p>
+                    </div>
+                  </div>
+                  <p className="text-sm font-medium text-slate-200 mb-2 leading-snug">{truncate(latestTender.title, 80)}</p>
+                  <div className="flex items-center gap-3 text-xs text-slate-400">
+                    <span className="flex items-center gap-1"><IconBuilding /> {truncate(latestTender.agency, 25)}</span>
+                    <span className={`px-1.5 py-0.5 rounded text-[10px] font-medium border ${sourceColor(latestTender.source)}`}>
+                      {sourceAbbrev(latestTender.source)}
+                    </span>
+                  </div>
                 </div>
-                <div>
-                  <p className="text-xs text-slate-400">Just posted</p>
-                  <p className="text-sm font-medium text-white">12 minutes ago</p>
-                </div>
-              </div>
-              <p className="text-sm font-medium text-slate-200 mb-2">Bronx River Greenway Extension &mdash; Phase III</p>
-              <div className="flex items-center gap-3 text-xs text-slate-400">
-                <span className="flex items-center gap-1"><IconBuilding /> NYC Parks</span>
-                <span className="text-amber-400 font-semibold">$4.2M</span>
-              </div>
+              </Link>
             </div>
-          </div>
+          )}
         </div>
       </section>
 
@@ -392,78 +364,99 @@ export default function Home() {
         </div>
       </section>
 
+      {/* ════════ SOURCE BREAKDOWN ════════ */}
+      <section className="bg-mesh-hero py-12 border-b border-white/5">
+        <div className="max-w-7xl mx-auto px-6">
+          <div className="flex flex-wrap items-center justify-center gap-6 md:gap-10">
+            {Object.entries(sourceCounts).map(([name, count]) => (
+              <div key={name} className="flex items-center gap-3 group">
+                <div className={`w-2 h-2 rounded-full ${
+                  name.includes('Port') ? 'bg-violet-400' :
+                  name.includes('PASSPort') ? 'bg-cyan-400' : 'bg-rose-400'
+                }`} />
+                <div>
+                  <p className="text-sm font-semibold text-white">{name}</p>
+                  <p className="text-xs text-slate-500">{count} active bids</p>
+                </div>
+              </div>
+            ))}
+            <div className="text-xs text-slate-600 flex items-center gap-1">
+              <span className="w-1 h-1 rounded-full bg-emerald-500 animate-pulse" />
+              Last scraped {formatRelativeTime(scrapedAt)}
+            </div>
+          </div>
+        </div>
+      </section>
+
       {/* ════════ LIVE BIDS ════════ */}
       <section id="bids" className="bg-mesh-hero bg-grid py-20 md:py-28">
         <div className="max-w-7xl mx-auto px-6">
           <div className="animate-fade-in-up text-center mb-14">
             <p className="text-amber-400 font-semibold text-sm tracking-widest uppercase mb-3">Live Feed</p>
             <h2 className="text-3xl md:text-5xl font-bold tracking-tight" style={{ fontFamily: 'var(--font-dm-serif), Georgia, serif' }}>
-              Today&apos;s Opportunities
+              Upcoming Deadlines
             </h2>
             <p className="text-slate-400 mt-4 max-w-lg mx-auto">
-              Real bid opportunities currently available from government procurement portals across the tri-state area.
+              Real bid opportunities scraped today from government procurement portals across the tri-state area.
             </p>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-5">
-            {sampleBids.map((bid, i) => {
+            {upcoming.map((bid, i) => {
               const days = daysUntil(bid.dueDate)
+              const isUrgent = days !== null && days <= 7
               return (
-                <div
+                <Link
                   key={bid.id}
-                  className={`animate-fade-in-up delay-${(i + 1) * 100} group glass-card rounded-2xl p-6 hover:border-amber-500/30 transition-all duration-300 hover:-translate-y-1 hover:shadow-xl hover:shadow-amber-500/5 cursor-pointer relative overflow-hidden`}
+                  href={`/tenders/${bid.id}`}
+                  className={`animate-fade-in-up delay-${(i + 1) * 100} group glass-card rounded-2xl p-6 hover:border-amber-500/30 transition-all duration-300 hover:-translate-y-1 hover:shadow-xl hover:shadow-amber-500/5 cursor-pointer relative overflow-hidden block`}
                 >
-                  {/* Urgent indicator */}
-                  {bid.isUrgent && (
+                  {isUrgent && (
                     <div className="absolute top-0 right-0 px-3 py-1 bg-red-500/90 text-white text-[10px] font-bold uppercase tracking-wider rounded-bl-lg">
-                      Urgent
+                      {days}d left
                     </div>
                   )}
 
-                  {/* Header: State badge + Budget */}
                   <div className="flex items-start justify-between mb-3">
-                    <div className="flex items-center gap-2">
-                      <span className={`px-2.5 py-0.5 rounded-md text-xs font-bold border ${stateColor(bid.state)}`}>
-                        {bid.state}
-                      </span>
+                    <div className="flex items-center gap-2 flex-wrap">
                       <span className={`px-2.5 py-0.5 rounded-md text-xs font-medium border ${categoryColor(bid.category)}`}>
                         {bid.category}
                       </span>
+                      <span className={`px-2 py-0.5 rounded-md text-[10px] font-semibold border ${sourceColor(bid.source)}`}>
+                        {sourceAbbrev(bid.source)}
+                      </span>
                     </div>
-                    <span className="text-lg font-bold text-amber-400">{formatBudget(bid.budget)}</span>
+                    {bid.dueDate && (
+                      <span className={`text-xs font-mono ${isUrgent ? 'text-red-400' : 'text-slate-500'}`}>
+                        {new Date(bid.dueDate).toLocaleDateString('en-US', { month: 'short', day: 'numeric' })}
+                      </span>
+                    )}
                   </div>
 
-                  {/* Title */}
                   <h3 className="text-base font-semibold text-white group-hover:text-amber-300 transition-colors mb-2 leading-snug pr-4">
-                    {bid.title}
+                    {truncate(bid.title, 100)}
                   </h3>
 
-                  {/* Agency + Location */}
                   <div className="flex items-center gap-3 text-xs text-slate-400 mb-3">
                     <span className="flex items-center gap-1">
                       <IconBuilding />
-                      {bid.agency}
+                      {truncate(bid.agency, 40)}
                     </span>
                   </div>
 
-                  {/* Tags */}
-                  <div className="flex flex-wrap gap-1.5 mb-4">
-                    {bid.tags.map(tag => (
-                      <span
-                        key={tag}
-                        className="px-2 py-0.5 rounded text-[11px] font-medium bg-slate-700/60 text-slate-300 border border-slate-600/40"
-                      >
-                        {tag}
-                      </span>
-                    ))}
-                  </div>
+                  {bid.description && (
+                    <p className="text-xs text-slate-500 mb-3 line-clamp-1">{bid.description}</p>
+                  )}
 
-                  {/* Footer: Due date + CTA */}
                   <div className="flex items-center justify-between pt-3 border-t border-white/5">
-                    <span className={`flex items-center gap-1.5 text-xs font-medium ${days <= 20 ? 'text-red-400' : 'text-slate-400'}`}>
-                      <IconClock />
-                      {days} days left
-                    </span>
+                    {days !== null ? (
+                      <span className={`flex items-center gap-1.5 text-xs font-medium ${isUrgent ? 'text-red-400' : 'text-slate-400'}`}>
+                        <IconClock />
+                        {days} days left
+                      </span>
+                    ) : (
+                      <span className="text-xs text-slate-500">Open deadline</span>
+                    )}
                     <span className="text-xs font-medium text-amber-400 group-hover:text-amber-300 flex items-center gap-1 transition-colors">
                       View Details
                       <svg width="12" height="12" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2.5}>
@@ -471,7 +464,7 @@ export default function Home() {
                       </svg>
                     </span>
                   </div>
-                </div>
+                </Link>
               )
             })}
           </div>
@@ -481,15 +474,36 @@ export default function Home() {
               href="/tenders"
               className="inline-flex items-center gap-2 px-8 py-3.5 rounded-xl bg-amber-500/10 border border-amber-500/30 text-amber-400 font-semibold hover:bg-amber-500/20 hover:border-amber-500/50 transition-all"
             >
-              View All 2,400+ Opportunities
+              View All {totalCount} Opportunities
               <IconArrowRight />
             </Link>
           </div>
         </div>
       </section>
 
+      {/* ════════ CATEGORY BREAKDOWN ════════ */}
+      <section className="bg-mesh-dark py-16 border-y border-white/5">
+        <div className="max-w-7xl mx-auto px-6">
+          <div className="flex flex-wrap items-center justify-center gap-4 md:gap-6">
+            {categoryBreakdown.map(({ category, count }) => (
+              <div key={category} className={`glass-card rounded-xl px-5 py-3 flex items-center gap-3`}>
+                <span className={`w-3 h-3 rounded-full ${
+                  category === 'construction' ? 'bg-amber-400' :
+                  category === 'engineering' ? 'bg-blue-400' :
+                  category === 'facilities' ? 'bg-emerald-400' : 'bg-slate-400'
+                }`} />
+                <div>
+                  <p className="text-lg font-bold text-white">{count}</p>
+                  <p className="text-xs text-slate-400 capitalize">{category}</p>
+                </div>
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
+
       {/* ════════ HOW IT WORKS ════════ */}
-      <section id="how" className="bg-mesh-dark py-20 md:py-28 border-y border-white/5">
+      <section id="how" className="bg-mesh-dark py-20 md:py-28 border-b border-white/5">
         <div className="max-w-7xl mx-auto px-6">
           <div className="animate-fade-in-up text-center mb-16">
             <p className="text-amber-400 font-semibold text-sm tracking-widest uppercase mb-3">How It Works</p>
@@ -499,7 +513,6 @@ export default function Home() {
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8 relative">
-            {/* Connecting line (desktop) */}
             <div className="hidden md:block absolute top-16 left-[17%] right-[17%] h-px bg-gradient-to-r from-transparent via-amber-500/30 to-transparent" />
 
             {steps.map((step, i) => (
@@ -584,7 +597,6 @@ export default function Home() {
       <footer className="border-t border-white/5 py-12" style={{ background: 'var(--navy-950)' }}>
         <div className="max-w-7xl mx-auto px-6">
           <div className="grid grid-cols-1 md:grid-cols-4 gap-10 mb-10">
-            {/* Brand */}
             <div className="md:col-span-1">
               <div className="flex items-center gap-2.5 mb-4">
                 <div className="w-7 h-7 rounded-md bg-amber-500 flex items-center justify-center">
@@ -595,15 +607,14 @@ export default function Home() {
                 <span className="text-base font-semibold text-white">TriState<span className="text-amber-400">Bids</span></span>
               </div>
               <p className="text-sm text-slate-500 leading-relaxed">
-                Aggregating public construction opportunities from NY &amp; NJ government portals.
+                Aggregating {totalCount} public construction opportunities from {sourceCount} NY &amp; NJ government portals.
               </p>
             </div>
 
-            {/* Links */}
             <div>
               <h4 className="text-xs font-bold text-slate-400 uppercase tracking-wider mb-4">Product</h4>
               <ul className="space-y-2.5">
-                <li><a href="#bids" className="text-sm text-slate-500 hover:text-white transition-colors">Live Bids</a></li>
+                <li><Link href="/tenders" className="text-sm text-slate-500 hover:text-white transition-colors">Browse Bids</Link></li>
                 <li><a href="#features" className="text-sm text-slate-500 hover:text-white transition-colors">Features</a></li>
                 <li><a href="#" className="text-sm text-slate-500 hover:text-white transition-colors">Pricing</a></li>
                 <li><a href="#" className="text-sm text-slate-500 hover:text-white transition-colors">API Access</a></li>
@@ -612,10 +623,9 @@ export default function Home() {
             <div>
               <h4 className="text-xs font-bold text-slate-400 uppercase tracking-wider mb-4">Sources</h4>
               <ul className="space-y-2.5">
-                <li><a href="#" className="text-sm text-slate-500 hover:text-white transition-colors">NYC PASSPort</a></li>
-                <li><a href="#" className="text-sm text-slate-500 hover:text-white transition-colors">NYS OGS</a></li>
-                <li><a href="#" className="text-sm text-slate-500 hover:text-white transition-colors">NJ Treasury</a></li>
-                <li><a href="#" className="text-sm text-slate-500 hover:text-white transition-colors">NJDOT</a></li>
+                {Object.entries(sourceCounts).map(([name]) => (
+                  <li key={name}><a href="#" className="text-sm text-slate-500 hover:text-white transition-colors">{name}</a></li>
+                ))}
               </ul>
             </div>
             <div>

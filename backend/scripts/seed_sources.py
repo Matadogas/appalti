@@ -18,7 +18,7 @@ def seed_sources():
             {
                 "name": "NYC PASSPort",
                 "state": "NY",
-                "base_url": "https://www1.nyc.gov/site/mocs/public-rfx/public-rfx.page",
+                "base_url": "https://passport.cityofnewyork.us/page.aspx/en/rfp/request_browse_public",
                 "scraper_class": "nyc_passport",
                 "active": True,
                 "config": {},
@@ -26,8 +26,16 @@ def seed_sources():
             {
                 "name": "NYS OGS Procurement",
                 "state": "NY",
-                "base_url": "https://online.ogs.ny.gov/purchase/spg/",
+                "base_url": "https://ogs.ny.gov/procurement/bid-opportunities",
                 "scraper_class": "nys_ogs",
+                "active": True,
+                "config": {},
+            },
+            {
+                "name": "Port Authority of NY & NJ",
+                "state": "NY",
+                "base_url": "https://panynj.bonfirehub.com/PublicPortal/getOpenPublicOpportunitiesSectionData",
+                "scraper_class": "port_authority",
                 "active": True,
                 "config": {},
             },
@@ -42,7 +50,12 @@ def seed_sources():
             )
 
             if existing:
-                print(f"Source '{source_data['name']}' already exists")
+                # Update URL if it changed
+                if existing.base_url != source_data["base_url"]:
+                    existing.base_url = source_data["base_url"]
+                    print(f"Updated URL for source: {source_data['name']}")
+                else:
+                    print(f"Source '{source_data['name']}' already exists")
                 continue
 
             source = Source(**source_data)
