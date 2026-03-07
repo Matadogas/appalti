@@ -1,0 +1,951 @@
+{
+  "Bergen County": {
+    "entity_name": "Bergen County",
+    "state": "NJ",
+    "entity_type": "county",
+    "priority": 9,
+    "basic_queries": [
+      "\"bergen county nj\" procurement",
+      "\"bergen county nj\" current bids",
+      "\"bergen county nj\" RFP",
+      "\"bergen county new jersey\" procurement",
+      "\"bergen county new jersey\" current bids",
+      "\"bergen county new jersey\" RFP"
+    ],
+    "site_restricted_queries": [
+      "site:.nj.us \"bergen county nj\" procurement",
+      "site:.nj.us \"bergen county nj\" current bids",
+      "site:.nj.gov \"bergen county nj\" procurement",
+      "site:.nj.gov \"bergen county nj\" current bids",
+      "site:.nj.us \"bergen county new jersey\" procurement",
+      "site:.nj.us \"bergen county new jersey\" current bids",
+      "site:.nj.gov \"bergen county new jersey\" procurement",
+      "site:.nj.gov \"bergen county new jersey\" current bids"
+    ],
+    "construction_queries": [
+      "\"bergen county nj\" construction bids",
+      "\"bergen county nj\" public works RFP",
+      "\"bergen county nj\" capital projects procurement"
+    ]
+  },
+  "Essex County": {
+    "entity_name": "Essex County",
+    "state": "NJ",
+    "entity_type": "county",
+    "priority": 9,
+    "basic_queries": [
+      "\"essex county nj\" procurement",
+      "\"essex county nj\" current bids",
+      "\"essex county nj\" RFP",
+      "\"essex county new jersey\" procurement",
+      "\"essex county new jersey\" current bids",
+      "\"essex county new jersey\" RFP"
+    ],
+    "site_restricted_queries": [
+      "site:.nj.us \"essex county nj\" procurement",
+      "site:.nj.us \"essex county nj\" current bids",
+      "site:.nj.gov \"essex county nj\" procurement",
+      "site:.nj.gov \"essex county nj\" current bids",
+      "site:.nj.us \"essex county new jersey\" procurement",
+      "site:.nj.us \"essex county new jersey\" current bids",
+      "site:.nj.gov \"essex county new jersey\" procurement",
+      "site:.nj.gov \"essex county new jersey\" current bids"
+    ],
+    "construction_queries": [
+      "\"essex county nj\" construction bids",
+      "\"essex county nj\" public works RFP",
+      "\"essex county nj\" capital projects procurement"
+    ]
+  },
+  "Hudson County": {
+    "entity_name": "Hudson County",
+    "state": "NJ",
+    "entity_type": "county",
+    "priority": 9,
+    "basic_queries": [
+      "\"hudson county nj\" procurement",
+      "\"hudson county nj\" current bids",
+      "\"hudson county nj\" RFP",
+      "\"hudson county new jersey\" procurement",
+      "\"hudson county new jersey\" current bids",
+      "\"hudson county new jersey\" RFP"
+    ],
+    "site_restricted_queries": [
+      "site:.nj.us \"hudson county nj\" procurement",
+      "site:.nj.us \"hudson county nj\" current bids",
+      "site:.nj.gov \"hudson county nj\" procurement",
+      "site:.nj.gov \"hudson county nj\" current bids",
+      "site:.nj.us \"hudson county new jersey\" procurement",
+      "site:.nj.us \"hudson county new jersey\" current bids",
+      "site:.nj.gov \"hudson county new jersey\" procurement",
+      "site:.nj.gov \"hudson county new jersey\" current bids"
+    ],
+    "construction_queries": [
+      "\"hudson county nj\" construction bids",
+      "\"hudson county nj\" public works RFP",
+      "\"hudson county nj\" capital projects procurement"
+    ]
+  },
+  "Middlesex County": {
+    "entity_name": "Middlesex County",
+    "state": "NJ",
+    "entity_type": "county",
+    "priority": 9,
+    "basic_queries": [
+      "\"middlesex county nj\" procurement",
+      "\"middlesex county nj\" current bids",
+      "\"middlesex county nj\" RFP",
+      "\"middlesex county new jersey\" procurement",
+      "\"middlesex county new jersey\" current bids",
+      "\"middlesex county new jersey\" RFP"
+    ],
+    "site_restricted_queries": [
+      "site:.nj.us \"middlesex county nj\" procurement",
+      "site:.nj.us \"middlesex county nj\" current bids",
+      "site:.nj.gov \"middlesex county nj\" procurement",
+      "site:.nj.gov \"middlesex county nj\" current bids",
+      "site:.nj.us \"middlesex county new jersey\" procurement",
+      "site:.nj.us \"middlesex county new jersey\" current bids",
+      "site:.nj.gov \"middlesex county new jersey\" procurement",
+      "site:.nj.gov \"middlesex county new jersey\" current bids"
+    ],
+    "construction_queries": [
+      "\"middlesex county nj\" construction bids",
+      "\"middlesex county nj\" public works RFP",
+      "\"middlesex county nj\" capital projects procurement"
+    ]
+  },
+  "Newark": {
+    "entity_name": "Newark",
+    "state": "NJ",
+    "entity_type": "city",
+    "priority": 10,
+    "basic_queries": [
+      "\"newark nj\" procurement",
+      "\"newark nj\" current bids",
+      "\"newark nj\" RFP",
+      "\"city of newark\" procurement",
+      "\"city of newark\" current bids",
+      "\"city of newark\" RFP",
+      "\"newark new jersey\" procurement",
+      "\"newark new jersey\" current bids",
+      "\"newark new jersey\" RFP"
+    ],
+    "site_restricted_queries": [
+      "site:.nj.us \"newark nj\" procurement",
+      "site:.nj.us \"newark nj\" current bids",
+      "site:.nj.gov \"newark nj\" procurement",
+      "site:.nj.gov \"newark nj\" current bids",
+      "site:.nj.us \"city of newark\" procurement",
+      "site:.nj.us \"city of newark\" current bids",
+      "site:.nj.gov \"city of newark\" procurement",
+      "site:.nj.gov \"city of newark\" current bids"
+    ],
+    "construction_queries": [
+      "\"newark nj\" construction bids",
+      "\"newark nj\" public works RFP",
+      "\"newark nj\" capital projects procurement"
+    ]
+  },
+  "Jersey City": {
+    "entity_name": "Jersey City",
+    "state": "NJ",
+    "entity_type": "city",
+    "priority": 10,
+    "basic_queries": [
+      "\"jersey city nj\" procurement",
+      "\"jersey city nj\" current bids",
+      "\"jersey city nj\" RFP",
+      "\"jersey city new jersey\" procurement",
+      "\"jersey city new jersey\" current bids",
+      "\"jersey city new jersey\" RFP"
+    ],
+    "site_restricted_queries": [
+      "site:.nj.us \"jersey city nj\" procurement",
+      "site:.nj.us \"jersey city nj\" current bids",
+      "site:.nj.gov \"jersey city nj\" procurement",
+      "site:.nj.gov \"jersey city nj\" current bids",
+      "site:.nj.us \"jersey city new jersey\" procurement",
+      "site:.nj.us \"jersey city new jersey\" current bids",
+      "site:.nj.gov \"jersey city new jersey\" procurement",
+      "site:.nj.gov \"jersey city new jersey\" current bids"
+    ],
+    "construction_queries": [
+      "\"jersey city nj\" construction bids",
+      "\"jersey city nj\" public works RFP",
+      "\"jersey city nj\" capital projects procurement"
+    ]
+  },
+  "Paterson": {
+    "entity_name": "Paterson",
+    "state": "NJ",
+    "entity_type": "city",
+    "priority": 9,
+    "basic_queries": [
+      "\"paterson nj\" procurement",
+      "\"paterson nj\" current bids",
+      "\"paterson nj\" RFP",
+      "\"city of paterson\" procurement",
+      "\"city of paterson\" current bids",
+      "\"city of paterson\" RFP",
+      "\"paterson new jersey\" procurement",
+      "\"paterson new jersey\" current bids",
+      "\"paterson new jersey\" RFP"
+    ],
+    "site_restricted_queries": [
+      "site:.nj.us \"paterson nj\" procurement",
+      "site:.nj.us \"paterson nj\" current bids",
+      "site:.nj.gov \"paterson nj\" procurement",
+      "site:.nj.gov \"paterson nj\" current bids",
+      "site:.nj.us \"city of paterson\" procurement",
+      "site:.nj.us \"city of paterson\" current bids",
+      "site:.nj.gov \"city of paterson\" procurement",
+      "site:.nj.gov \"city of paterson\" current bids"
+    ],
+    "construction_queries": [
+      "\"paterson nj\" construction bids",
+      "\"paterson nj\" public works RFP",
+      "\"paterson nj\" capital projects procurement"
+    ]
+  },
+  "Elizabeth": {
+    "entity_name": "Elizabeth",
+    "state": "NJ",
+    "entity_type": "city",
+    "priority": 9,
+    "basic_queries": [
+      "\"elizabeth nj\" procurement",
+      "\"elizabeth nj\" current bids",
+      "\"elizabeth nj\" RFP",
+      "\"city of elizabeth\" procurement",
+      "\"city of elizabeth\" current bids",
+      "\"city of elizabeth\" RFP",
+      "\"elizabeth new jersey\" procurement",
+      "\"elizabeth new jersey\" current bids",
+      "\"elizabeth new jersey\" RFP"
+    ],
+    "site_restricted_queries": [
+      "site:.nj.us \"elizabeth nj\" procurement",
+      "site:.nj.us \"elizabeth nj\" current bids",
+      "site:.nj.gov \"elizabeth nj\" procurement",
+      "site:.nj.gov \"elizabeth nj\" current bids",
+      "site:.nj.us \"city of elizabeth\" procurement",
+      "site:.nj.us \"city of elizabeth\" current bids",
+      "site:.nj.gov \"city of elizabeth\" procurement",
+      "site:.nj.gov \"city of elizabeth\" current bids"
+    ],
+    "construction_queries": [
+      "\"elizabeth nj\" construction bids",
+      "\"elizabeth nj\" public works RFP",
+      "\"elizabeth nj\" capital projects procurement"
+    ]
+  },
+  "Trenton": {
+    "entity_name": "Trenton",
+    "state": "NJ",
+    "entity_type": "city",
+    "priority": 9,
+    "basic_queries": [
+      "\"trenton nj\" procurement",
+      "\"trenton nj\" current bids",
+      "\"trenton nj\" RFP",
+      "\"city of trenton\" procurement",
+      "\"city of trenton\" current bids",
+      "\"city of trenton\" RFP",
+      "\"trenton new jersey\" procurement",
+      "\"trenton new jersey\" current bids",
+      "\"trenton new jersey\" RFP"
+    ],
+    "site_restricted_queries": [
+      "site:.nj.us \"trenton nj\" procurement",
+      "site:.nj.us \"trenton nj\" current bids",
+      "site:.nj.gov \"trenton nj\" procurement",
+      "site:.nj.gov \"trenton nj\" current bids",
+      "site:.nj.us \"city of trenton\" procurement",
+      "site:.nj.us \"city of trenton\" current bids",
+      "site:.nj.gov \"city of trenton\" procurement",
+      "site:.nj.gov \"city of trenton\" current bids"
+    ],
+    "construction_queries": [
+      "\"trenton nj\" construction bids",
+      "\"trenton nj\" public works RFP",
+      "\"trenton nj\" capital projects procurement"
+    ]
+  },
+  "NJ Transit": {
+    "entity_name": "NJ Transit",
+    "state": "NJ",
+    "entity_type": "authority",
+    "priority": 9,
+    "basic_queries": [
+      "\"nj transit\" procurement",
+      "\"nj transit\" current bids",
+      "\"nj transit\" RFP",
+      "\"new jersey transit corporation\" procurement",
+      "\"new jersey transit corporation\" current bids",
+      "\"new jersey transit corporation\" RFP"
+    ],
+    "site_restricted_queries": [
+      "site:.nj.us \"nj transit\" procurement",
+      "site:.nj.us \"nj transit\" current bids",
+      "site:.nj.gov \"nj transit\" procurement",
+      "site:.nj.gov \"nj transit\" current bids",
+      "site:.nj.us \"new jersey transit corporation\" procurement",
+      "site:.nj.us \"new jersey transit corporation\" current bids",
+      "site:.nj.gov \"new jersey transit corporation\" procurement",
+      "site:.nj.gov \"new jersey transit corporation\" current bids"
+    ],
+    "construction_queries": [
+      "\"nj transit\" construction bids",
+      "\"nj transit\" public works RFP",
+      "\"nj transit\" capital projects procurement"
+    ]
+  },
+  "Port Authority of NY & NJ": {
+    "entity_name": "Port Authority of NY & NJ",
+    "state": "BISTATE",
+    "entity_type": "authority",
+    "priority": 10,
+    "basic_queries": [
+      "\"port authority\" procurement",
+      "\"port authority\" current bids",
+      "\"port authority\" RFP",
+      "\"panynj\" procurement",
+      "\"panynj\" current bids",
+      "\"panynj\" RFP",
+      "\"port authority of new york and new jersey\" procurement",
+      "\"port authority of new york and new jersey\" current bids",
+      "\"port authority of new york and new jersey\" RFP"
+    ],
+    "site_restricted_queries": [
+      "site:.gov \"port authority\" procurement",
+      "site:.gov \"port authority\" current bids",
+      "site:.gov \"panynj\" procurement",
+      "site:.gov \"panynj\" current bids"
+    ],
+    "construction_queries": [
+      "\"port authority\" construction bids",
+      "\"port authority\" public works RFP",
+      "\"port authority\" capital projects procurement"
+    ]
+  },
+  "New York County": {
+    "entity_name": "New York County",
+    "state": "NY",
+    "entity_type": "county",
+    "priority": 10,
+    "basic_queries": [
+      "\"new york county\" procurement",
+      "\"new york county\" current bids",
+      "\"new york county\" RFP",
+      "\"manhattan county\" procurement",
+      "\"manhattan county\" current bids",
+      "\"manhattan county\" RFP"
+    ],
+    "site_restricted_queries": [
+      "site:.ny.us \"new york county\" procurement",
+      "site:.ny.us \"new york county\" current bids",
+      "site:.ny.gov \"new york county\" procurement",
+      "site:.ny.gov \"new york county\" current bids",
+      "site:.nyc.gov \"new york county\" procurement",
+      "site:.nyc.gov \"new york county\" current bids",
+      "site:.ny.us \"manhattan county\" procurement",
+      "site:.ny.us \"manhattan county\" current bids",
+      "site:.ny.gov \"manhattan county\" procurement",
+      "site:.ny.gov \"manhattan county\" current bids",
+      "site:.nyc.gov \"manhattan county\" procurement",
+      "site:.nyc.gov \"manhattan county\" current bids"
+    ],
+    "construction_queries": [
+      "\"new york county\" construction bids",
+      "\"new york county\" public works RFP",
+      "\"new york county\" capital projects procurement"
+    ]
+  },
+  "Kings County": {
+    "entity_name": "Kings County",
+    "state": "NY",
+    "entity_type": "county",
+    "priority": 10,
+    "basic_queries": [
+      "\"kings county\" procurement",
+      "\"kings county\" current bids",
+      "\"kings county\" RFP",
+      "\"brooklyn county\" procurement",
+      "\"brooklyn county\" current bids",
+      "\"brooklyn county\" RFP"
+    ],
+    "site_restricted_queries": [
+      "site:.ny.us \"kings county\" procurement",
+      "site:.ny.us \"kings county\" current bids",
+      "site:.ny.gov \"kings county\" procurement",
+      "site:.ny.gov \"kings county\" current bids",
+      "site:.nyc.gov \"kings county\" procurement",
+      "site:.nyc.gov \"kings county\" current bids",
+      "site:.ny.us \"brooklyn county\" procurement",
+      "site:.ny.us \"brooklyn county\" current bids",
+      "site:.ny.gov \"brooklyn county\" procurement",
+      "site:.ny.gov \"brooklyn county\" current bids",
+      "site:.nyc.gov \"brooklyn county\" procurement",
+      "site:.nyc.gov \"brooklyn county\" current bids"
+    ],
+    "construction_queries": [
+      "\"kings county\" construction bids",
+      "\"kings county\" public works RFP",
+      "\"kings county\" capital projects procurement"
+    ]
+  },
+  "Queens County": {
+    "entity_name": "Queens County",
+    "state": "NY",
+    "entity_type": "county",
+    "priority": 10,
+    "basic_queries": [
+      "\"queens county\" procurement",
+      "\"queens county\" current bids",
+      "\"queens county\" RFP"
+    ],
+    "site_restricted_queries": [
+      "site:.ny.us \"queens county\" procurement",
+      "site:.ny.us \"queens county\" current bids",
+      "site:.ny.gov \"queens county\" procurement",
+      "site:.ny.gov \"queens county\" current bids",
+      "site:.nyc.gov \"queens county\" procurement",
+      "site:.nyc.gov \"queens county\" current bids"
+    ],
+    "construction_queries": [
+      "\"queens county\" construction bids",
+      "\"queens county\" public works RFP",
+      "\"queens county\" capital projects procurement"
+    ]
+  },
+  "Bronx County": {
+    "entity_name": "Bronx County",
+    "state": "NY",
+    "entity_type": "county",
+    "priority": 10,
+    "basic_queries": [
+      "\"bronx county\" procurement",
+      "\"bronx county\" current bids",
+      "\"bronx county\" RFP",
+      "\"the bronx\" procurement",
+      "\"the bronx\" current bids",
+      "\"the bronx\" RFP"
+    ],
+    "site_restricted_queries": [
+      "site:.ny.us \"bronx county\" procurement",
+      "site:.ny.us \"bronx county\" current bids",
+      "site:.ny.gov \"bronx county\" procurement",
+      "site:.ny.gov \"bronx county\" current bids",
+      "site:.nyc.gov \"bronx county\" procurement",
+      "site:.nyc.gov \"bronx county\" current bids",
+      "site:.ny.us \"the bronx\" procurement",
+      "site:.ny.us \"the bronx\" current bids",
+      "site:.ny.gov \"the bronx\" procurement",
+      "site:.ny.gov \"the bronx\" current bids",
+      "site:.nyc.gov \"the bronx\" procurement",
+      "site:.nyc.gov \"the bronx\" current bids"
+    ],
+    "construction_queries": [
+      "\"bronx county\" construction bids",
+      "\"bronx county\" public works RFP",
+      "\"bronx county\" capital projects procurement"
+    ]
+  },
+  "Richmond County": {
+    "entity_name": "Richmond County",
+    "state": "NY",
+    "entity_type": "county",
+    "priority": 9,
+    "basic_queries": [
+      "\"richmond county\" procurement",
+      "\"richmond county\" current bids",
+      "\"richmond county\" RFP",
+      "\"staten island county\" procurement",
+      "\"staten island county\" current bids",
+      "\"staten island county\" RFP"
+    ],
+    "site_restricted_queries": [
+      "site:.ny.us \"richmond county\" procurement",
+      "site:.ny.us \"richmond county\" current bids",
+      "site:.ny.gov \"richmond county\" procurement",
+      "site:.ny.gov \"richmond county\" current bids",
+      "site:.nyc.gov \"richmond county\" procurement",
+      "site:.nyc.gov \"richmond county\" current bids",
+      "site:.ny.us \"staten island county\" procurement",
+      "site:.ny.us \"staten island county\" current bids",
+      "site:.ny.gov \"staten island county\" procurement",
+      "site:.ny.gov \"staten island county\" current bids",
+      "site:.nyc.gov \"staten island county\" procurement",
+      "site:.nyc.gov \"staten island county\" current bids"
+    ],
+    "construction_queries": [
+      "\"richmond county\" construction bids",
+      "\"richmond county\" public works RFP",
+      "\"richmond county\" capital projects procurement"
+    ]
+  },
+  "Westchester County": {
+    "entity_name": "Westchester County",
+    "state": "NY",
+    "entity_type": "county",
+    "priority": 9,
+    "basic_queries": [
+      "\"westchester county ny\" procurement",
+      "\"westchester county ny\" current bids",
+      "\"westchester county ny\" RFP",
+      "\"westchester county new york\" procurement",
+      "\"westchester county new york\" current bids",
+      "\"westchester county new york\" RFP"
+    ],
+    "site_restricted_queries": [
+      "site:.ny.us \"westchester county ny\" procurement",
+      "site:.ny.us \"westchester county ny\" current bids",
+      "site:.ny.gov \"westchester county ny\" procurement",
+      "site:.ny.gov \"westchester county ny\" current bids",
+      "site:.nyc.gov \"westchester county ny\" procurement",
+      "site:.nyc.gov \"westchester county ny\" current bids",
+      "site:.ny.us \"westchester county new york\" procurement",
+      "site:.ny.us \"westchester county new york\" current bids",
+      "site:.ny.gov \"westchester county new york\" procurement",
+      "site:.ny.gov \"westchester county new york\" current bids",
+      "site:.nyc.gov \"westchester county new york\" procurement",
+      "site:.nyc.gov \"westchester county new york\" current bids"
+    ],
+    "construction_queries": [
+      "\"westchester county ny\" construction bids",
+      "\"westchester county ny\" public works RFP",
+      "\"westchester county ny\" capital projects procurement"
+    ]
+  },
+  "Nassau County": {
+    "entity_name": "Nassau County",
+    "state": "NY",
+    "entity_type": "county",
+    "priority": 9,
+    "basic_queries": [
+      "\"nassau county ny\" procurement",
+      "\"nassau county ny\" current bids",
+      "\"nassau county ny\" RFP",
+      "\"nassau county new york\" procurement",
+      "\"nassau county new york\" current bids",
+      "\"nassau county new york\" RFP"
+    ],
+    "site_restricted_queries": [
+      "site:.ny.us \"nassau county ny\" procurement",
+      "site:.ny.us \"nassau county ny\" current bids",
+      "site:.ny.gov \"nassau county ny\" procurement",
+      "site:.ny.gov \"nassau county ny\" current bids",
+      "site:.nyc.gov \"nassau county ny\" procurement",
+      "site:.nyc.gov \"nassau county ny\" current bids",
+      "site:.ny.us \"nassau county new york\" procurement",
+      "site:.ny.us \"nassau county new york\" current bids",
+      "site:.ny.gov \"nassau county new york\" procurement",
+      "site:.ny.gov \"nassau county new york\" current bids",
+      "site:.nyc.gov \"nassau county new york\" procurement",
+      "site:.nyc.gov \"nassau county new york\" current bids"
+    ],
+    "construction_queries": [
+      "\"nassau county ny\" construction bids",
+      "\"nassau county ny\" public works RFP",
+      "\"nassau county ny\" capital projects procurement"
+    ]
+  },
+  "New York City": {
+    "entity_name": "New York City",
+    "state": "NY",
+    "entity_type": "city",
+    "priority": 10,
+    "basic_queries": [
+      "\"new york city\" procurement",
+      "\"new york city\" current bids",
+      "\"new york city\" RFP",
+      "\"nyc\" procurement",
+      "\"nyc\" current bids",
+      "\"nyc\" RFP",
+      "\"city of new york\" procurement",
+      "\"city of new york\" current bids",
+      "\"city of new york\" RFP"
+    ],
+    "site_restricted_queries": [
+      "site:.ny.us \"new york city\" procurement",
+      "site:.ny.us \"new york city\" current bids",
+      "site:.ny.gov \"new york city\" procurement",
+      "site:.ny.gov \"new york city\" current bids",
+      "site:.nyc.gov \"new york city\" procurement",
+      "site:.nyc.gov \"new york city\" current bids",
+      "site:.ny.us \"nyc\" procurement",
+      "site:.ny.us \"nyc\" current bids",
+      "site:.ny.gov \"nyc\" procurement",
+      "site:.ny.gov \"nyc\" current bids",
+      "site:.nyc.gov \"nyc\" procurement",
+      "site:.nyc.gov \"nyc\" current bids"
+    ],
+    "construction_queries": [
+      "\"new york city\" construction bids",
+      "\"new york city\" public works RFP",
+      "\"new york city\" capital projects procurement"
+    ]
+  },
+  "Metropolitan Transportation Authority": {
+    "entity_name": "Metropolitan Transportation Authority",
+    "state": "NY",
+    "entity_type": "authority",
+    "priority": 10,
+    "basic_queries": [
+      "\"mta\" procurement",
+      "\"mta\" current bids",
+      "\"mta\" RFP",
+      "\"metropolitan transportation authority new york\" procurement",
+      "\"metropolitan transportation authority new york\" current bids",
+      "\"metropolitan transportation authority new york\" RFP"
+    ],
+    "site_restricted_queries": [
+      "site:.ny.us \"mta\" procurement",
+      "site:.ny.us \"mta\" current bids",
+      "site:.ny.gov \"mta\" procurement",
+      "site:.ny.gov \"mta\" current bids",
+      "site:.nyc.gov \"mta\" procurement",
+      "site:.nyc.gov \"mta\" current bids",
+      "site:.ny.us \"metropolitan transportation authority new york\" procurement",
+      "site:.ny.us \"metropolitan transportation authority new york\" current bids",
+      "site:.ny.gov \"metropolitan transportation authority new york\" procurement",
+      "site:.ny.gov \"metropolitan transportation authority new york\" current bids",
+      "site:.nyc.gov \"metropolitan transportation authority new york\" procurement",
+      "site:.nyc.gov \"metropolitan transportation authority new york\" current bids"
+    ],
+    "construction_queries": [
+      "\"mta\" construction bids",
+      "\"mta\" public works RFP",
+      "\"mta\" capital projects procurement"
+    ]
+  },
+  "New York City Housing Authority": {
+    "entity_name": "New York City Housing Authority",
+    "state": "NY",
+    "entity_type": "authority",
+    "priority": 9,
+    "basic_queries": [
+      "\"nycha\" procurement",
+      "\"nycha\" current bids",
+      "\"nycha\" RFP",
+      "\"new york city housing authority\" procurement",
+      "\"new york city housing authority\" current bids",
+      "\"new york city housing authority\" RFP"
+    ],
+    "site_restricted_queries": [
+      "site:.ny.us \"nycha\" procurement",
+      "site:.ny.us \"nycha\" current bids",
+      "site:.ny.gov \"nycha\" procurement",
+      "site:.ny.gov \"nycha\" current bids",
+      "site:.nyc.gov \"nycha\" procurement",
+      "site:.nyc.gov \"nycha\" current bids",
+      "site:.ny.us \"new york city housing authority\" procurement",
+      "site:.ny.us \"new york city housing authority\" current bids",
+      "site:.ny.gov \"new york city housing authority\" procurement",
+      "site:.ny.gov \"new york city housing authority\" current bids",
+      "site:.nyc.gov \"new york city housing authority\" procurement",
+      "site:.nyc.gov \"new york city housing authority\" current bids"
+    ],
+    "construction_queries": [
+      "\"nycha\" construction bids",
+      "\"nycha\" public works RFP",
+      "\"nycha\" capital projects procurement"
+    ]
+  },
+  "NYC School Construction Authority": {
+    "entity_name": "NYC School Construction Authority",
+    "state": "NY",
+    "entity_type": "authority",
+    "priority": 9,
+    "basic_queries": [
+      "\"nycsca\" procurement",
+      "\"nycsca\" current bids",
+      "\"nycsca\" RFP",
+      "\"new york city school construction authority\" procurement",
+      "\"new york city school construction authority\" current bids",
+      "\"new york city school construction authority\" RFP"
+    ],
+    "site_restricted_queries": [
+      "site:.ny.us \"nycsca\" procurement",
+      "site:.ny.us \"nycsca\" current bids",
+      "site:.ny.gov \"nycsca\" procurement",
+      "site:.ny.gov \"nycsca\" current bids",
+      "site:.nyc.gov \"nycsca\" procurement",
+      "site:.nyc.gov \"nycsca\" current bids",
+      "site:.ny.us \"new york city school construction authority\" procurement",
+      "site:.ny.us \"new york city school construction authority\" current bids",
+      "site:.ny.gov \"new york city school construction authority\" procurement",
+      "site:.ny.gov \"new york city school construction authority\" current bids",
+      "site:.nyc.gov \"new york city school construction authority\" procurement",
+      "site:.nyc.gov \"new york city school construction authority\" current bids"
+    ],
+    "construction_queries": [
+      "\"nycsca\" construction bids",
+      "\"nycsca\" public works RFP",
+      "\"nycsca\" capital projects procurement"
+    ]
+  },
+  "NYC Department of Design & Construction": {
+    "entity_name": "NYC Department of Design & Construction",
+    "state": "NY",
+    "entity_type": "authority",
+    "priority": 9,
+    "basic_queries": [
+      "\"nyc ddc\" procurement",
+      "\"nyc ddc\" current bids",
+      "\"nyc ddc\" RFP",
+      "\"department of design and construction\" procurement",
+      "\"department of design and construction\" current bids",
+      "\"department of design and construction\" RFP"
+    ],
+    "site_restricted_queries": [
+      "site:.ny.us \"nyc ddc\" procurement",
+      "site:.ny.us \"nyc ddc\" current bids",
+      "site:.ny.gov \"nyc ddc\" procurement",
+      "site:.ny.gov \"nyc ddc\" current bids",
+      "site:.nyc.gov \"nyc ddc\" procurement",
+      "site:.nyc.gov \"nyc ddc\" current bids",
+      "site:.ny.us \"department of design and construction\" procurement",
+      "site:.ny.us \"department of design and construction\" current bids",
+      "site:.ny.gov \"department of design and construction\" procurement",
+      "site:.ny.gov \"department of design and construction\" current bids",
+      "site:.nyc.gov \"department of design and construction\" procurement",
+      "site:.nyc.gov \"department of design and construction\" current bids"
+    ],
+    "construction_queries": [
+      "\"nyc ddc\" construction bids",
+      "\"nyc ddc\" public works RFP",
+      "\"nyc ddc\" capital projects procurement"
+    ]
+  },
+  "NYC Department of Environmental Protection": {
+    "entity_name": "NYC Department of Environmental Protection",
+    "state": "NY",
+    "entity_type": "authority",
+    "priority": 9,
+    "basic_queries": [
+      "\"nyc dep\" procurement",
+      "\"nyc dep\" current bids",
+      "\"nyc dep\" RFP",
+      "\"department of environmental protection\" procurement",
+      "\"department of environmental protection\" current bids",
+      "\"department of environmental protection\" RFP"
+    ],
+    "site_restricted_queries": [
+      "site:.ny.us \"nyc dep\" procurement",
+      "site:.ny.us \"nyc dep\" current bids",
+      "site:.ny.gov \"nyc dep\" procurement",
+      "site:.ny.gov \"nyc dep\" current bids",
+      "site:.nyc.gov \"nyc dep\" procurement",
+      "site:.nyc.gov \"nyc dep\" current bids",
+      "site:.ny.us \"department of environmental protection\" procurement",
+      "site:.ny.us \"department of environmental protection\" current bids",
+      "site:.ny.gov \"department of environmental protection\" procurement",
+      "site:.ny.gov \"department of environmental protection\" current bids",
+      "site:.nyc.gov \"department of environmental protection\" procurement",
+      "site:.nyc.gov \"department of environmental protection\" current bids"
+    ],
+    "construction_queries": [
+      "\"nyc dep\" construction bids",
+      "\"nyc dep\" public works RFP",
+      "\"nyc dep\" capital projects procurement"
+    ]
+  },
+  "NYC Department of Transportation": {
+    "entity_name": "NYC Department of Transportation",
+    "state": "NY",
+    "entity_type": "authority",
+    "priority": 9,
+    "basic_queries": [
+      "\"nyc dot\" procurement",
+      "\"nyc dot\" current bids",
+      "\"nyc dot\" RFP",
+      "\"department of transportation\" procurement",
+      "\"department of transportation\" current bids",
+      "\"department of transportation\" RFP"
+    ],
+    "site_restricted_queries": [
+      "site:.ny.us \"nyc dot\" procurement",
+      "site:.ny.us \"nyc dot\" current bids",
+      "site:.ny.gov \"nyc dot\" procurement",
+      "site:.ny.gov \"nyc dot\" current bids",
+      "site:.nyc.gov \"nyc dot\" procurement",
+      "site:.nyc.gov \"nyc dot\" current bids",
+      "site:.ny.us \"department of transportation\" procurement",
+      "site:.ny.us \"department of transportation\" current bids",
+      "site:.ny.gov \"department of transportation\" procurement",
+      "site:.ny.gov \"department of transportation\" current bids",
+      "site:.nyc.gov \"department of transportation\" procurement",
+      "site:.nyc.gov \"department of transportation\" current bids"
+    ],
+    "construction_queries": [
+      "\"nyc dot\" construction bids",
+      "\"nyc dot\" public works RFP",
+      "\"nyc dot\" capital projects procurement"
+    ]
+  },
+  "NYC Transit Authority": {
+    "entity_name": "NYC Transit Authority",
+    "state": "NY",
+    "entity_type": "authority",
+    "priority": 9,
+    "basic_queries": [
+      "\"nycta\" procurement",
+      "\"nycta\" current bids",
+      "\"nycta\" RFP",
+      "\"new york city transit authority\" procurement",
+      "\"new york city transit authority\" current bids",
+      "\"new york city transit authority\" RFP"
+    ],
+    "site_restricted_queries": [
+      "site:.ny.us \"nycta\" procurement",
+      "site:.ny.us \"nycta\" current bids",
+      "site:.ny.gov \"nycta\" procurement",
+      "site:.ny.gov \"nycta\" current bids",
+      "site:.nyc.gov \"nycta\" procurement",
+      "site:.nyc.gov \"nycta\" current bids",
+      "site:.ny.us \"new york city transit authority\" procurement",
+      "site:.ny.us \"new york city transit authority\" current bids",
+      "site:.ny.gov \"new york city transit authority\" procurement",
+      "site:.ny.gov \"new york city transit authority\" current bids",
+      "site:.nyc.gov \"new york city transit authority\" procurement",
+      "site:.nyc.gov \"new york city transit authority\" current bids"
+    ],
+    "construction_queries": [
+      "\"nycta\" construction bids",
+      "\"nycta\" public works RFP",
+      "\"nycta\" capital projects procurement"
+    ]
+  },
+  "Port Authority of New York & New Jersey": {
+    "entity_name": "Port Authority of New York & New Jersey",
+    "state": "NY",
+    "entity_type": "authority",
+    "priority": 10,
+    "basic_queries": [
+      "\"port authority\" procurement",
+      "\"port authority\" current bids",
+      "\"port authority\" RFP",
+      "\"panynj\" procurement",
+      "\"panynj\" current bids",
+      "\"panynj\" RFP"
+    ],
+    "site_restricted_queries": [
+      "site:.ny.us \"port authority\" procurement",
+      "site:.ny.us \"port authority\" current bids",
+      "site:.ny.gov \"port authority\" procurement",
+      "site:.ny.gov \"port authority\" current bids",
+      "site:.nyc.gov \"port authority\" procurement",
+      "site:.nyc.gov \"port authority\" current bids",
+      "site:.ny.us \"panynj\" procurement",
+      "site:.ny.us \"panynj\" current bids",
+      "site:.ny.gov \"panynj\" procurement",
+      "site:.ny.gov \"panynj\" current bids",
+      "site:.nyc.gov \"panynj\" procurement",
+      "site:.nyc.gov \"panynj\" current bids"
+    ],
+    "construction_queries": [
+      "\"port authority\" construction bids",
+      "\"port authority\" public works RFP",
+      "\"port authority\" capital projects procurement"
+    ]
+  },
+  "New York City Department of Education": {
+    "entity_name": "New York City Department of Education",
+    "state": "NY",
+    "entity_type": "school_district",
+    "priority": 9,
+    "basic_queries": [
+      "\"nyc doe\" procurement",
+      "\"nyc doe\" current bids",
+      "\"nyc doe\" RFP",
+      "\"new york city department of education\" procurement",
+      "\"new york city department of education\" current bids",
+      "\"new york city department of education\" RFP",
+      "\"nyc schools\" procurement",
+      "\"nyc schools\" current bids",
+      "\"nyc schools\" RFP"
+    ],
+    "site_restricted_queries": [
+      "site:.ny.us \"nyc doe\" procurement",
+      "site:.ny.us \"nyc doe\" current bids",
+      "site:.ny.gov \"nyc doe\" procurement",
+      "site:.ny.gov \"nyc doe\" current bids",
+      "site:.nyc.gov \"nyc doe\" procurement",
+      "site:.nyc.gov \"nyc doe\" current bids",
+      "site:.ny.us \"new york city department of education\" procurement",
+      "site:.ny.us \"new york city department of education\" current bids",
+      "site:.ny.gov \"new york city department of education\" procurement",
+      "site:.ny.gov \"new york city department of education\" current bids",
+      "site:.nyc.gov \"new york city department of education\" procurement",
+      "site:.nyc.gov \"new york city department of education\" current bids"
+    ],
+    "construction_queries": [
+      "\"nyc doe\" construction bids",
+      "\"nyc doe\" public works RFP",
+      "\"nyc doe\" capital projects procurement"
+    ]
+  },
+  "Fairfield County": {
+    "entity_name": "Fairfield County",
+    "state": "CT",
+    "entity_type": "county",
+    "priority": 9,
+    "basic_queries": [
+      "\"fairfield county ct\" procurement",
+      "\"fairfield county ct\" current bids",
+      "\"fairfield county ct\" RFP",
+      "\"fairfield county connecticut\" procurement",
+      "\"fairfield county connecticut\" current bids",
+      "\"fairfield county connecticut\" RFP"
+    ],
+    "site_restricted_queries": [
+      "site:.ct.us \"fairfield county ct\" procurement",
+      "site:.ct.us \"fairfield county ct\" current bids",
+      "site:.ct.gov \"fairfield county ct\" procurement",
+      "site:.ct.gov \"fairfield county ct\" current bids",
+      "site:.ct.us \"fairfield county connecticut\" procurement",
+      "site:.ct.us \"fairfield county connecticut\" current bids",
+      "site:.ct.gov \"fairfield county connecticut\" procurement",
+      "site:.ct.gov \"fairfield county connecticut\" current bids"
+    ],
+    "construction_queries": [
+      "\"fairfield county ct\" construction bids",
+      "\"fairfield county ct\" public works RFP",
+      "\"fairfield county ct\" capital projects procurement"
+    ]
+  },
+  "Stamford": {
+    "entity_name": "Stamford",
+    "state": "CT",
+    "entity_type": "city",
+    "priority": 9,
+    "basic_queries": [
+      "\"stamford ct\" procurement",
+      "\"stamford ct\" current bids",
+      "\"stamford ct\" RFP",
+      "\"city of stamford\" procurement",
+      "\"city of stamford\" current bids",
+      "\"city of stamford\" RFP",
+      "\"stamford connecticut\" procurement",
+      "\"stamford connecticut\" current bids",
+      "\"stamford connecticut\" RFP"
+    ],
+    "site_restricted_queries": [
+      "site:.ct.us \"stamford ct\" procurement",
+      "site:.ct.us \"stamford ct\" current bids",
+      "site:.ct.gov \"stamford ct\" procurement",
+      "site:.ct.gov \"stamford ct\" current bids",
+      "site:.ct.us \"city of stamford\" procurement",
+      "site:.ct.us \"city of stamford\" current bids",
+      "site:.ct.gov \"city of stamford\" procurement",
+      "site:.ct.gov \"city of stamford\" current bids"
+    ],
+    "construction_queries": [
+      "\"stamford ct\" construction bids",
+      "\"stamford ct\" public works RFP",
+      "\"stamford ct\" capital projects procurement"
+    ]
+  }
+}

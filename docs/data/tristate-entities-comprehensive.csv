@@ -1,0 +1,230 @@
+state,entity_type,entity_name,search_keywords,priority,population_tier
+NJ,county,Atlantic County,"atlantic county nj, atlantic county new jersey",6,medium
+NJ,county,Bergen County,"bergen county nj, bergen county new jersey",9,large
+NJ,county,Burlington County,"burlington county nj, burlington county new jersey",7,large
+NJ,county,Camden County,"camden county nj, camden county new jersey",7,large
+NJ,county,Cape May County,"cape may county nj, cape may county new jersey",5,small
+NJ,county,Cumberland County,"cumberland county nj, cumberland county new jersey",5,small
+NJ,county,Essex County,"essex county nj, essex county new jersey",9,large
+NJ,county,Gloucester County,"gloucester county nj, gloucester county new jersey",6,medium
+NJ,county,Hudson County,"hudson county nj, hudson county new jersey",9,large
+NJ,county,Hunterdon County,"hunterdon county nj, hunterdon county new jersey",5,small
+NJ,county,Mercer County,"mercer county nj, mercer county new jersey",8,large
+NJ,county,Middlesex County,"middlesex county nj, middlesex county new jersey",9,large
+NJ,county,Monmouth County,"monmouth county nj, monmouth county new jersey",8,large
+NJ,county,Morris County,"morris county nj, morris county new jersey",7,large
+NJ,county,Ocean County,"ocean county nj, ocean county new jersey",7,large
+NJ,county,Passaic County,"passaic county nj, passaic county new jersey",8,large
+NJ,county,Salem County,"salem county nj, salem county new jersey",4,small
+NJ,county,Somerset County,"somerset county nj, somerset county new jersey",7,medium
+NJ,county,Sussex County,"sussex county nj, sussex county new jersey",5,small
+NJ,county,Union County,"union county nj, union county new jersey",8,large
+NJ,county,Warren County,"warren county nj, warren county new jersey",5,small
+NJ,city,Newark,"newark nj, city of newark, newark new jersey",10,large
+NJ,city,Jersey City,"jersey city nj, jersey city new jersey",10,large
+NJ,city,Paterson,"paterson nj, city of paterson, paterson new jersey",9,large
+NJ,city,Elizabeth,"elizabeth nj, city of elizabeth, elizabeth new jersey",9,large
+NJ,city,Edison,"edison nj, edison township, edison new jersey",8,large
+NJ,city,Woodbridge,"woodbridge nj, woodbridge township, woodbridge new jersey",7,large
+NJ,city,Lakewood,"lakewood nj, lakewood township, lakewood new jersey",7,large
+NJ,city,Toms River,"toms river nj, toms river township, toms river new jersey",7,medium
+NJ,city,Hamilton Township,"hamilton township nj, hamilton mercer county",7,medium
+NJ,city,Trenton,"trenton nj, city of trenton, trenton new jersey",9,medium
+NJ,city,Clifton,"clifton nj, city of clifton, clifton new jersey",7,medium
+NJ,city,Camden,"camden nj, city of camden, camden new jersey",8,medium
+NJ,city,Brick Township,"brick township nj, brick nj",6,medium
+NJ,city,Cherry Hill,"cherry hill nj, cherry hill township",7,medium
+NJ,city,Passaic,"passaic nj, city of passaic, passaic new jersey",6,medium
+NJ,city,Union City,"union city nj, union city new jersey",6,medium
+NJ,city,Old Bridge,"old bridge nj, old bridge township",6,medium
+NJ,city,Gloucester Township,"gloucester township nj",6,medium
+NJ,city,East Orange,"east orange nj, city of east orange",6,medium
+NJ,city,Bayonne,"bayonne nj, city of bayonne",6,medium
+NJ,city,Franklin Township,"franklin township nj, franklin somerset county",6,medium
+NJ,city,North Bergen,"north bergen nj, north bergen township",6,medium
+NJ,city,Vineland,"vineland nj, city of vineland",6,medium
+NJ,city,Union Township,"union township nj, union township union county",5,medium
+NJ,city,Piscataway,"piscataway nj, piscataway township",6,medium
+NJ,city,New Brunswick,"new brunswick nj, city of new brunswick",7,medium
+NJ,city,Jackson Township,"jackson township nj, jackson ocean county",5,medium
+NJ,city,Wayne,"wayne nj, wayne township",6,medium
+NJ,city,Irvington,"irvington nj, irvington township",5,medium
+NJ,city,Parsippany-Troy Hills,"parsippany nj, parsippany troy hills",6,medium
+NJ,city,Hoboken,"hoboken nj, city of hoboken",7,medium
+NJ,city,West New York,"west new york nj, town of west new york",5,medium
+NJ,city,Plainfield,"plainfield nj, city of plainfield",6,medium
+NJ,city,Washington Township,"washington township nj, washington gloucester county",5,small
+NJ,city,Sayreville,"sayreville nj, sayreville borough",5,medium
+NJ,city,Hackensack,"hackensack nj, city of hackensack",6,medium
+NJ,city,Kearny,"kearny nj, town of kearny",5,small
+NJ,city,Linden,"linden nj, city of linden",5,medium
+NJ,city,Atlantic City,"atlantic city nj, city of atlantic city",7,medium
+NJ,city,Fort Lee,"fort lee nj, fort lee borough",5,small
+NJ,city,Fair Lawn,"fair lawn nj, fair lawn borough",5,small
+NJ,city,Garfield,"garfield nj, city of garfield",5,small
+NJ,city,Bloomfield,"bloomfield nj, bloomfield township",5,medium
+NJ,city,Perth Amboy,"perth amboy nj, city of perth amboy",6,medium
+NJ,city,Montclair,"montclair nj, montclair township",6,medium
+NJ,township,Hamilton Township Mercer,"hamilton township mercer county nj",6,medium
+NJ,township,Hamilton Township Atlantic,"hamilton township atlantic county nj",5,small
+NJ,township,Washington Township Bergen,"washington township bergen county nj",5,small
+NJ,township,Washington Township Gloucester,"washington township gloucester county nj",5,small
+NJ,township,Washington Township Morris,"washington township morris county nj",5,small
+NJ,township,Franklin Township Somerset,"franklin township somerset county nj",6,medium
+NJ,township,Franklin Township Gloucester,"franklin township gloucester county nj",5,small
+NJ,township,Monroe Township Middlesex,"monroe township middlesex county nj",6,medium
+NJ,township,Monroe Township Gloucester,"monroe township gloucester county nj",5,small
+NJ,authority,NJ Transit,"nj transit, new jersey transit corporation",9,state
+NJ,authority,Port Authority of NY & NJ,"port authority, panynj, port authority of new york and new jersey",10,bistate
+NJ,authority,NJ Turnpike Authority,"new jersey turnpike authority, njta, nj turnpike",8,state
+NJ,authority,NJ Economic Development Authority,"njeda, new jersey economic development authority",7,state
+NJ,authority,NJ Sports & Exposition Authority,"njsea, new jersey sports and exposition authority",6,state
+NJ,authority,NJ Housing & Mortgage Finance Agency,"njhmfa, new jersey housing and mortgage finance agency",6,state
+NJ,authority,South Jersey Transportation Authority,"sjta, south jersey transportation authority",6,regional
+NJ,authority,Delaware River Port Authority,"drpa, delaware river port authority",7,bistate
+NJ,authority,Delaware River & Bay Authority,"drba, delaware river and bay authority",6,bistate
+NJ,authority,Passaic Valley Sewerage Commission,"pvsc, passaic valley sewerage commission",6,regional
+NJ,authority,Bergen County Utilities Authority,"bcua, bergen county utilities authority",5,county
+NJ,authority,Essex County Utilities Authority,"ecua, essex county utilities authority",5,county
+NJ,authority,Middlesex Water Company,"middlesex water, middlesex water company",5,regional
+NJ,authority,Newark Housing Authority,"newark housing authority, nha newark",6,city
+NJ,authority,Jersey City Housing Authority,"jersey city housing authority, jcha",6,city
+NJ,authority,Camden Housing Authority,"camden housing authority",5,city
+NJ,authority,North Jersey Transportation Planning Authority,"njtpa, north jersey transportation planning authority",6,regional
+NJ,school_district,Newark Public Schools,"newark public schools, newark board of education",7,large
+NJ,school_district,Jersey City Public Schools,"jersey city public schools, jersey city board of education",7,large
+NJ,school_district,Paterson Public Schools,"paterson public schools, paterson board of education",7,large
+NJ,school_district,Elizabeth Public Schools,"elizabeth public schools, elizabeth board of education",6,medium
+NJ,school_district,Edison Public Schools,"edison public schools, edison board of education",6,medium
+NJ,school_district,Woodbridge Township Schools,"woodbridge township schools",6,medium
+NJ,school_district,Trenton Public Schools,"trenton public schools, trenton board of education",6,medium
+NJ,school_district,Camden City Schools,"camden city schools, camden board of education",6,medium
+NJ,school_district,Union City Public Schools,"union city public schools",5,medium
+NJ,school_district,Clifton Public Schools,"clifton public schools",5,medium
+NY,county,New York County,"new york county, manhattan county",10,large
+NY,county,Kings County,"kings county, brooklyn county",10,large
+NY,county,Queens County,"queens county",10,large
+NY,county,Bronx County,"bronx county, the bronx",10,large
+NY,county,Richmond County,"richmond county, staten island county",9,large
+NY,county,Westchester County,"westchester county ny, westchester county new york",9,large
+NY,county,Nassau County,"nassau county ny, nassau county new york",9,large
+NY,county,Suffolk County,"suffolk county ny, suffolk county new york",8,large
+NY,county,Rockland County,"rockland county ny, rockland county new york",7,medium
+NY,county,Orange County,"orange county ny, orange county new york",7,medium
+NY,county,Putnam County,"putnam county ny, putnam county new york",6,small
+NY,county,Dutchess County,"dutchess county ny, dutchess county new york",6,medium
+NY,county,Ulster County,"ulster county ny, ulster county new york",5,medium
+NY,county,Sullivan County,"sullivan county ny, sullivan county new york",5,small
+NY,county,Erie County,"erie county ny, erie county new york",7,large
+NY,county,Monroe County,"monroe county ny, monroe county new york",7,large
+NY,county,Onondaga County,"onondaga county ny, onondaga county new york",6,medium
+NY,county,Albany County,"albany county ny, albany county new york",6,medium
+NY,city,New York City,"new york city, nyc, city of new york",10,mega
+NY,city,Buffalo,"buffalo ny, city of buffalo",7,large
+NY,city,Rochester,"rochester ny, city of rochester",7,large
+NY,city,Yonkers,"yonkers ny, city of yonkers",8,large
+NY,city,Syracuse,"syracuse ny, city of syracuse",6,medium
+NY,city,Albany,"albany ny, city of albany",7,medium
+NY,city,New Rochelle,"new rochelle ny, city of new rochelle",6,medium
+NY,city,Mount Vernon,"mount vernon ny, city of mount vernon",6,medium
+NY,city,Schenectady,"schenectady ny, city of schenectady",5,medium
+NY,city,Utica,"utica ny, city of utica",5,medium
+NY,city,White Plains,"white plains ny, city of white plains",7,medium
+NY,city,Hempstead,"hempstead ny, town of hempstead",7,large
+NY,city,Brookhaven,"brookhaven ny, town of brookhaven",6,large
+NY,city,Islip,"islip ny, town of islip",6,large
+NY,city,Oyster Bay,"oyster bay ny, town of oyster bay",6,large
+NY,city,North Hempstead,"north hempstead ny, town of north hempstead",6,medium
+NY,city,Babylon,"babylon ny, town of babylon",6,medium
+NY,city,Huntington,"huntington ny, town of huntington",6,medium
+NY,city,Smithtown,"smithtown ny, town of smithtown",6,medium
+NY,city,Ramapo,"ramapo ny, town of ramapo",6,medium
+NY,city,Greenburgh,"greenburgh ny, town of greenburgh",6,medium
+NY,city,Mount Pleasant,"mount pleasant ny, town of mount pleasant",5,medium
+NY,city,Clarkstown,"clarkstown ny, town of clarkstown",6,medium
+NY,city,Orangetown,"orangetown ny, town of orangetown",5,medium
+NY,authority,Metropolitan Transportation Authority,"mta, metropolitan transportation authority new york",10,regional
+NY,authority,New York City Housing Authority,"nycha, new york city housing authority",9,city
+NY,authority,NYC School Construction Authority,"nycsca, new york city school construction authority",9,city
+NY,authority,NYC Department of Design & Construction,"nyc ddc, department of design and construction",9,city
+NY,authority,NYC Department of Environmental Protection,"nyc dep, department of environmental protection",9,city
+NY,authority,NYC Department of Transportation,"nyc dot, department of transportation",9,city
+NY,authority,NYC Economic Development Corporation,"nycedc, new york city economic development corporation",8,city
+NY,authority,NYC Health + Hospitals,"nyc health and hospitals, nyc h+h",8,city
+NY,authority,Triborough Bridge & Tunnel Authority,"tbta, triborough bridge and tunnel authority",8,regional
+NY,authority,NYC Transit Authority,"nycta, new york city transit authority",9,city
+NY,authority,Long Island Rail Road,"lirr, long island rail road",8,regional
+NY,authority,Metro-North Railroad,"metro north, metro-north railroad",8,regional
+NY,authority,New York Power Authority,"nypa, new york power authority",7,state
+NY,authority,Dormitory Authority of the State of New York,"dasny, dormitory authority",7,state
+NY,authority,New York State Thruway Authority,"nys thruway authority, thruway authority",7,state
+NY,authority,New York State Bridge Authority,"nys bridge authority",6,state
+NY,authority,Port Authority of New York & New Jersey,"port authority, panynj",10,bistate
+NY,authority,Battery Park City Authority,"bpca, battery park city authority",6,city
+NY,authority,Hudson River Park Trust,"hudson river park trust",6,city
+NY,authority,Roosevelt Island Operating Corporation,"rioc, roosevelt island operating corporation",5,city
+NY,authority,Nassau County Bridge Authority,"nassau county bridge authority",5,county
+NY,authority,Suffolk County Water Authority,"suffolk county water authority, scwa",6,county
+NY,school_district,New York City Department of Education,"nyc doe, new york city department of education, nyc schools",9,mega
+NY,school_district,Buffalo Public Schools,"buffalo public schools, buffalo city school district",6,large
+NY,school_district,Rochester City School District,"rochester city school district, rochester schools",6,large
+NY,school_district,Yonkers Public Schools,"yonkers public schools, yonkers school district",7,large
+NY,school_district,Syracuse City School District,"syracuse city school district",5,medium
+CT,county,Fairfield County,"fairfield county ct, fairfield county connecticut",9,large
+CT,county,Hartford County,"hartford county ct, hartford county connecticut",8,large
+CT,county,New Haven County,"new haven county ct, new haven county connecticut",8,large
+CT,county,New London County,"new london county ct, new london county connecticut",6,medium
+CT,county,Litchfield County,"litchfield county ct, litchfield county connecticut",5,small
+CT,county,Middlesex County,"middlesex county ct, middlesex county connecticut",5,small
+CT,county,Tolland County,"tolland county ct, tolland county connecticut",5,small
+CT,county,Windham County,"windham county ct, windham county connecticut",4,small
+CT,city,Bridgeport,"bridgeport ct, city of bridgeport, bridgeport connecticut",8,large
+CT,city,New Haven,"new haven ct, city of new haven, new haven connecticut",8,large
+CT,city,Stamford,"stamford ct, city of stamford, stamford connecticut",9,large
+CT,city,Hartford,"hartford ct, city of hartford, hartford connecticut",8,large
+CT,city,Waterbury,"waterbury ct, city of waterbury, waterbury connecticut",7,large
+CT,city,Norwalk,"norwalk ct, city of norwalk, norwalk connecticut",8,large
+CT,city,Danbury,"danbury ct, city of danbury, danbury connecticut",7,medium
+CT,city,New Britain,"new britain ct, city of new britain, new britain connecticut",6,medium
+CT,city,West Hartford,"west hartford ct, town of west hartford",7,medium
+CT,city,Greenwich,"greenwich ct, town of greenwich, greenwich connecticut",8,large
+CT,city,Hamden,"hamden ct, town of hamden",6,medium
+CT,city,Meriden,"meriden ct, city of meriden",6,medium
+CT,city,Bristol,"bristol ct, city of bristol",6,medium
+CT,city,West Haven,"west haven ct, city of west haven",6,medium
+CT,city,Milford,"milford ct, city of milford",6,medium
+CT,city,Stratford,"stratford ct, town of stratford",6,medium
+CT,city,East Hartford,"east hartford ct, town of east hartford",6,medium
+CT,city,Middletown,"middletown ct, city of middletown",6,medium
+CT,city,Wallingford,"wallingford ct, town of wallingford",5,medium
+CT,city,Norwich,"norwich ct, city of norwich",5,medium
+CT,city,Shelton,"shelton ct, city of shelton",6,medium
+CT,city,Torrington,"torrington ct, city of torrington",5,medium
+CT,city,Trumbull,"trumbull ct, town of trumbull",5,medium
+CT,city,Mansfield,"mansfield ct, town of mansfield",5,small
+CT,city,Newtown,"newtown ct, town of newtown",5,small
+CT,city,Fairfield,"fairfield ct, town of fairfield",7,medium
+CT,city,Westport,"westport ct, town of westport",7,medium
+CT,city,Ridgefield,"ridgefield ct, town of ridgefield",6,medium
+CT,city,Darien,"darien ct, town of darien",6,medium
+CT,city,New Canaan,"new canaan ct, town of new canaan",6,medium
+CT,authority,Connecticut Department of Transportation,"ctdot, connecticut department of transportation, ct dot",8,state
+CT,authority,Connecticut Port Authority,"connecticut port authority",6,state
+CT,authority,Connecticut Airport Authority,"connecticut airport authority, caa",6,state
+CT,authority,Connecticut Housing Finance Authority,"chfa, connecticut housing finance authority",6,state
+CT,authority,Connecticut Green Bank,"connecticut green bank",5,state
+CT,authority,Capital Region Development Authority,"crda, capital region development authority",6,regional
+CT,authority,Bridgeport Port Authority,"bridgeport port authority",5,city
+CT,authority,New Haven Parking Authority,"new haven parking authority",5,city
+CT,authority,Hartford Parking Authority,"hartford parking authority",5,city
+CT,authority,Connecticut Water Company,"connecticut water company",5,utility
+CT,authority,South Central Connecticut Regional Water Authority,"sccrwa, south central connecticut regional water authority",5,regional
+CT,school_district,Bridgeport Public Schools,"bridgeport public schools, bridgeport school district",6,large
+CT,school_district,New Haven Public Schools,"new haven public schools, new haven school district",6,large
+CT,school_district,Hartford Public Schools,"hartford public schools, hartford school district",7,large
+CT,school_district,Stamford Public Schools,"stamford public schools, stamford school district",7,large
+CT,school_district,Waterbury Public Schools,"waterbury public schools, waterbury school district",6,medium
+CT,school_district,Norwalk Public Schools,"norwalk public schools, norwalk school district",6,medium
+BISTATE,authority,Port Authority of NY & NJ,"port authority, panynj, port authority of new york and new jersey",10,bistate
+BISTATE,authority,Waterfront Commission of New York Harbor,"waterfront commission ny nj",5,bistate
+BISTATE,authority,Interstate Environmental Commission,"interstate environmental commission",4,bistate
