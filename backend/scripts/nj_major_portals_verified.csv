@@ -1,0 +1,10 @@
+name,entity,priority,accessible,working_url,original_url,expected_rfps,rfp_count_estimate,has_construction_content,has_bid_list,rfp_links_found,construction_rfp_links,procurement_mentions,construction_mentions,title
+NJ START - State Procurement,State of New Jersey,10,True,https://www.njstart.gov/bso/,https://www.njstart.gov/bso/,100+,3,False,False,1,0,18,0,NJSTART - /view/login/login.xhtml
+Port Authority of NY & NJ,Port Authority,10,True,https://account.bonfirehub.com/login?flow=f2884543-068d-4cab-8430-8b4d558b5206,https://panynj.bonfirehub.com/login,100+,0,False,False,0,0,2,0,Euna Procurement Login Page
+Bergen County,Bergen County,9,True,https://www.co.bergen.nj.us/,https://www.co.bergen.nj.us/purchasing,20+,0,False,False,0,0,0,0,Bergen County
+Paterson,City of Paterson,8,True,https://www.patersonnj.gov/egov/apps/document/center.egov?fDD=14-49,https://www.patersonnj.gov/egov/apps/document/center.egov?fDD=14-49,20+,22,True,True,8,0,10,3,Document Center / Browse Documents / New Jersey
+Edison Township,Edison Township,8,True,https://www.edisonnj.org/departments/purchasing/index.php,https://www.edisonnj.org/departments/purchasing/index.php,15+,4,True,False,4,0,13,3,Purchasing Division
+Morris County,Morris County,8,True,https://www.morriscountynj.gov/Departments/Purchasing,https://morriscountynj.gov/purchasing,15+,4,False,False,4,0,40,2,"Purchasing – Morris County, NJ"
+Monmouth County,Monmouth County,8,True,https://www.co.monmouth.nj.us/page.aspx?Id=1590,https://www.co.monmouth.nj.us/page.aspx?Id=1590,15+,1,False,False,1,0,2,0,Tax Board Veterans Tax Deduction
+Lakewood Township,Lakewood Township,7,True,https://www.lakewoodnj.gov/bids,https://www.lakewoodnj.gov/bids,10+,1,True,False,1,0,6,3,Bids & RFPs : Township of Lakewood
+Ocean County,Ocean County,7,True,https://www.oceancountygov.com/en-US/purchasing,https://www.oceancountygov.com/en-US/purchasing,10+,0,False,False,0,0,0,0,Loading...

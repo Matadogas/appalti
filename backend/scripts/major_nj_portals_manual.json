@@ -1,0 +1,285 @@
+{
+  "state_portals": [
+    {
+      "name": "NJ START - State Procurement",
+      "entity": "State of New Jersey",
+      "priority": 10,
+      "urls_to_try": [
+        "https://www.njstart.gov/bso/",
+        "https://www.state.nj.us/treasury/purchase/",
+        "https://www.nj.gov/treasury/purchase/bid.shtml"
+      ],
+      "expected_rfps": "100+"
+    }
+  ],
+  "authorities": [
+    {
+      "name": "NJ Transit",
+      "entity": "NJ Transit Corporation",
+      "priority": 10,
+      "urls_to_try": [
+        "https://www.njtransit.com/business-center/solicitations",
+        "https://www.njtransit.com/business-opportunities",
+        "https://njtransit.com/solicitations"
+      ],
+      "expected_rfps": "50+"
+    },
+    {
+      "name": "Port Authority of NY & NJ",
+      "entity": "Port Authority",
+      "priority": 10,
+      "urls_to_try": [
+        "https://www.panynj.gov/port-authority/en/business-opportunities/solicitations.html",
+        "https://www.panynj.gov/business-opportunities.html",
+        "https://panynj.bonfirehub.com/login"
+      ],
+      "expected_rfps": "100+"
+    },
+    {
+      "name": "NJ Turnpike Authority",
+      "entity": "NJ Turnpike Authority",
+      "priority": 9,
+      "urls_to_try": [
+        "https://www.njta.com/business-opportunities",
+        "https://www.njta.com/doing-business",
+        "https://njta.com/procurement"
+      ],
+      "expected_rfps": "20+"
+    },
+    {
+      "name": "NJ Schools Development Authority",
+      "entity": "NJ SDA",
+      "priority": 9,
+      "urls_to_try": [
+        "https://www.njsda.gov/business/procurement",
+        "https://www.njsda.gov/doing-business",
+        "https://njsda.gov/bids"
+      ],
+      "expected_rfps": "50+"
+    },
+    {
+      "name": "NJ Economic Development Authority",
+      "entity": "NJEDA",
+      "priority": 8,
+      "urls_to_try": [
+        "https://www.njeda.com/about/procurement/",
+        "https://njeda.com/rfp",
+        "https://www.njeda.gov/procurement"
+      ],
+      "expected_rfps": "10+"
+    },
+    {
+      "name": "South Jersey Transportation Authority",
+      "entity": "SJTA",
+      "priority": 7,
+      "urls_to_try": [
+        "https://www.sjta.com/business",
+        "https://sjta.com/procurement",
+        "https://www.sjta.com/doing-business"
+      ],
+      "expected_rfps": "10+"
+    }
+  ],
+  "counties": [
+    {
+      "name": "Bergen County",
+      "entity": "Bergen County",
+      "priority": 9,
+      "urls_to_try": [
+        "https://www.co.bergen.nj.us/purchasing",
+        "https://www.co.bergen.nj.us/procurement",
+        "https://www.bergencountynj.gov/departments/purchasing"
+      ],
+      "expected_rfps": "20+"
+    },
+    {
+      "name": "Essex County",
+      "entity": "Essex County",
+      "priority": 9,
+      "urls_to_try": [
+        "https://www.essexcountynj.org/purchasing/",
+        "https://essexcountynj.org/departments/purchasing",
+        "https://www.essexcountynj.org/bids"
+      ],
+      "expected_rfps": "20+"
+    },
+    {
+      "name": "Hudson County",
+      "entity": "Hudson County",
+      "priority": 9,
+      "urls_to_try": [
+        "https://www.hudsoncountynj.org/purchasing-department/",
+        "https://hudsoncountynj.org/procurement",
+        "https://www.hudsoncountynj.org/bids"
+      ],
+      "expected_rfps": "15+"
+    },
+    {
+      "name": "Middlesex County",
+      "entity": "Middlesex County",
+      "priority": 9,
+      "urls_to_try": [
+        "https://www.middlesexcountynj.gov/government/departments/departments-a-m/central-services/purchasing",
+        "https://www.co.middlesex.nj.us/Government/Departments/PSB/Pages/default.aspx",
+        "https://middlesexcountynj.gov/purchasing"
+      ],
+      "expected_rfps": "20+"
+    },
+    {
+      "name": "Monmouth County",
+      "entity": "Monmouth County",
+      "priority": 8,
+      "urls_to_try": [
+        "https://www.co.monmouth.nj.us/page.aspx?Id=1590",
+        "https://www.visitmonmouth.com/page.aspx?Id=1590",
+        "https://monmouthcountynj.gov/purchasing"
+      ],
+      "expected_rfps": "15+"
+    },
+    {
+      "name": "Morris County",
+      "entity": "Morris County",
+      "priority": 8,
+      "urls_to_try": [
+        "https://www.morriscountynj.gov/Government/Departments/Purchasing-1",
+        "https://morriscountynj.gov/purchasing",
+        "https://www.morristownship.com/purchasing"
+      ],
+      "expected_rfps": "15+"
+    },
+    {
+      "name": "Ocean County",
+      "entity": "Ocean County",
+      "priority": 7,
+      "urls_to_try": [
+        "https://www.oceancountygov.com/en-US/purchasing",
+        "https://www.co.ocean.nj.us/purchasing/",
+        "https://oceancountynj.gov/procurement"
+      ],
+      "expected_rfps": "10+"
+    },
+    {
+      "name": "Passaic County",
+      "entity": "Passaic County",
+      "priority": 8,
+      "urls_to_try": [
+        "https://www.passaiccountynj.org/government/purchasing/",
+        "https://passaiccountynj.org/procurement",
+        "https://www.passaiccountynj.org/bids"
+      ],
+      "expected_rfps": "10+"
+    },
+    {
+      "name": "Union County",
+      "entity": "Union County",
+      "priority": 8,
+      "urls_to_try": [
+        "https://ucnj.org/procurement/",
+        "https://www.ucnj.org/government/purchasing/",
+        "https://unioncountynj.org/bids"
+      ],
+      "expected_rfps": "15+"
+    },
+    {
+      "name": "Camden County",
+      "entity": "Camden County",
+      "priority": 8,
+      "urls_to_try": [
+        "https://www.camdencounty.com/government/offices-departments/purchasing/",
+        "https://camdencounty.com/procurement",
+        "https://www.camdencounty.com/bids"
+      ],
+      "expected_rfps": "15+"
+    }
+  ],
+  "major_cities": [
+    {
+      "name": "Newark",
+      "entity": "City of Newark",
+      "priority": 10,
+      "urls_to_try": [
+        "https://www.newarknj.gov/departments/finance/purchasing",
+        "https://www.ci.newark.nj.us/departments/purchasing",
+        "https://newarknj.gov/bids"
+      ],
+      "expected_rfps": "30+"
+    },
+    {
+      "name": "Jersey City",
+      "entity": "City of Jersey City",
+      "priority": 9,
+      "urls_to_try": [
+        "https://www.jerseycitynj.gov/cityhall/purchasing",
+        "https://jerseycitynj.gov/departments/purchasing",
+        "https://www.cityofjerseycity.com/purchasing"
+      ],
+      "expected_rfps": "25+"
+    },
+    {
+      "name": "Paterson",
+      "entity": "City of Paterson",
+      "priority": 8,
+      "urls_to_try": [
+        "https://www.patersonnj.gov/egov/apps/document/center.egov?fDD=14-49",
+        "https://www.patersonnj.gov/department/division.php?structureid=57",
+        "https://patersonnj.gov/purchasing"
+      ],
+      "expected_rfps": "20+"
+    },
+    {
+      "name": "Elizabeth",
+      "entity": "City of Elizabeth",
+      "priority": 8,
+      "urls_to_try": [
+        "https://www.elizabethnj.org/departments/purchasing/",
+        "https://elizabethnj.org/bids",
+        "https://www.elizabethnj.org/procurement"
+      ],
+      "expected_rfps": "15+"
+    },
+    {
+      "name": "Edison Township",
+      "entity": "Edison Township",
+      "priority": 8,
+      "urls_to_try": [
+        "https://www.edisonnj.org/departments/purchasing/index.php",
+        "https://www.edisonnj.org/bids",
+        "https://edisonnj.org/purchasing"
+      ],
+      "expected_rfps": "15+"
+    },
+    {
+      "name": "Woodbridge Township",
+      "entity": "Woodbridge Township",
+      "priority": 7,
+      "urls_to_try": [
+        "https://www.twp.woodbridge.nj.us/207/Purchasing-Department",
+        "https://woodbridgenj.org/purchasing",
+        "https://www.twp.woodbridge.nj.us/bids"
+      ],
+      "expected_rfps": "10+"
+    },
+    {
+      "name": "Lakewood Township",
+      "entity": "Lakewood Township",
+      "priority": 7,
+      "urls_to_try": [
+        "https://www.lakewoodnj.gov/bids",
+        "https://www.lakewoodnj.gov/department/purchasing",
+        "https://lakewoodnj.gov/legal?dept=purchasing"
+      ],
+      "expected_rfps": "10+"
+    },
+    {
+      "name": "Toms River Township",
+      "entity": "Toms River Township",
+      "priority": 7,
+      "urls_to_try": [
+        "https://www.tomsrivernj.gov/departments/purchasing/",
+        "https://tomsrivernj.gov/bids",
+        "https://www.tr.gov/purchasing"
+      ],
+      "expected_rfps": "10+"
+    }
+  ]
+}
