@@ -1,0 +1,14 @@
+website_url,website_name,state,entity_type,entity_name,estimated_platform,priority
+https://www.co.bergen.nj.us/procurement,Bergen County,NJ,county,Bergen County,custom_html,9
+https://cumberlandcountynj.org/procurement,Cumberland County,NJ,county,Cumberland County,custom_html,5
+https://hudsoncountynj.org/procurement,Hudson County,NJ,county,Hudson County,custom_html,9
+https://www.co.monmouth.nj.us/procurement,Monmouth County,NJ,county,Monmouth County,custom_html,8
+https://www.oceancountynj.gov/procurement,Ocean County,NJ,county,Ocean County,custom_html,7
+https://edison.gov/procurement,Edison,NJ,city,Edison,custom_html,8
+https://edisonnj.org/procurement,Edison,NJ,city,Edison,custom_html,8
+https://edison.gov/bids,Edison,NJ,city,Edison,custom_html,8
+https://edison.gov/purchasing,Edison,NJ,city,Edison,custom_html,8
+https://piscatawaynj.org/procurement,Piscataway,NJ,city,Piscataway,custom_html,6
+https://www.njtransit.org/bids,NJ Transit,NJ,authority,NJ Transit,custom_html,9
+https://njtransit.org/procurement,NJ Transit,NJ,authority,NJ Transit,custom_html,9
+https://www.co.dutchess.ny.us/procurement,Dutchess County,NY,county,Dutchess County,custom_html,6

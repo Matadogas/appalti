@@ -10,6 +10,10 @@ class Settings(BaseSettings):
     SECRET_KEY: str
     ANTHROPIC_API_KEY: str
 
+    # Google Custom Search API
+    GOOGLE_SEARCH_API_KEY: str = ""
+    GOOGLE_CSE_ID: str = ""
+
     # JWT settings
     ALGORITHM: str = "HS256"
     ACCESS_TOKEN_EXPIRE_MINUTES: int = 60 * 24 * 7  # 1 week
