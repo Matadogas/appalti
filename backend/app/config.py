@@ -14,6 +14,9 @@ class Settings(BaseSettings):
     GOOGLE_SEARCH_API_KEY: str = ""
     GOOGLE_CSE_ID: str = ""
 
+    # Bing Search API
+    BING_SEARCH_API_KEY: str = ""
+
     # JWT settings
     ALGORITHM: str = "HS256"
     ACCESS_TOKEN_EXPIRE_MINUTES: int = 60 * 24 * 7  # 1 week
