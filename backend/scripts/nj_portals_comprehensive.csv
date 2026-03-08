@@ -1,0 +1,19 @@
+name,entity_type,priority,url,title,rfp_count_estimate,has_construction,procurement_score,construction_score,description
+State of New Jersey - Division of Purchase & Property,state,10,https://www.njstart.gov/bso/,NJSTART - /view/login/login.xhtml,0,False,44,0,
+State of New Jersey - Division of Purchase & Property - supplier activities,state,10,https://www.njstart.gov/bso/#supplier-activities,NJSTART - /view/login/login.xhtml,0,False,44,0,
+Paterson - bid opportunities & public auc,city,8,https://www.patersonnj.gov/egov/apps/document/center.egov?fDD=14-49&fCS=&path=browse,Document Center / Browse Documents / New Jersey,25,True,10,3,The official website of the City of Paterson New Jersey
+Edison,city,8,https://www.edisonnj.org/bids,"404. The page/URL requested wasn't found on this page.""404 .Page/URL Not Found""",0,True,4,3,
+Edison,city,8,https://www.edisonnj.org/purchasing,"404. The page/URL requested wasn't found on this page.""404 .Page/URL Not Found""",0,True,4,3,
+Paterson,city,8,https://www.patersonnj.gov/department/division.php?structureid=57,"Purchasing / Paterson, New Jersey",0,True,25,2,"The official website of City of Paterson, New Jersey"
+Edison - vendor opportunities,city,8,https://www.edisonnj.org/how_do_i/how_to_access_edison_government_for_business/vendor_opportunities/index.php,Vendor Opportunities,0,True,21,3,
+Edison - purchasing,city,8,https://www.edisonnj.org/departments/purchasing/index.php,Purchasing Division,0,True,15,3,
+Paterson - purchasing,city,8,https://www.patersonnj.gov/department/division.php?structureid=57,"Purchasing / Paterson, New Jersey",0,True,25,2,"The official website of City of Paterson, New Jersey"
+Monmouth County,county,8,https://www.visitmonmouth.com/page.aspx?Id=1590,Tax Board Veterans Tax Deduction,0,False,2,0,Information on Monmouth County Veterans Tax Deduction
+Monmouth County,county,8,https://www.co.monmouth.nj.us/page.aspx?Id=1590,Tax Board Veterans Tax Deduction,0,False,2,0,Information on Monmouth County Veterans Tax Deduction
+Monmouth County - competitive bidding,county,8,https://www.visitmonmouth.com/page.aspx?ID=851,Government Competitive Bidding,0,False,17,0,Information on Monmouth County Competitive Bidding 
+Monmouth County - competitive bidding,county,8,https://www.co.monmouth.nj.us/page.aspx?ID=851,Government Competitive Bidding,0,False,17,0,Information on Monmouth County Competitive Bidding 
+Lakewood,city,7,https://www.lakewoodnj.gov/department/purchasing,Purchasing Department : Township of Lakewood,0,True,55,7,
+Lakewood,city,7,https://www.lakewoodnj.gov/department/purchasing,Purchasing Department : Township of Lakewood,0,True,55,7,
+Lakewood - bids & rfps,city,7,https://www.lakewoodnj.gov/bids,Bids & RFPs : Township of Lakewood,0,True,9,3,
+Lakewood - view all,city,7,https://www.lakewoodnj.gov/legal?dept=purchasing,Legal Notices : Township of Lakewood,0,True,123,14,
+Lakewood - view all,city,7,https://www.lakewoodnj.gov/legal?dept=purchasing,Legal Notices : Township of Lakewood,0,True,123,14,

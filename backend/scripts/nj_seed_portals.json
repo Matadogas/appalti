@@ -1,0 +1,210 @@
+{
+  "major_portals": [
+    {
+      "name": "State of New Jersey - Division of Purchase & Property",
+      "url": "https://www.njstart.gov/bso/",
+      "type": "state",
+      "priority": 10
+    },
+    {
+      "name": "NJ Transit",
+      "url": "https://www.njtransit.com/business-center/solicitations",
+      "type": "authority",
+      "priority": 10
+    },
+    {
+      "name": "Port Authority of NY & NJ",
+      "url": "https://www.panynj.gov/port-authority/en/business-opportunities/solicitations.html",
+      "type": "authority",
+      "priority": 10
+    },
+    {
+      "name": "NJ Turnpike Authority",
+      "url": "https://www.njta.com/business-opportunities",
+      "type": "authority",
+      "priority": 9
+    },
+    {
+      "name": "NJ Schools Development Authority",
+      "url": "https://www.njsda.gov/business/procurement",
+      "type": "authority",
+      "priority": 9
+    },
+    {
+      "name": "NJ Economic Development Authority",
+      "url": "https://www.njeda.com/about/procurement/",
+      "type": "authority",
+      "priority": 8
+    }
+  ],
+  "county_patterns": [
+    {
+      "county": "Bergen",
+      "urls": [
+        "https://www.co.bergen.nj.us/procurement",
+        "https://www.co.bergen.nj.us/departments/purchasing"
+      ],
+      "priority": 9
+    },
+    {
+      "county": "Essex",
+      "urls": [
+        "https://www.essexcountynj.org/purchasing",
+        "https://www.essexcountynj.org/procurement"
+      ],
+      "priority": 9
+    },
+    {
+      "county": "Hudson",
+      "urls": [
+        "https://www.hudsoncountynj.org/procurement",
+        "https://www.hudsoncountynj.org/purchasing"
+      ],
+      "priority": 9
+    },
+    {
+      "county": "Middlesex",
+      "urls": [
+        "https://www.co.middlesex.nj.us/Government/Departments/PSB/Pages/default.aspx",
+        "https://www.middlesexcountynj.gov/purchasing"
+      ],
+      "priority": 9
+    },
+    {
+      "county": "Monmouth",
+      "urls": [
+        "https://www.co.monmouth.nj.us/page.aspx?Id=1590",
+        "https://www.visitmonmouth.com/page.aspx?Id=1590"
+      ],
+      "priority": 8
+    },
+    {
+      "county": "Morris",
+      "urls": [
+        "https://www.morriscount ynj.gov/Departments/Purchasing",
+        "https://www.morriscountynj.org/purchasing"
+      ],
+      "priority": 8
+    },
+    {
+      "county": "Ocean",
+      "urls": [
+        "https://www.oceancountygov.com/oc/purchasing",
+        "https://www.oceancountynj.gov/pages/procurement"
+      ],
+      "priority": 7
+    },
+    {
+      "county": "Passaic",
+      "urls": [
+        "https://www.passaiccountynj.org/government/purchasing/",
+        "https://www.passaiccountynj.org/procurement"
+      ],
+      "priority": 8
+    },
+    {
+      "county": "Union",
+      "urls": [
+        "https://ucnj.org/procurement/",
+        "https://www.ucnj.org/government/purchasing/"
+      ],
+      "priority": 8
+    }
+  ],
+  "major_cities": [
+    {
+      "city": "Newark",
+      "urls": [
+        "https://www.newarknj.gov/departments/finance/purchasing",
+        "https://www.ci.newark.nj.us/departments/purchasing"
+      ],
+      "priority": 10
+    },
+    {
+      "city": "Jersey City",
+      "urls": [
+        "https://www.jerseycitynj.gov/cityhall/purchasing",
+        "https://www.cityofjerseycity.com/purchasing"
+      ],
+      "priority": 9
+    },
+    {
+      "city": "Paterson",
+      "urls": [
+        "https://www.patersonnj.gov/purchasing",
+        "https://www.patersonnjgov.com/bids"
+      ],
+      "priority": 8
+    },
+    {
+      "city": "Elizabeth",
+      "urls": [
+        "https://www.elizabethnj.org/departments/purchasing",
+        "https://www.elizabethnj.org/bids"
+      ],
+      "priority": 8
+    },
+    {
+      "city": "Edison",
+      "urls": [
+        "https://www.edisonnj.org/purchasing",
+        "https://www.edisonnj.org/bids"
+      ],
+      "priority": 8
+    },
+    {
+      "city": "Woodbridge",
+      "urls": [
+        "https://www.twp.woodbridge.nj.us/departments/purchasing",
+        "https://www.woodbridgenj.org/purchasing"
+      ],
+      "priority": 7
+    },
+    {
+      "city": "Lakewood",
+      "urls": [
+        "https://www.lakewoodnj.gov/purchasing",
+        "https://www.twp.lakewood.nj.us/purchasing"
+      ],
+      "priority": 7
+    },
+    {
+      "city": "Toms River",
+      "urls": [
+        "https://www.tomsrivernj.gov/purchasing",
+        "https://www.tr.gov/purchasing"
+      ],
+      "priority": 7
+    }
+  ],
+  "third_party_platforms": [
+    {
+      "platform": "Bonfire",
+      "search_pattern": "*.bonfirehub.com",
+      "note": "Many NJ entities use Bonfire"
+    },
+    {
+      "platform": "BidNet",
+      "search_pattern": "*.bidnetdirect.com/newjersey",
+      "note": "BidNet Direct for NJ"
+    },
+    {
+      "platform": "DemandStar",
+      "search_pattern": "*.demandstar.com",
+      "note": "Used by many NJ municipalities"
+    },
+    {
+      "platform": "QuestCDN",
+      "search_pattern": "*.questcdn.com",
+      "note": "Construction project bidding"
+    }
+  ],
+  "discovery_strategies": [
+    "Check NJ League of Municipalities directory",
+    "Search NJ.gov for 'procurement opportunities'",
+    "Find county purchasing directories",
+    "Check NJ Association of Counties members",
+    "Look for shared services procurement",
+    "Find education services commission bids"
+  ]
+}
